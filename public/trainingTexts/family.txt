@@ -1,0 +1,667 @@
+Case No: B2/2015/0154\t
+Neutral Citation Number: \t[2015] EWCA Civ 1152\t
+IN THE COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE CENTRAL LONDON COUNTY COURT
+DISTRICT JUDGE JACKSON
+3CL10395\t
+Royal Courts of Justice\t
+Strand, London, WC2A 2LL\t
+Date: 17/11/2015\t
+Before :\t \t
+LORD JUSTICE JACKSON\t \t
+LORD JUSTICE TOMLINSON\t \t
+and\t \t
+LADY JUSTICE KING\t \t
+- - - - - - - - - - - - - - - - - - - - -\t
+Between :\t \t
+SHARON MINKIN\t \tAppellant\t \t
+- and -\t \t
+LESLEY LANDSBERG (PRACTISING AS BARNET FAMILY LAW) \tRespondent/
+Defendant\t \t
+- - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - -\t
+Mr Simon Sugar \t(instructed by\t Simons, Levine & Co\t) for the\t Appellant/Claimant\t
+Miss Jacqueline Simpson\t (instructed by \tMills & Reeve LLP\t) for the \tRespondent/Defendant \t
+Hearing date: 13\tth\t October 2015\t
+- - - - - - - - - - - - - - - - - - - - -\t
+Judgment
+Lord Justice Jackson:\t \t
+1.
+This judgment is in seven parts, namely:\t
+Part 1. Introduction\tParagraphs 2 to 5 \t
+Part 2. The facts\tParagraphs 6 to 21\t
+Part 3. The present proceedings \tParagraphs 22 to 28\t
+Part 4. The appeal to the Court of Appeal \tParagraphs 29 to 31\t
+Part 5. What was the extent of the solicitor’s duty to advise?\tParagraphs 32 to 49\t
+Part 6. Decision\tParagraphs 50 to 58
+
+Part 7. Executive summary and conclusion\tParagraphs 59 to 63\t
+Part 1. Introduction\t \t
+2.
+This is an appeal by the claimant in a solicitor’s negligence action against the dismissal of her claim
+on liability. The central issue in this appeal is whether the solicitor’s duties were limited to the extent
+that the defendant alleged and the judge has held.
+3.
+The defendant solicitor in this case was instructed to put into an acceptable form the terms of a
+consent order agreed between the husband and the wife following divorce. Although the underlying
+matrimonial proceedings were in progress at a time when legal aid was available, the issues thrown
+up by this case have now assumed wider importance. That is because legal aid is no longer available
+for divorcing couples seeking to resolve their financial disputes. As King LJ explains in her judgment,
+it is now commonplace for the parties to negotiate their own agreements and then to instruct
+solicitors for limited purposes, such as drawing up a consent order for the court’s approval under
+section 25 of the Matrimonial Causes Act 1973. Therefore it is now often the case in the matrimonial
+context that solicitors undertake a limited retainer of the kind which is in issue in the present case.
+4.
+The claimant in this action is Mrs Sharon Minkin. Her ex-husband is Mr Gary Minkin. When
+summarising the matrimonial proceedings, I shall refer to the parties as the husband and the wife.
+When discussing the professional negligence action, I shall refer to Mrs Minkin as the claimant. The
+defendant solicitor is Ms Lesley Landsberg, who practises as Barnet Family Law.
+5.
+After these introductory remarks I must now turn to the facts.
+Part 2. The facts\t \t
+6.
+The husband and the wife were married on 1\tst September 1991. The husband was a financial advisor,\t
+who set up his own business, Consolidated Financial Management Limited. The wife was an
+accountant, who assisted in the husband’s business. They had three children. In later years they lived
+at 50 Moffats Lane, Brookmans Park, Hertfordshire (“the house”).
+7.
+There were problems in the marriage and the parties decided to divorce. They effectively separated
+on 11\tth\t November 2007, although they remained living in the same house. \t
+8.
+Following the filing of a divorce petition, the husband and the wife entered into discussions about the
+financial position. Their main assets were the house, a flat in Spain and the husband’s business.
+9.
+Early in 2009 the husband and the wife reached agreement as to the division of their assets and their
+future financial arrangements. They recorded this agreement in a home made document headed
+“Minutes of Agreement to Consent to an Order”. In essence they agreed that:
+i)
+
+The house would be sold and, after discharging various debts, the proceeds would be divided 67% to
+the wife and 33% to the husband.
+ii)
+The husband would have the Spanish flat.
+iii)
+The husband would pay to the wife £800 per month for the maintenance of the children.
+iv)
+The husband would pay £300 per month maintenance for the wife.
+10.
+The wife then had second thoughts about this agreement and she sought the advice of Tilley and Co
+(“Tilley”), a firm of solicitors practising in St Albans. In early February 2009, the wife had a meeting
+with Tilley to discuss the issues. On 12\tth\t February 2009, Tilley wrote to the wife setting out the terms\t
+on which they were willing to continue acting for her. In the first part of that letter they wrote: \t
+“On a preliminary review of the settlement proposals it does not seem to be a
+satisfactory offer but would need further disclosure to back this advice up.
+I advised you that if you felt comfortable with the offer and felt that it was a good deal
+then you could of course accept it. However, the other options available to you are:
+(a) dealing with this matter through mediation without the advice of solicitors; and
+(b) negotiations through solicitors without any disclosure;
+(c) an application to the court with the requirement for full and frank disclosure before a
+settlement could be reached.”\t
+11.
+The husband was annoyed that the wife had been having second thoughts about the financial
+arrangements. There seems to have been an incident between them. On 23\trd\t February 2009 Tilley\t
+wrote to Tynan Solicitors (“Tynan”), who were acting for the husband as follows:\t
+“Our client is extremely distressed about your client’s recent behaviour towards her and
+the children. Our client states that your client is bullying her and has threatened her that
+if she does not settle the financial matters regarding the divorce he will make her life
+unbearable.
+Given that the parties cannot live within the same house amicably and that Mrs Minkin
+cannot leave her children, we ask that your client move out of the former matrimonial
+home temporarily until the matrimonial assets can be divided fairly.
+Mrs Minkin informs us that she has signed a consent order but that this was done under
+duress. Mrs Minkin withdraws her consent to the order as drawn up by your selves. We
+
+ask that you send a copy of the letter to the Court immediately. We have instead been
+instructed to issue Ancillary Relief proceedings.”\t
+Tilley sent a copy of that letter to their client, the wife.
+12.
+Despite the incident between them, the husband and the wife presented their draft consent order to
+the court for approval. At a hearing in the Barnet County Court on 4\tth\t March 2009, Deputy District\t
+Judge Maunder refused to approve the consent order. In particular, he required the order to set out
+details of the husband’s debts which were to be repaid out of the proceeds of sale of the house. The
+court adjourned the approval hearing to 7\tth\t April 2009. \t
+13.
+Following the hearing on 4\tth\t March, the wife consulted an organisation called Jewish Women’s\t
+Refuge. On their advice she made an appointment to see the defendant.
+14.
+At a meeting on 9\tth\t March 2009, the claimant outlined the matters which had been agreed and asked\t
+the defendant to put the consent order into proper form, so that it could be approved by the court.
+The defendant accepted those instructions.
+15.
+Later on the same day, the defendant sent two letters to the claimant. In the first letter, the defendant
+explained that she was acting under the “Legal Help Scheme”. That was a legal aid scheme in 2009
+under which the costs of one meeting and a modest amount of work were covered. In the second
+letter dated 9\tth\t March 2009, the defendant confirmed the client’s instructions. She then stated: \t
+“My Advice
+On the basis of the information given to me, I advised you that the Order as currently
+drafted would need amending to show that the sale of the former matrimonial home is to
+be postponed and that the property is to be let for 12 months.
+There are other amendments that will have to be made as the recitals do not match the
+order in so far as in the recitals, the first part of the order; it states how the net proceeds
+of sale are to be applied however they are different from the body of the order. To that
+end I have written to Gary, copy enclosed, requesting full details of the creditors.
+Other amendments include the chattels for both the former matrimonial home and the
+Spanish property and an amendment so that the spousal maintenance continues even in
+the event of Gary’s death so that such payments are to be met from his estate.
+I raised concerns that if Gary were to reside in America it would be difficult for you to
+enforce the order as you would have to have the order registered in the US and would
+have to instigate enforcement proceedings there. Such proceedings would be costly and
+unlikely to succeed as he would suggest that his circumstances have changed.
+Action to be taken
+
+I have written to Gary seeking further information. Upon receipt of the Information I
+shall re-draft the order for your approval. In the meantime I should be obliged if you
+would kindly let me know whether you have completed/or signed a Statement of
+Information for a Consent Order. ”\t
+16.
+On 10\tth\t March 2009, the claimant replied. She confirmed that the defendant had correctly understood\t
+her instructions. She raised a number of points about the consent order. In the penultimate paragraph
+she wrote: \t
+“I know the risks for maintenance if Gary is overseas but I don’t think he will agree to
+capitalise my maintenance and I just want to bring this all to an end as swiftly as
+possible.”\t
+17.
+Thereafter the defendant corresponded with Tynan. The two firms of solicitors drew up a consent
+order, which (a) embodied the matters agreed between the husband and the wife and (b) was in a
+form likely to be approved by the court. The draft consent order was filed at court in late March 2009.
+18.
+In early April 2009, Tilley, who had ceased acting for the claimant, sent their file to the defendant. The
+file arrived on 6\tth\t April 2009. \t
+19.
+On 7\tth\t April 2009 the husband and the wife attended at the County Court without solicitors on either\t
+side. The court approved the draft consent order and made a formal order in those terms.
+20.
+Subsequently endless problems arose. There was much litigation between the husband and the wife. I
+need not go through that saga. It is all set out in the judgment below, but the details are not relevant
+to the present appeal.
+21.
+The claimant came to regret having entered into the consent order. She blamed the defendant for her
+advice or lack of advice, which had resulted in the consent order being made. In those circumstances,
+the claimant commenced the present proceedings.
+Part 3. The present proceedings\t \t
+22.
+By a claim form issued in the Barnet County Court on 21\tst October 2011, Mrs Minkin claimed\t
+damages for professional negligence against Ms Landsberg practising as Barnet Family Law.
+23.
+The main thrust of the claimant’s case was that the defendant was negligent in the advice that she
+gave and the advice she failed to give during the period leading up to the consent order. If the
+defendant had given competent advice, the claimant would not have submitted to the consent order
+dated 7\tth\t April 2009. Instead she would have obtained a much more favourable outcome of her claim\t
+for financial relief and property adjustment.
+24.
+
+The claimant also made complaint about the defendant’s conduct of the subsequent litigation, as a
+result of which certain costs orders were made against the claimant.
+25.
+A central issue in the case was the scope of the defendant’s retainer. The defendant’s case was that
+this was strictly limited. The defendant set out her recollection of what was agreed on 9\tth\t March 2009\t
+in paragraph 15 of her witness statement as follows: \t
+“The Claimant instructed me to complete the draft order to add missing information in
+relation to the debts owed by her and Gary Minkin, the contents of the former
+matrimonial home and a property in Spain and their agreement to postpone the sale of
+the former matrimonial home for 12 months, during which time it was to be let out. She
+informed me that she had been advised by Tilley & Co in relation to her financial position
+and entitlement to ancillary relief. I was led to believe by the Claimant that the
+agreement which had been reached with Gary Minkin reflected all that had been
+discussed between them and the advice of Tilley & Co. As a result, I was required only to
+redraft the poorly drafted order, that I was led to believe had been approved by the court
+but for the poor drafting, to reflect that which had already been agreed and include
+missing information to the extent necessary for the approval of the court to be obtained.
+For the avoidance of doubt, I was not instructed to advise on the contents of the Minutes
+or the merits of the agreement already reached. I would not have been able to give any
+advice in any event as I did not have a full picture of the parties’ financial resources. Mrs
+Minkin did not provide me with any documents relating to the parties’ respective
+financial resources and did not \tat any time\t seek advice as to the agreed settlement.”\t
+26.
+The action came to trial on 4\tth\t November 2014 before District Judge Jackson. The trial lasted four\t
+days. The claimant appeared in person. Counsel, Miss Jacqueline Simpson, appeared for the
+defendant. Both the claimant and the defendant gave oral evidence and were subject to cross-
+examination. The defendant also called expert evidence as to the valuation of the husband’s business.
+27.
+The judge delivered judgment orally on Friday 7\tth\t November 2014 after the completion of closing\t
+submissions. The judge dismissed the claimant’s claim. I would summarise her findings and reasoning
+as follows:
+i)
+The defendant acted under a limited retainer, namely to embody the matters agreed between the
+husband and the wife in a consent order which the court would approve.
+ii)
+The claimant’s instructions to the defendant required her to finalise the consent order swiftly before
+the husband departed to America.
+iii)
+The claimant did not on any occasion before 7\tth\t April 2009 tell the defendant that she had agreed to\t
+the terms of the draft consent order under duress from her husband or that she wanted to resile from
+what she had agreed.
+iv)
+
+The defendant received Tilley’s file on 6\tth\t April 2009. That file contained Tilley’s letter dated 23\trd\t
+February 2009. This was the first intimation sent to the defendant of the claimant’s wish to resile from
+the agreement. The defendant did not read through Tilley’s file on the day when it arrived.
+v)
+The claimant was an intelligent woman, who knew her own mind and understood the legal issues. She
+did not appear to be subservient to the husband.
+vi)
+The defendant performed her duties under the retainer. She was not under a duty to advise on the
+merits of the agreement reached between the husband and the wife.
+vii)
+If the defendant was negligent, the claimant’s claim would have failed because the damages claimed
+were speculative.
+viii)
+The defendant handled the litigation after March 2009 competently. She was not responsible for the
+costs orders which the court made against the claimant.
+28.
+The claimant is aggrieved by the judge’s decision, accordingly she appeals to the Court of Appeal.
+Part 4. The Appeal to the Court of Appeal\t \t
+29.
+By an amended notice of appeal, the claimant appeals against the judge’s decisions on breach of duty
+and causation of loss. The essence of the claimant’s appeal is that the defendant’s retainer was not
+limited to the extent that the judge held. The defendant was under a duty to give broader advice and
+she did not perform that duty. Accordingly the Court of Appeal should set aside the judge’s decision
+on breach of duty. The Court of Appeal should remit the case to the County Court to determine the
+issues of causation and damages.
+30.
+The defendant’s case on appeal is that the judge’s decision on breach of duty was correct. If the judge
+was wrong, however, the defendant accepts that the judge failed to address the issue of causation. In
+those circumstances, the Court of Appeal should analyse the evidence itself and conclude that the
+claimant could not succeed on causation. In relation to damages, the judge reached the right result,
+but by the wrong route.
+31.
+The central issue in this appeal is the extent of the defendant solicitor’s duty to advise in
+circumstances where the parties had reached agreement and solicitors were being asked to put that
+agreement into proper form for approval by the court. I shall therefore address that issue first.
+Part 5. What was the extent of the solicitor’s duty to advise?\t \t
+32.
+The extent of a solicitor’s duty to his/her client is determined by his/her retainer. The starting point in
+every case is to ascertain what the client engaged the solicitor to do or to advise upon.
+33.
+
+The classic formulation of this principle is to be found in \tMidland Bank Trust Co Limited v Hett,\t
+Stubbs and Kemp (a firm) \t[1979] 1 Ch 384, a case concerning solicitors’ liability for failure to register\t
+an option. At 402 to 403 Oliver J said: \t
+“The extent of his duties depends upon the terms and limits of that retainer and any duty
+of care to be implied must be related to what he is instructed to do.
+Now no doubt the duties owed by a solicitor to his client are high, in the sense that he
+holds himself out as practising a highly skilled and exacting profession, but I think that
+the court must beware of imposing upon solicitors - or upon professional men in other
+spheres - duties which go beyond the scope of what they are requested and undertake to
+do. It may be that a particularly meticulous and conscientious practitioner would, in his
+client's general interests, take it upon himself to pursue a line of inquiry beyond the
+strict limits comprehended by his instructions. But that is not the test. The test is what
+the reasonably competent practitioner would do having regard to the standards normally
+adopted in his profession, and cases such as \tDuchess of Argyll v. Beuselinck \t[1972] 2\t
+Lloyd's Rep 172;\t Griffiths v. Evans \t[1953] 1\t W.L.R 1424\t and \tHall v Meyrick\t [1975] 2 Q.B.\t
+455 demonstrate that the duty is directly related to the confines of the retainer.”\t
+34.
+In \tCarradine Properties Limited v DJ Freeman & Co \t[1955-1995] PNLR 12, the plaintiffs engaged\t
+contractors to demolish a building in Clacton. The contractors damaged an adjoining property,
+thereby exposing the plaintiffs to liability. The plaintiffs instructed the defendant solicitors to make a
+claim against the contractors and, subsequently, to consider making a claim against the estate agents
+who had selected those contractors. The plaintiffs did not inform the defendants that they themselves
+had an insurance policy covering the incident and they did not ask the defendants to consider the
+plaintiffs’ insurance position. Thompson J held that the defendants were not negligent in failing to
+think of the point themselves and to proffer advice upon it. The Court of Appeal upheld this decision.
+Lord Denning MR attached importance to the fact that the plaintiffs’ managing director was very
+experienced in insurance matters. At 12-13, Donaldson LJ said that the precise scope of the duty to
+advise would depend \tinter alia\t upon the extent to which the client appeared to need advice. He\t
+continued: \t
+“An inexperienced client will need and will be entitled to expect the solicitor to take a
+much broader view of the scope of his retainer and of his duties than will be the case
+with an experienced client.”\t
+35.
+In \tHurlingham Estates Limited v Wilde & Partners \t[1997] 1 Lloyd’s Law Reports 525, the defendant\t
+solicitors acted for the plaintiff in the purchase of (a) shares in a company called ALM and (b) the
+lease of the shop where ALM carried on business. The transaction was structured in such a way that
+the plaintiff incurred a tax charge of £69,455. Lightman J held that the defendants were liable for
+failing to advise the plaintiff how to structure the transaction so as to avoid the tax charge. He
+rejected the defence that the defendants had limited the scope of their duties by agreement. At 526
+Lightman J said:
+
+“The second remarkable feature is that there is no written record of the alleged (but
+disputed) agreement to limit the solicitors' duties. Any such agreement must plainly, if it
+is to have any legal effect, be clear and unambiguous: the client must be fully informed
+as to the limited reliance he may place on his solicitor and the reason for it (i.e. the
+solicitor's lack of any basic knowledge or competence), that this limitation is not a
+normal term of a solicitor's engagement, and that the client may be better advised to go
+to another solicitor who is not so handicapped and can be retained with no such
+limitation on his duties. Common sense requires that all these matters should also be
+recorded in an attendance note of the meeting where they are discussed and agreed, and
+should subsequently be recorded in a letter to the client.\t”\t
+36.
+In \tNational Home Loans Corporation PLC v Giffen Couch & Archer\t [1998] 1 WLR 207, the plaintiff, a\t
+mortgage lender, instructed the borrower’s solicitors to investigate title, to report on the plaintiff ’s
+printed form and to carry out a bankruptcy search. The defendants complied with those instructions.
+They did not, however, notify the plaintiff about the borrower’s existing arrears or the threat of legal
+proceedings. The trial judge held that the defendants were liable for breach of duty and awarded
+damages of £78,192. The Court of Appeal reversed that decision, holding that the defendants
+complied with their instructions and correctly answered all the questions on the plaintiff ’s printed
+form. Peter Gibson LJ (with whom Hobhouse and Leggatt LJJ agreed) applied the principles stated in
+Midland Bank\t and \tCarradine Properties. \tHe took into account that the plaintiff was an experienced\t
+commercial lender, which had specified the particular matters about which it required to be advised.
+37.
+In \tCredit Lyonnais SA v Russell Jones & Walker (a firm) \t[2002] EWHC 1310 (Ch); [2002] All ER (D) 19,\t
+the claimant instructed solicitors in relation to the exercise of a break option contained in a lease. The
+solicitors gave correct advice about the service of the notice, but failed to advise about the
+requirement to pay £11,500. As a result of the claimant’s non-payment, the landlord declined to
+accept premature termination and the claimant had to buy its way out of the lease. Laddie J held that
+the solicitors were liable for breach of duty. He reviewed the authorities in this field including some
+well known cases which I have not traversed in this judgment. Laddie J summarised the principles at
+[28] in a passage with which I respectfully agree: \t
+“A solicitor is not a general insurer against his client's legal problems, His duties are
+defined by the terms of the agreed retainer. This is the normal case although \tWhite v\t
+Jones\t [1995] 2 A.C. 207 suggests that obligations may occasionally arise outside the\t
+terms of the retainer or where there is no retainer at all. Ignoring such exceptions, the
+solicitor only has to expend time and effort in what he has been engaged to do and for
+which the client has agreed to pay. He is under no general obligation to expend time and
+effort on issues outside the retainer. However if, in the course of doing that for which he
+is retained, he becomes aware of a risk or a potential risk to the client, it is his duty to
+inform the client. In doing that he is neither going beyond the scope of his instructions
+nor is he doing “extra” work for which he is not to be paid. He is simply reporting back to
+the client on issues of concern which he learns of as a result of, and in the course of,
+carrying out his express instructions.”\t
+38.
+Let me now stand back from the authorities and summarise the relevant principles:
+
+i)
+A solicitor’s contractual duty is to carry out the tasks which the client has instructed and the solicitor
+has agreed to undertake.
+ii)
+It is implicit in the solicitor’s retainer that he/she will proffer advice which is reasonably incidental to
+the work that he/she is carrying out.
+iii)
+In determining what advice is reasonably incidental, it is necessary to have regard to all the
+circumstances of the case, including the character and experience of the client.
+iv)
+In relation to (iii), it is not possible to give definitive guidance, but one can give fairly bland
+illustrations. An experienced businessman will not wish to pay for being told that which he/she
+already knows. An impoverished client will not wish to pay for advice which he/she cannot afford. An
+inexperienced client will expect to be warned of risks which are (or should be) apparent to the
+solicitor but not to the client.
+v)
+The solicitor and client may, by agreement, limit the duties which would otherwise form part of the
+solicitor’s retainer. As a matter of good practice the solicitor should confirm such agreement in
+writing. If the solicitor does not do so, the court may not accept that any such restriction was agreed.
+39.
+In respect of proposition (v), I am somewhat more cautious in my formulation of the principle than
+was Lightman J in \tHurlingham\t. The passage which I have quoted from \tHurlingham\t certainly reflects\t
+good practice in appropriate cases, but I doubt that it embodies any universally applicable rule of law.
+There are many situations in which the client cannot afford to pay for all the relevant research and
+advice that the solicitor would be competent to provide. In those situations the choice may be
+between a limited retainer or no retainer at all.
+40.
+I turn now from legal principles to the facts of the present case. The claimant and her husband
+negotiated a settlement of their financial disputes. The claimant consulted Tilley and received legal
+advice about the merits of the settlement. Tilley warned the claimant that the husband’s offer did not
+seem satisfactory and advised her of the alternatives. These included negotiation, mediation and
+litigation with full disclosure on both sides. Having received that advice, the claimant decided to
+adhere to the settlement which she had agreed with the husband. Accordingly, after changing
+solicitors, she instructed the defendant to put that agreement into a form which the court would
+approve.
+41.
+It would have been good practice for the defendant expressly to confirm in one of her two letters
+dated 9\tth\t March 2009 the limited nature of her retainer. She did not do so and that was contrary to\t
+good practice. The fact remains, however, that the judge, having heard the oral evidence of both
+parties concerning the crucial meeting on 9\tth\t March, accepted the limited nature of the claimant’s\t
+instructions to the defendant. This court cannot go behind that finding of fact.
+42.
+
+Mr Simon Sugar, for the claimant, submits that despite the limited nature of the retainer the
+defendant should have warned the claimant of the following matters:
+i)
+The defendant was not advising the claimant about the merits of the agreement.
+ii)
+The agreement may be unfair.
+iii)
+There had been no investigation of the husband’s means and assets.
+43.
+The question arises, therefore whether, in all the circumstances of this case, the giving of such advice
+was reasonably incidental to the work which the defendant was carrying out under the retainer. I
+conclude that it was not for four reasons:
+i)
+As Miss Jacqueline Simpson for the defendant submits, all of those matters were obvious to the
+claimant.
+ii)
+The claimant was an intelligent woman who had qualified and practised as a chartered accountant.
+The judge found that the claimant was well versed in the litigation; she understood \tDuxbury\t
+calculations and similar matters. The emails and correspondence in the Court of Appeal bundle amply
+illustrate the claimant’s grasp of the issues and her competence.
+iii)
+The claimant had, to the knowledge of the defendant, already taken legal advice from other solicitors
+about the proposed consent order.
+iv)
+In the claimant’s letter of 10\tth\t March 2009 she rejected the defendant’s warning about the difficulties\t
+of enforcement after the husband had emigrated. She wrote in the terms which I have quoted in
+paragraph 16 above. The claimant made it plain that, despite the risks, she wished to conclude the
+consent order “as swiftly as possible”.
+44.
+Mr Sugar advances a separate argument based upon a reference to the husband’s “bullying”. The
+claimant mentioned this to the defendant as a reason why she was not sleeping at the former
+matrimonial home. Mr Sugar submits that this should have prompted the defendant to inquire
+whether the claimant had agreed to the financial settlement under duress.
+45.
+It is a curious feature of this case that the claimant told Tilley that the husband had coerced her into
+agreement, but on the judge’s findings, she never said anything to the defendant about that aspect.
+Nor, at the meeting on 9\tth\t March, did the claimant show to the defendant Tilley’s letter dated 23\trd\t
+February 2009. Having regard to the matters set out above, I do not think that the defendant should
+have been alerted to ask the claimant about duress. It is clear from paragraph 24 of the judge’s
+judgment that the claimant presented as an articulate and intelligent client, who knew her own mind
+and had reached a considered decision about what she wanted to achieve from the settlement.
+
+46.
+Finally Mr Sugar submits that the position changed on 6\tth\t April 2009 when the defendant received\t
+Tilley’s file. That file contained Tilley’s letter to Tynan dated 23\trd\t February 2009, with its allegation\t
+that the husband used duress to secure the wife’s agreement. Mr Sugar submits that the defendant
+ought to have read the file on the day it came in. The defendant should then have moved swiftly to
+advise the claimant against finalising the consent order on the following day.
+47.
+I cannot accept this argument. By 6\tth\t April the defendant had carried out the work which she had\t
+been instructed to do. There was no obligation upon her immediately to read Tilley’s file. Nothing
+alerted the defendant to the need either to read the file or to intervene before the consent order was
+made on 7\tth\t April.\t
+48.
+In the result I conclude that the defendant was operating under a defined and limited retainer. Her
+task was to re-draft the consent order, so as to set out the matters agreed between husband and wife
+in a form likely to be approved by the court. The defendant did not have a duty to warn the claimant
+about the matters identified by Mr Sugar. She did not have a duty to investigate the question of
+duress. She did not have a duty to read through Tilley’s file on the same day that she received it.
+49.
+Having dealt with the extent of the defendant’s duty, I must now reach a decision on the issues in the
+appeal.
+Part 6. Decision\t \t
+50.
+It is clear from the correspondence and from the judge’s findings of fact that the defendant carried
+out the work which the claimant instructed her to undertake. She put the matters agreed between the
+husband and the wife into proper form. The court duly approved the draft consent order.
+51.
+The defendant did not give to the claimant the warnings which Mr Sugar identified in the course of his
+submissions. She did not investigate the issue of duress and she did not read Tilley’s file on the same
+day that it came in. In my view, the defendant was acting under a limited retainer and she was not
+under a duty to take any of those steps.
+52.
+I would therefore uphold the judge’s decision on liability and dismiss the claimant’s appeal on that
+basis.
+53.
+If I am wrong in that regard, the issue of causation arises. The judge made no decision on causation,
+as both counsel have pointed out.
+54.
+On the issue of causation Miss Simpson for the defendant submits that the evidence is all one way. Mr
+Sugar accepts that Tilley gave to the claimant the warnings which (on the claimant’s case) the
+defendant should have given. The claimant ignored those warnings. There is no reason to suppose
+that the claimant would have acted differently if the defendant had given the same warnings.
+
+55.
+Counsel have taken us through the transcripts of the evidence. In my view the evidence was not such
+that the judge could have found that the claimant would have acted differently if given the warnings
+previously identified. The claimant had made up her mind (despite Tilley’s warnings) to go through
+with the agreement. Furthermore she wanted the matter to be tied up as swiftly as possible, as stated
+in her letter of 10\tth\t March 2009. In those circumstances the claimant could not succeed on causation\t
+and it would not be appropriate to remit the case to the trial judge on that issue.
+56.
+Finally, I come to quantum of damages. The judge held that the measure of damages was speculative.
+Miss Simpson concedes that that finding was not correct. She accepts that there was evidence before
+the court about the value of the house, the value of the husband’s business and the value of the
+Spanish property. Nevertheless, says Miss Simpson, it is clear from the evidence that the claimant has
+not suffered any loss. Therefore the judge reached the right result by the wrong route.
+57.
+In my view the damages issue is not as clear cut as that. If the claimant were to succeed on breach of
+duty and causation, the proper order would be to remit the case to the County Court to reconsider the
+issue of damages. The County Court would proceed on the basis of the evidence at trial and any
+further evidence which the court permitted the parties to adduce. In the circumstances, however, the
+damages issue does not arise.
+58.
+In the result, therefore, I would dismiss this appeal.
+Part 7. Executive summary and conclusion\t \t
+59.
+Following divorce the claimant, an experienced accountant, negotiated a settlement of all financial
+issues with her former husband. She instructed the defendant solicitor to amend a draft consent
+order, so that it was in a form likely to be approved by the County Court. The defendant carried out
+those instructions.
+60.
+The claimant subsequently had cause to regret the consent order to which she had submitted. She
+made a claim for professional negligence on the basis that the defendant failed to advise or warn her
+against entering into the consent order. The district judge dismissed the claimant’s claim on the basis
+that the retainer was limited and the defendant was under no duty to give such advice or warnings.
+61.
+The claimant now appeals to this court. In my view, on the judge’s findings of fact, the defendant was
+working under a limited retainer. The defendant was not under a duty to give the broader advice or
+warnings for which the claimant now contends. Also, on the basis of the evidence at trial, the claimant
+could not succeed on causation.
+62.
+Before parting with this case I wish to express my thanks to counsel. Both Mr Sugar and Miss
+Simpson presented their arguments clearly and concisely. They thereby assisted the court and at the
+same time served the best interests of their respective clients.
+63.
+
+If my Lord and my Lady agree, this appeal will be dismissed.
+Lady Justice King:\t \t
+64.
+I also agree and would dismiss the appeal for the reasons stated by Lord Justice Jackson
+65.
+In March 2009, when the events described by Lord Justice Jackson took place, legal aid was still
+available to parties in ancillary relief, (now financial remedy) cases, subject to a ‘means and merits’
+assessment. Tilleys were therefore able to obtain legal aid for the wife which would have enabled her,
+had she chosen to do so, to act upon the advice given to her by Tilleys in their letter of 12 February
+2009.
+66.
+Legal aid is no longer available in financial remedy cases, no matter the level of hardship caused to
+the protagonists or the complexity of the proceedings. Without becoming embroiled in the effect such
+legislation may have had upon access to justice, what is indisputable is that one of the consequences
+of legal advice not being available to those unable to pay, is that where an unrepresented divorcing
+couple reach an agreement, they are faced with the challenge of producing an order reflecting the
+settlement, the terms of which must be drafted in proper form to be put before a district judge as a
+consent order.
+67.
+Since the hearing of the present appeal, in\t Sharland v Sharland \t[2015] UKSC 60\t; [2015] 3 WLR 1070\t
+paras [19] & [20], the Supreme Court has highlighted the long established position that an agreement
+in a financial remedy cases cannot oust the jurisdiction of the court whilst noting the public policy
+considerations which encourage parties to reach agreements as to the distribution of their assets
+following divorce and the heavy influence such an agreement will have upon the court when asked to
+approve the terms of a consent order.
+68.
+Lady Hale said in \tSharland\t:\t
+“19. Thus it is impossible for the parties to oust the jurisdiction of the
+court………….Furthermore, “the court does not either automatically or invariably grant
+the application to give the bargain [the] force of an order. The court conducts an
+independent assessment to enable it to discharge its statutory function to make such
+orders as reflect the criteria listed in section 25 of the Matrimonial Causes Act 1973 as
+amended”: see \tXydhias v Xydhias \t[1999] 2 All ER 386, per Thorpe LJ at 394. \t
+20. Although the court still has to exercise its statutory role, it will, of course, be heavily
+influenced by what the parties themselves have agreed. Section 33A of the Matrimonial
+Causes Act 1973 as inserted by section 7 of the Matrimonial and Family Proceedings Act
+1984 provides that, notwithstanding the preceding provisions of Part II of the Act (which
+deal with the court’s powers and duties in relation to financial provision and property
+adjustment), on an application for a consent order, “the court may, unless it has reason to
+think that there are other circumstances into which it ought to inquire, make an order in
+the terms agreed on the basis only of the prescribed information furnished with the
+
+application” (and see Family Procedure Rules 2010, rule 9.26). This permits the court to
+make the order in the terms agreed, but does not in any way inhibit its power to make
+further inquiries or to suggest amendments to the parties.”\t
+69.
+The procedure to be followed in order to achieve a binding order in financial remedy cases is to be
+found in \tFamily Proceedings Rules 2010 r9.26\t: Application for Consent Orders for financial remedy.\t
+The rule provides for the filing of a Statement of (financial) Information with the draft order for which
+the court’s approval is sought.\t The parties do not need to attend before the judge unless directed to\t
+do so. The judge retains complete discretion to approve or reject a draft order, or to require a fresh
+draft; alternatively if it is thought necessary, the judge can order a hearing with the parties in
+attendance.
+70.
+The court it follows, is not a rubber stamp, it exercises, as Lady Hale said in \tSharland\t an\t
+“independent assessment to enable it to discharge its statutory function”. The court retains its
+discretion as to whether to approve an order and to make such enquiries as it thinks necessary but
+not to the extent, as it was put by Munby J (as he then was) in \tL v L [2008] 1 FLR 26,\t as “bloodhound\t
+or a ferret”.
+71.
+It may be thought that an agreement having been reached, the subsequent drafting of the order is a
+simple enough task – after all, it might be asked, how hard can it be to write down what has been
+agreed? The answer is “Very hard”. A consent order in financial remedy cases is a complex legal
+document which must deal with all aspects of the parties’ financial lives now and for the future; many
+elements of a financial remedy order apply to every case, no matter how modest or substantial the
+assets may be. To take some examples:
+•
+A pension sharing order is technical and requires a number of annexes to be filed,
+•
+Where the house is to be sold and the proceeds divided, the order must set out with precision what is
+to be deducted from the gross sale price before distribution. If the property is to be transferred to one
+party, provision to release the departing spouse from their covenants under the mortgage need to be
+made and back up arrangements set out in case a release cannot be achieved. What if there is CGT to
+be paid on a property, who is to pay it and what form should any indemnity take?
+•
+Where the wife is to have term maintenance, until, for example, the husband retires, what factors will
+bring the maintenance to an end prior to that date and is the order to be extendable or, pursuant to
+s28(1)A Matrimonial Causes Act 1973\t, not extendable? \t
+•
+If there is a maintenance order, is the \tInheritance (Provision for Family and Dependants) Act 1975\t to\t
+be excluded and if so, who is going to know the precise wording which is required in order to ensure
+that such a critical provision is effective?
+72.
+
+An indication of the problems which can arise is found in the present case; a case where the divorcing
+couple are highly educated and used to dealing with technical and complex concepts and documents,
+and where the husband had legal representation when the proposed consent order was first put
+before the court. The district judge was nevertheless obliged to reject the proposed order (twice), as,
+amongst other defects, the debts to be deducted from the proceeds of sale from the former
+matrimonial home were inadequately identified.
+73.
+The District Judges, more than any other level of the judiciary, are finding their lists are overwhelmed
+as a consequence of the increase in court time taken by each case where (as is now routinely the case)
+the parties appear as litigants in person.
+74.
+Following a contested financial remedy case where there are no lawyers representing the parties, the
+District Judge will draft an order which reflects his or her decision; there is no scope for ambiguity or
+misunderstanding as he or she knows precisely what he wishes to achieve and drafts the order
+accordingly. When however two unrepresented parties come before the judge with an agreement, the
+situation is entirely different. The district judge has neither the time, nor should he or she attempt, to
+interpret the minutiae of the agreement and draft/redraft the proposed consent order. That is not to
+say that he will not correct obvious errors and technical defects, but his task is to approve the order,
+not to sit with the parties and painstakingly work through with them every possible parameter of the
+draft in order to ensure they have considered every angle and future eventuality; to do so runs the
+risk that the judge will be seen to be giving advice or is seeking to interfere or undermine an
+otherwise unimpeachable agreement reached between the parties.
+75.
+In order to address this problem a number of solicitors specialising in matrimonial finance cases now
+offer (as they have in personal injury cases for sometime), bespoke or “unpacked” services whereby
+they will undertake to act for a litigant in person in relation to a discrete part of a case which is
+particularly challenging to a lay person. Most commonly in matrimonial finance cases, this is the
+drafting of the Form E (financial disclosure), or, as here, the drafting of the order. This service is
+invaluable to both courts and litigants alike, saving as it does court time but also stemming the
+increasing number of applications to the courts in relation to the working out of orders which do not
+accurately reflect the true intentions of one or other of the parties.
+76.
+There would be very serious consequences for both the courts and litigants in person generally, if
+solicitors were put in a position that they felt unable to accept instructions to act on a limited retainer
+basis for fear that what they anticipated to be a modest and relatively inexpensive drafting exercise of
+a document (albeit complex to a lay person) may lead to them having imposed upon them a far
+broader duty of care requiring them to consider, and take it upon themselves to advise on aspects of
+the case far beyond that to which they believe themselves to have been instructed.
+77.
+It goes without saying that where a solicitor acts upon a limited retainer, the supporting client care
+letters, attendance notes and formal written retainers must be drafted with considerable care in order
+to reflect the client’s specific instructions. It may well be that with further passage of time, tried and
+tested formulas will be devised and used routinely by practitioners providing such a limited retainer
+service. In the present case the defendant, as identified by Jackson LJ, did not observe best practice
+
+having failed to set out with precision the limits of the retainer in the client care letter.
+Notwithstanding that error, I too am entirely satisfied that the defendant was acting under a limited
+retainer and carried out the work which the claimant had instructed her to undertake.
+Lord Justice Tomlinson:\t \t
+78.
+I agree with both judgments.

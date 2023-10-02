@@ -1,0 +1,1203 @@
+Neutral Citation Number: \t[2015] EWHC 295 (Admin)\t \t
+Case No: CO/5941/2014 & CO/5699/2014 \t
+IN THE HIGH COURT OF JUSTICE
+DIVISIONAL COURT\t \t
+Royal Courts of Justice\t \t
+Strand, London, WC2A 2LL\t \t
+Date: 18/02/2015 \t
+Before\t : \t
+LORD JUSTICE LAWS\t \t
+and\t \t
+MR JUSTICE CRANSTON\t \t
+-\t - - - - - - - - - - - - - - - - - - - - \t
+Between :\t \t
+The Queen on the application of THE LONDON CRIMINAL COURTS
+SOLICITORS ASSOCIATION and THE CRIMINAL LAW SOLICITORS\t
+ASSOCIATION and NELSON GUEST AND PARTNERS \t
+1 st Claimant\t \t
+- and -\t \t
+THE LORD CHANCELLOR\t \tDefendant\t \t
+The Queen on the application of THE LAW SOCIETY\t \t2 nd\t Claimant\t \t
+- and -\t \t
+THE LORD CHANCELLOR\t \tDefendant\t \t
+- - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - \t
+Mr Jason Coppel QC, Mr Christopher Knight and Mr Rupert Paines \t(instructed by \tPayton's\t
+Solicitors (1st claim) & Kingsley Napley\t ) for the \t1st Claimant\t \t
+Ms Dinah Rose QC, Mr Ben Jaffey, and Mr Tristan Jones\t (instructed by \tBindmans\t ) for the \t2nd\t
+Claimant\t \t
+Mr Martin Chamberlain QC, Mr Nicholas Moss and Mr Simon Murray\t (instructed by \tThe\t
+Treasury Solicitor\t ) for the \tThe Lord Chancellor\t \t
+Hearing dates: 15-16 & 19 January 2015 \t
+- - - - - - - - - - - - - - - - - - - - - \t
+Approved Judgment\t
+LORD JUSTICE LAWS:\t \t
+INTRODUCTION\t \t
+1.
+These applications concern proposals by the Lord Chancellor to make profound changes in the market
+for the provision of criminal legal aid services by solicitors. The essence of the policy is the
+introduction of two types of contract to be entered into between his department, through the Legal
+
+Aid Agency (LAA), and the profession: contracts for Own Client Work (OCW) and contracts for Duty
+Provider Work (DPW). OCW consists in cases where the client comes to the solicitor because he
+chooses to engage that firm. DPW consists in casework carried out by solicitors on duty at local police
+stations (and in some circumstances magistrates courts), where they advise and represent persons
+detained or brought there. Under the existing regime some 1600 Standard Crime Contracts are in
+place, under which firms carry out both kinds of work.
+2.
+The Lord Chancellor does not intend to impose any limit on the number of OCW contracts, and some
+1808 such contracts were awarded in June 2014 and are due to be operated from summer 2015. But
+by his decision of 27 November 2014, sought to be challenged in these proceedings, he proposes to
+restrict the number of DPW contracts to 527. Alongside this dual contract system the Lord Chancellor
+introduced a cut in legal aid fees of 8.75% on 20 March 2014, and a further cut of 8.75% is now
+planned for July 2015.
+3.
+There are two sets of proceedings, though their target is the same and the proposed grounds of
+challenge tend to converge. Both are applications for permission to seek judicial review of the
+November 2014 decision. In the first there are four claimants, the London Criminal Courts Solicitors
+Association, the Criminal Law Solicitors Association, Nelson Guest & Partners and Payton’s Solicitors.
+I shall refer to them compendiously as the first claimants. The Law Society is the claimant in the
+second application. The Lord Chancellor is the defendant in both. Directions have been given in both
+claims (by Holroyde J in the first on 19 December 2014 and by Jay J in the second on 22 December
+2014) for an expedited rolled-up hearing of the permission applications with the substantive judicial
+review to follow if permission granted. On 23 December 2014 Jay J ordered that the tender process for
+the DPW contracts should be suspended until after judgment in the proceedings.
+4.
+The principal focus of both claims is the Lord Chancellor’s use, in arriving at his decision, of a Report
+published in February 2014 which he had commissioned from KPMG and which I will describe in
+greater detail. The figure of 527 DPW contracts was derived from a model developed in the KPMG
+Report. The model proceeded on various assumptions. KPMG gave warnings about unknowns and
+uncertainties inherent in the model’s application, in particular as regards the need for investment
+finance that would be required for firms to achieve improved staff efficiency and to restructure or
+consolidate: these were, and are, evolutions seen as essential to the dual contract scheme.
+5.
+The Law Society’s principal complaint, advanced by Miss Dinah Rose QC, is that the Lord Chancellor’s
+adoption of the 527 figure ignores the fact that the KPMG assumptions (especially what may be called
+the “break-even” assumption: see further below) take no account, as KPMG themselves made clear, of
+the cost of the investment finance which would be needed for firms to improve efficiency and
+restructure or consolidate to meet the challenge of the new system; that the Lord Chancellor
+misunderstood (or failed to take into account) what KPMG were saying about investment finance; and
+that since receiving the report he has taken no steps to inform himself of the likely realities, for
+example by obtaining information from financial institutions, against a background in which there was
+substantial evidence that law firms would find it difficult to obtain funds. Miss Rose also submits that
+the Lord Chancellor’s response to the difficulty – a reliance on support packages – is flawed,
+principally in relation to his proposals for interim payments.
+
+6.
+Mr Jason Coppel QC for the first claimants anticipated Miss Rose’s submissions in important respects,
+and advanced a plethora of further complaints. They include the following. The assumptions are
+untested and at least some of them are extremely vulnerable, and therefore an “executable version” of
+the model should have been disclosed to the claimants so that they might test it; the Lord Chancellor’s
+treatment of some 3942 responses to the consultation exercise on KPMG was wholly inadequate; and
+a two-month deadline which was set for the submission of tenders for a DPW contract was unrealistic
+and therefore unfair. There is also a complaint that firms (in particular the third and fourth claimants
+in the first application) will have to give up some of their goodwill to survive under this scheme, and
+that will constitute an unlawful interference with the peaceful enjoyment of their possessions
+guaranteed by Article 1 of the First Protocol to the European Convention on Human Rights (A1P1).
+7.
+Aside from the point on A1P1, the challenge falls under two heads of claim. (1) There is a breach of
+the Lord Chancellor’s duty articulated in \tTameside \t[1977] AC 1014 (\tper \tLord Diplock at 1065) to “ask\t
+himself the right question and take reasonable steps to acquaint himself with the relevant information
+to enable him to answer it correctly”. (2) The decision has been unfairly arrived at and is
+unreasonable. In my view the \tTameside \tchallenge constitutes the substance of the case. Both heads of\t
+claim engage an issue as to the appropriate intensity of judicial review.
+8.
+This is not the first judicial review directed to this policy initiative by the Lord Chancellor. On 27
+February 2014 he issued an earlier decision, to the effect that there would be 525 DPW contracts. The
+first 8.75% cut in criminal legal fees was announced at the same time. The 525 figure, like the later
+527 figure, was based on KPMG’s model. The assumptions on which it proceeded and which were set
+out in the KPMG Report were largely developed by the Ministry of Justice in light of a Report from
+Otterburn Legal Consulting LLP commissioned by the Law Society. KPMG’s Report, together with the
+Otterburn Report, was as I understand it published at the same time as the February decision (it was
+re-issued on 11 March 2014). This earlier decision was challenged before Burnett J, as he then was,
+on the ground that fairness required the Lord Chancellor to disclose the Otterburn and KPMG Reports
+so that representations might be made as to their contents; that had not been done before the
+decision. There was also a challenge to the proposed cut in criminal legal fees. Burnett J rejected the
+latter complaint, but held (with respect, plainly correctly) that the Otterburn and KPMG Reports
+should have been disclosed for consultation. His judgment was given on 19 September 2014 (\t[2014]\t
+EWHC Admin 3020\t). He quashed the Lord Chancellor’s decision of February 2014 to provide for 525\t
+DPW contracts. His account of the background to the case at paragraphs 8 – 31 is very clear and full,
+and should be read with this judgment: I append it with gratitude at Annex A.
+KPMG\t \t
+9.
+Among the welter of documents placed before the court, counsel for the claimants place special
+emphasis on the KPMG Report. In light of their submissions I must set out more of its detail than is
+contained in Burnett J’s narrative. But I will first note these two passages from the Executive
+Summary in the Otterburn Report, which are important background:\t
+“The finances of many crime firms are fragile. Most do not have significant cash reserves
+or high excess bank facilities… [The Solicitors Regulation Authority] found that 5% of
+firms had a high risk of financial difficulty and 45% of firms faced a medium risk.
+
+Generating at least 50% of revenue from legal aid, particularly crime or family, was
+identified as a risk factor…
+“Most firms are dependent on duty contracts for generating fresh work and few would be
+sustainable in the medium term without it…”\t
+10.
+The KPMG report opens with a covering letter to the MoJ which includes this:\t
+“You should note that our findings do not constitute recommendations to you as to
+whether or not you should proceed with any particular course of action.”\t
+11.
+It was a premise of the model developed by KPMG that there would be 62 procurement areas for DPW
+contracts in England and Wales, and a minimum of four such contracts in each area (and one of the
+assumptions was that there would be at least two bidders for each contract). Under the heading
+“Outputs of analysis” the Executive Summary has this (punctuation, or its absence, as in the original): \t
+“Our analysis has been undertaken in two parts, for which the following
+definitions have been developed:
+■ \tSufficient capacity and competition: \tThere are sufficient providers capable of\t
+delivering the required volume of work under the new contracts and for this and at least
+one further contract renewal there is competitive tension in the market
+■ \tViability: \tWinning bidders have a business model that results in a financial\t
+performance that enables them to trade in a sustainable way after the 17.5% fee
+reduction
+There is a trade-off between financial viability and sufficient capacity and
+competition\t \t
+■ The larger the contract size, the greater the economy of scale. Therefore fewer
+contracts improves the viability of successful providers
+■ However larger contracts mean fewer firms in each area have the scale to deliver
+them without market consolidation. Therefore more consolidation is required for a
+competitive market
+…
+It is not clear to what degree the market can or will consolidate\t \t
+■ Based on the data available, it is possible to illustrate the extent of market
+consolidation needed, but not to fully assess the extent to which this level of market
+consolidation can be achieved”
+
+The “trade-off ” between capacity and viability is critical to the development of the model, and hence
+the ascertainment of the number of DPW contracts to be let. It is further explained in the body of the
+Report, under the heading “There is a trade-off between viability and capacity” (p. 28): \t
+“The method described in this section has been developed based upon the data
+available to consider the question:
+For each procurement area, how many contracts should be let in order to create
+a sustainable market at the reduced rates?\t \t
+■ There is a tension between the aims of sufficient capacity, competition and viability.
+The larger the contract, the more profitable a winning firm will be through economies of
+scale. Therefore, fewer contracts improves the viability of winning providers
+■ However, the larger the contracts, the fewer the number of firms in each procurement
+area who have the capacity to be able to deliver them without market consolidation. If
+there are sufficient firms of scale, competitive tension requires there to be more
+providers capable of delivering the contracts than there are contracts to let. Therefore,
+lower value contracts, i.e. a higher number of contracts, means less market consolidation
+is required
+■ In most markets, some degree of market consolidation is required for there to be
+enough providers who have sufficient capacity. The extent of the market consolidation
+required forms the basis of the \t‘capacity challenge’\t
+■ In most markets, firms need to improve staff efficiency to remain financially viable at
+the reduced rates. The extent of this efficiency requirement forms the basis of the
+‘viability challenge’
+■ The method sets out thresholds for both viability and capacity and describes the range
+of number of contracts that are within these thresholds. Where the ranges for viability
+and capacity overlap, the ‘inner range’ is the range of number of contracts which are
+within thresholds for both challenges
+■ Where the ranges do not overlap, the procurement area requires further investigation.
+This involves inspecting the model to identify the range of contracts which provides the
+least challenge for viability and capacity. The level of challenge is then presented for
+further consideration as to its achievability in the context of the specific procurement
+area concerned”\t
+12.
+The assumptions on which the model proceeded are in two groups, one relating to capacity, the other
+to viability. One of the capacity assumptions was that the candidate firm or partnership would give up
+50% of its OCW capacity, or, as it is put by KPMG (p. 32): “[t]he method applied assumes 50% of
+existing own client capacity would be available to deliver new duty provider contracts”. As Burnett J
+said (paragraph 28), this figure was “compromised”; as I understand it KPMG and/or the MoJ split the
+
+difference between rival contentions of 100% and 0%. KPMG lists the sources of most of the
+assumptions. Nearly all the capacity assumptions emerged from “discussions with MoJ”. All the
+assumptions are of course predictive, not hard fact, and in the nature of things some are more likely
+to be right than others. This is not of itself a legal flaw in the exercise. But it underlines the fragility,
+or uncertainty, of the process. That is important, for reasons to which I shall return.
+13.
+An assumption made by KPMG which is especially significant is that a profit margin however small
+will qualify (of course alongside other assumptions) for viability. This is the “break-even” assumption
+to which I have already referred in passing. In argument it has been referred to as the 0.1% profit
+assumption. It is described in KPMG’s list of viability assumptions (p.34) thus:\t
+“If the firm showed a positive profitability under the proposed number of contracts it was
+considered viable” \t
+Then this appears:\t
+“We selected the firm to assess by identifying the smallest firm which had sufficient
+capacity to deliver the proposed duty contract. If this firm was considered viable then all
+larger firms and all firms consolidating to become larger than this were assumed to be at
+least as profitable.” \t
+Another viability assumption which bears on the case is an average improvement of staff cost
+efficiency of 20%.
+14.
+The break-even criterion is plainly critical to the assessment of viability, and therefore to the capacity/
+viability trade-off. As I have indicated it is at the centre of Miss Rose’s argument that the KPMG
+Report makes it clear that the break-even calculation in the model takes no account of the costs of
+improving efficiency and (as Miss Rose put it) “scaling up” – that is, consolidation or merger with
+other firms or practitioners. The Executive Summary in the KPMG Report has a heading “Other
+Considerations” (p. 11):\t
+“A number of barriers to market consolidation exist
+■ There is no data available on the extent to which firms will consolidate. There is some
+qualitative evidence from the Otterburn report which suggests that there are significant
+barriers to mergers of law firms… including:
+– Regulatory requirements
+– Relocation and redundancy costs
+– Integration costs including systems, professional fees and management time
+– Desire of independently minded firms to remain independent
+
+Investment funding may be required in three areas
+To fund increased working capital that would arise as a result of larger contracts
+To fund the investment required to achieve the staff efficiency levels implied by the
+proposed contracts
+– For example, IT spend on digital technologies and virtual working could increase
+productivity and enable greater geographic coverage
+To fund the costs of consolidation as outlined above
+We have not sought to quantify the likely size of this funding although we
+highlight risks to its availability
+■ Otterburn’s survey data indicates that firms have limited cash on their balance sheets
+available for investment
+■ Other studies indicate that the market believes that it will struggle to obtain funding
+from lenders…”
+The need for investment funding in three areas, and the fact that KPMG had not sought
+to quantify the extent of funding that might be required, is repeated at p. 57 of the
+Report. In the Executive Summary at p. 12 there appears a passage headed “Next steps”:
+“We recommend MoJ review each procurement area for which a range of contracts has
+been identified and decide on the number of contracts to let. In particular, we
+recommend that MoJ:
+■ Consider the results with reference to the assumptions used, in particular the
+thresholds for average staff efficiency and the extent of market consolidation required
+and decide upon the most appropriate number of contracts to let where a range of
+possible solutions is identified
+■ For procurement areas in which further consideration is required, MoJ should
+consider:
+- The capability of incumbents to grow
+…
+- The proportion of market consolidation achievable. For example, by considering how
+much firm combinations are required in absolute terms
+…
+
+For all areas, we recommend MoJ consider the implications of other factors such as those
+set out on the previous page [\tviz. \tthe ‘other considerations’ which I have just set out]”\t
+15.
+The fragility of the assumptions, and therefore of the model and (it is said) the Lord Chancellor’s
+consequent decision to let 527 DPW contracts, is heightened by the fact that although KPMG
+identified 23 procurement areas (out of 62) where there was a potential range of contracts in which
+the viability and capacity thresholds might be met (see pp. 8 and 43 of the Report), there were 30
+where further inspection was required to determine a range of contracts (pp. 8 and 44), and in nine of
+those “further consideration is needed to identify the principal challenge and confirm the range
+identified”: p. 45, where this is stated:\t
+“Therefore, we recommend that further consideration is given to the specific viability
+challenge in each market taking account of local cost pressures and the estimated
+overhead profile of small partnerships or sole practitioners”\t
+So, it is submitted, KPMG made it clear to the Lord Chancellor that he should investigate the position
+to ascertain whether his proposed strategy was achievable.
+16.
+Following the consultation required by Burnett J’s decision, KPMG produced a further document on 13
+November 2014, titled “Review of information received in response to the latest consultation on Duty
+Provider Work contracts”. This appears at p. 4:\t
+“Definition of viability – breakeven assumption
+Otterburn’s report showed that firms are currently achieving profit levels between a loss
+of 19% and a profit of 20%, with an average profit level of 5%. For the purpose of
+modelling, breakeven was adopted as the minimum level for sustainable trading. This
+was on the basis that Otterburn made provision for a notional salary for equity partners
+and that therefore all operating costs, including an income for equity partners, are met if
+breakeven is achieved.
+During our discussions with MoJ, it was recognised that this minimum profit level was
+not the level which firms would aim to achieve, and on pages 57 and 58 of our Original
+Report we highlighted factors not allowed for in the breakeven assumption including:
+■ \tFunding of increases in working capital;\t
+■ \tInvestment required to achieve growth, staff efficiency savings and consolidation; and \t
+■ \tAdequately rewarding equity partners for the risk they take and for the capital they\t
+employ.
+A number of respondents have questioned the use of breakeven. Respondents appear to
+interpret the 5% average profitability quoted by Otterburn as a minimum acceptable
+profit level. No other figure is proposed in the responses.
+
+Were the 5% level to be applied within the model this would have the effect of increasing
+the average staff efficiency requirement by the amount required to achieve the higher
+profit level.
+The modelling describes the degree of staff efficiency required in each area to achieve
+breakeven. There is an opportunity to achieve a greater level of profitability if further
+efficiencies were achieved.
+On the basis that the risks highlighted by respondents with regard to breakeven are
+already set out in our Original Report, we do not consider it necessary to update it.\t”\t
+THE NOVEMBER 2014 DECISION\t \t
+17.
+After Burnett J’s judgment, which the Lord Chancellor did not seek to appeal, the KPMG and
+Otterburn Reports were put out to consultation over a three week period. Some 3942 responses were
+received. In the Executive Summary of the November decision at paragraph (ii) the Lord Chancellor
+said this:\t
+“The focus of this consultation was on the KPMG and Otterburn reports, the assumptions
+relied upon in those reports and the taking of a fresh decision on the number of [DPW]
+contracts to offer. Nevertheless, respondents also used this consultation to express
+general opposition to the dual contracting model. We recognise that many respondents
+have strongly held views on this point. However respondents largely express views that
+were considered in previous consultations and have not provided new evidence that the
+dual contracting model is not viable.” \t
+18.
+Section 2\t of the Decision is headed “Analysis of consultation responses/Government position”. Under\t
+“Finances” this appears: \t
+“2.19 In relation to the concerns respondents expressed about providers having the
+financial capability to scale up there is some assistance that Government can provide as
+transitional support as we set out in February. We have established a business partnering
+support network, operated by the LAA to offer information and guidance to practitioners
+seeking help with regard to restructuring their business and how to go about seeking
+financial support. We believe this is important to provide ongoing support to businesses
+during the first two years of the new market structure.
+2.20 Whilst the LAA cannot provide financial advice, it will be able to help providers to
+find the necessary information regarding funding. We have also opened up specific legal
+aid market discussions with the British Business Bank (BBB), an Arms Length Body
+reporting to the Department for Business, Innovation and Skills. We have developed
+guidance specifically for the legal aid market in conjunction with the BBB on which
+Government-backed financial products, such as the Enterprise Finance Guarantee, are
+available to the legal aid market, and have tailored information to specific known
+working capital and investment funding issues in the sector. This information is available
+on the LAA website… The model gives organisations the confidence to invest in the
+
+restructuring required in the knowledge they would be in receipt of larger and more
+certain volumes.
+2.21 At the time of the Otterburn report the new interim payment provisions for
+litigators working on lengthy Crown Court cases had not been announced. These
+provisions, which were introduced in October, are designed to combat cash flow issues.
+This means litigators will be paid at more regular intervals on the longer and more
+expensive cases. Those provisions will substantially help to soften the impact of the fee
+reductions, before the consolidated DPW contracts are offered.
+2.22 Respondents also suggested consortia have regulatory, insurance, economic and
+supervisory issues that act as barriers. We do not underestimate the challenges providers
+face in trying to make the necessary changes, including those looking to establish
+delivery partnership arrangements or joint ventures. The basis of any delivery
+partnership is a matter for those involved. While there are issues to consider we do not
+believe those are insurmountable.”\t
+19.
+In a section dealing with respondents’ comments on the assumptions, paragraph 2.31 states:\t
+“We (and KPMG) have always been clear that the model was based on assumptions on
+future behaviour. Such assumptions always have an element of uncertainty. Self-
+evidently, we cannot wait until we know whether the assumptions are accurate
+predictions or not – we will only know once the contracts are live. The model looks at all
+the options and creates proxies for aggregate market behaviour but ultimately it is up to
+each individual organisation to decide how they want to proceed.” \t
+20.
+Under “Profitability” this appears:\t
+“2.55 A 0.1% profit assumption assumes that all staff including equity partners will be
+properly paid and all existing costs met. An organisation will not know in advance of
+being awarded a contract what level of profit they might make, and will clearly not be
+aiming to make a profit as low as 0.1%. However, on the assumption that (contrary to its
+own expectations) the organisation only achieves a profit as low as 0.1%, then bearing in
+mind all staff had been paid and costs met the organisation would not become unviable
+simply by virtue of only having broken even and could continue to trade. A organisation
+which did get as low as 0.1% profit would be likely to strive to find ways to make further
+efficiencies so as to improve its profitability going forward. Conversely, organisations
+may offset the need to find greater staff efficiency savings by exploring mechanisms to
+use latent capacity.
+2.56 No new evidence has been presented by respondents. All of the points raised were
+either raised by the Law Society, by practitioners or by other representative bodies in
+previous consultation exercises or through the extensive engagement throughout that
+process.”\t
+21.
+
+Then under “Overall Government Position”:\t
+“2.79 In light of the consultation responses and the further advice from KPMG, we have
+reconsidered the assumptions. We think that the assumptions remain appropriate
+predictions of future behaviour on which to base our decision. This does not mean that
+we can be sure that markets will indeed behave in ‘compliance’ with the assumptions –
+but we regard them as sound assumptions on which to base a decision. For the reasons
+outlined above, we do not think there are other assumptions that are more appropriate
+predictions of future behaviour than the assumptions used by KPMG.”\t
+22.
+Finally under “Next steps – Procurement process”:\t
+“3.1 Today we are launching a tender for 527 duty provider contracts… The indicative
+timetable is as follows:\t
+–
+29 January 2015 – tender closes
+–
+w/c 12 June 2015 – notification of tender outcomes
+–
+July 2015 – subject to further consideration, second fee cut implemented
+–
+1 October 2015 – service commencement”
+Paragraph 3.6 indicates the Lord Chancellor’s decision to “proceed with the planned implementation
+of the second reduction in fees in July 2015”. Then this: \t
+“3.7 This approach will create a three month gap between the implementation of the fee
+reduction and the start of the new 2015 Crime Contracts and so depart from the
+approach announced in February. Assessing the likely impact of such an approach on
+providers, suggests that this gap would not be expected to pose a threat to service
+provision. This is because a number of factors help to reduce the impact of this headline
+reduction in fees.
+3.8 The second fee reduction will apply only to new cases…
+3.9 Interim payments also reduce the impact of fee reductions on providers in the short
+term by improving cash-flow. Following our agreement with the Law Society in March to
+bring forward the implementation of interim payments for litigators in Crown Court
+cases (which was originally planned for next summer but was implemented on 2 October)
+providers are already able to benefit from improved cash-flow. This will have a
+substantial positive effect on provider revenues in the period from July to October 2015.”\t
+23.
+
+There are other documents I shall have to consider, including submissions made by officials to the
+Lord Chancellor which cast light on what was in the mind of the MoJ and the Lord Chancellor himself
+at significant stages, but it will make for clarity if I do so when I come to confront the arguments. At
+this stage I will turn to the law.
+THE LORD CHANCELLOR’S STATUTORY DUTY
+24.
+S.1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012\t (“\tLASPO\t”) provides in part:\t
+“(\t1) The Lord Chancellor must secure that legal aid is made available in accordance with\t
+this Part.
+(2) In this Part ‘legal aid’ means—\t \t
+…\t \t
+(b) services consisting of advice, assistance and representation required to be made
+available under section 13… (criminal legal aid).\t \t
+…\t \t
+(4) The Lord Chancellor may do anything which is calculated to facilitate, or is incidental
+or conducive to, the carrying out of the Lord Chancellor’s functions under this Part.”\t \t
+S.2\t:\t
+“(1) The Lord Chancellor may make such arrangements as the Lord Chancellor considers
+appropriate for the purposes of carrying out the Lord Chancellor’s functions under this
+Part.
+…
+(3) The Lord Chancellor may by regulations make provision about the payment of
+remuneration by the Lord Chancellor to persons who provide services under
+arrangements made for the purposes of this Part.\t”\t
+S.13(1):\t
+“Initial advice and initial assistance are to be available under this Part to an individual
+who is arrested and held in custody at a police station or other premises…\t”\t
+THE APPLICABLE STANDARD OF REVIEW\t \t
+25.
+The claimants submit that two features of the case militate in favour of an especially intensive, or
+rigorous, standard of review. The first is the general context of the case: the administration of criminal
+justice, whose integrity is a benchmark of the rule of law. The court has a particular responsibility as
+
+its guardian. The second is the nature of the particular duty imposed by \tLASPO\t on the Lord\t
+Chancellor: an absolute duty to secure advice and assistance for detained criminal suspects in
+accordance with the Act.
+26.
+It must be obvious that if the Lord Chancellor failed to comply with his duty under \tLASPO ss.1(1)\t, (2)\t
+(b) and 13(1), the court’s inevitable judgment against him would not be qualified by any
+considerations of respect for his role as primary decision-maker. He would simply be acting illegally,
+and the court would say so. But although the claimants assert that the November 2014 decision puts
+compliance with the \tLASPO\t duty at risk, they do not (and cannot) assert that it will be violated. If the\t
+new scheme goes badly wrong, the Lord Chancellor will have to mend it or adopt another. He accepts
+without cavil that he must ensure that criminal legal aid is made available to those who are entitled to
+it.
+27.
+The claimants urge on the court a “what if?” scenario – what if the November decision turns out to be
+wrong? Where then does the Lord Chancellor’s duty under \tLASPO\t stand? (See in particular Mr\t
+Coppel’s written reply, paragraph 4.) But this is not a submission that the duty will be breached, and if
+it were it would be contrary to the evidence, which (and I shall refer to some of it) repeatedly
+demonstrates the Lord Chancellor’s practical commitment to the duty, whether or not it may be
+fulfilled by the arrangements now under challenge. Moreover the “what if?” scenario proceeds on the
+implicit premise that the duty is endangered unless the Lord Chancellor’s policy is grounded on firm
+objective predictions, or at least something close to that: see for example Miss Rose’s principal
+skeleton paragraphs 8, 61 and 79; compare Mr Coppel’s reply at paragraph 5. I shall explain below
+why this premise is wrong.
+28.
+The reality is that these claims’ true target is action taken under \tLASPO s.2(1)\t, to\t “make…\t
+arrangements… for the purposes of carrying out the Lord Chancellor’s functions under this Part”.
+That, quintessentially, involves the making of discretionary judgments.
+29.
+However the context remains the administration of criminal justice, and to that extent the rule of law.
+Does that circumstance require the court to apply an intensive quality of review? In \tLumsdon \t[2014]\t
+HRLR 29, \t[2014] EWCA Civ 1276\t the court was concerned with the proposed introduction by the\t
+Legal Services Board of the Quality Assurance Scheme for Advocates (QASA). The claimants, who
+were members of the Bar, asserted that the assessment of advocates’ performance by judges, for
+which the scheme provided, was constitutionally improper. The Court of Appeal addressed the issue of
+intensity of review at paragraphs 78 – 86. They concluded that an approach based on proportionality
+was not appropriate, partly because of considerations arising from the relevant statutory regime, but
+also because\t
+“85… QASA does not in any event involve any interference with fundamental rights or
+constitutional principles. For the reasons already given, it does not undermine the
+independence of the advocate or the judiciary. As Mr Giffin puts it: a scheme specifically
+designed to increase the quality of legal representation in criminal trials cannot be
+equated with (for example) the denial of access to a court. We do not understand the
+claimants to contend that proportionality is the correct standard of review even if we
+
+reject (as we have done) their arguments that QASA infringes the principles of the
+independence of the advocate and the judge…”\t
+The court continued:\t
+“86. That is not to say that, in reviewing the lawfulness of the LSB’s decision, the court
+should only uphold a substantive challenge if it is satisfied that the decision is irrational.
+The Divisional Court was right to apply a ‘heightened’ \tWednesbury \tstandard of review in\t
+this case. The court enjoys a high level of institutional competence and constitutional
+legitimacy when addressing challenges to the criminal justice process. This should be
+reflected in the applicable common law standard of substantive review.”\t
+30.
+Mr Chamberlain QC for the Lord Chancellor submits, delicately but firmly, that by contrast the court
+in this case enjoys neither a high level of institutional competence nor of constitutional legitimacy. His
+argument is as follows. As for institutional competence, the decision challenged is a predictive
+judgment conditioned by complex economic factors: compare \tR (Centro) v Secretary of State for\t
+Transport\t [2007] EWHC 2729 (Admin)\t at paragraph 36 \tper \tBeatson J as he then was, citing amongst\t
+other materials\t Ex p. Hammersmith & Fulham LBC \t[1991] 1 AC 521 and \tNottinghamshire CC v\t
+Secretary of State for the Environment\t [1986] AC 240\t. As for constitutional legitimacy, we are\t
+concerned (as I have stated) with the Lord Chancellor’s discretion to make arrangements under
+LASPO s.2(1)\t; and assuming no breach of the primary s.1 duty is shown, his choice of arrangements\t
+should attract no more intensive review by the courts than any other broad public law discretion.
+31.
+There is a further string to Mr Chamberlain’s bow. He submits that the delay inevitably involved in the
+Lord Chancellor’s compliance with any obligation imposed upon him by the court to take further steps
+(such as to investigate the issue of investment finance cost) would itself alter the effects of his policy;
+so that the court would then become, as it were, a player in the decision. The point has force: I will
+give the detail at paragraphs 48 – 49 below. But it should come with a health warning. There is an
+important distinction between a state of affairs in which the court becomes, as I have put it, a player
+in the primary decision, and the notion that the court should temper the quality of judicial review by
+reference to the difficulties which the process may cause to the decision-maker. The former
+consideration may rightly tell in favour of restraint. The second does not, for it would mean that the
+force of law is conditioned by the imperatives of government; whereas, by our constitution, the
+opposite is the case.
+32.
+Restraint is not only dictated in this case by the danger that relief granted by the court might distort
+the decision-making process. It is true that we are not asked to examine a decision of macro-economic
+policy, for the change to dual contracts, and the dictates of economic austerity behind it, are not
+themselves the subject of any challenge: if it were otherwise, an especially “light-touch” approach
+would be appropriate (see the \tHammersmith \tand \tNottinghamshire \tdecisions of the House of Lords\t
+cited by Beatson J in \tCentro\t). But we are dealing with a decision-making process larded with technical\t
+complexity, as to whose refinements we plainly have no special expertise. To this extent Mr
+Chamberlain’s submission that the court possesses no particular institutional competence has force.
+His linked submission that we may claim no special constitutional legitimacy has support from the fact
+that as I have said these claims’ true target is action taken under \tLASPO s.2(1)\t: a function which\t
+quintessentially involves the making of discretionary judgments.
+
+33.
+In all these circumstances, in my judgment the conventional \tWednesbury \tstandard of judicial\t
+supervision applies here. But that requires a further understanding. In any more or less sophisticated
+process of decision-making, there may be two particular questions the decision-maker must consider.
+First, what factors should\t be treated as relevant? Secondly, what further investigation or inquiry\t
+should\t be undertaken? Statute will often provide at least part of the answer, especially to the first\t
+question. But when the dictates of statute are fulfilled, as likely as not there will remain points of fact
+and circumstance about whose relevance there may be disagreement, or areas of possible enquiry
+whose pursuit will seem necessary to some but not to others. In such cases, how does the law
+determine what must, and what need not, be considered or enquired into?
+34.
+In \tCREEDNZ Inc. v Governor General\t [1981] 1 NZLR 172 Cooke J (as he then was) stated at 183:\t
+“What has to be emphasised is that it is only when the statute expressly or impliedly
+identifies considerations required to be taken into account by the authority as a matter of
+legal obligation that the court holds a decision invalid on the ground now invoked. It is
+not enough that a consideration is one that may properly be taken into account, nor even
+that it is one which many people, including the court itself, would have taken into
+account if they had to make the decision… [However] there will be some matters so
+obviously material to a decision on a particular project that anything short of direct
+consideration of them by the ministers… would not be in accordance with the intention of
+the Act.”\t
+This \tdictum \tin \tCREEDNZ \thas many times been acknowledged as good in English law, from the House\t
+of Lords decision in \tRe Findlay \t[1985] AC 318 onwards. It shows that where statute does not tell the\t
+decision-maker what he must treat as relevant, it will be for him to decide – subject to \tWednesbury \t
+review. But what of the second question, how should the court determine what further investigation or
+inquiry needs, or needed, to\t be undertaken by the decision-maker? In \tKhatun \t[2005] QB 37\t I said at\t
+paragraph 35:\t
+“In my judgment \tCREEDNZ\t (via \tthe decision in \tFindlay\t) does not only support the\t
+proposition that where a statute conferring discretionary power provides no lexicon of
+the matters to be treated as relevant by the decision-maker, then it is for the decision-
+maker and not the court to conclude what is relevant subject only to \tWednesbury \treview.\t
+By extension it gives authority also for a different but closely related proposition, namely
+that it is for the decision-maker and not the court, subject again to \tWednesbury \treview,\t
+to decide upon the manner and intensity of enquiry to be undertaken into any relevant
+factor accepted or demonstrated as such.”\t
+35.
+CREEDNZ \tand \tKhatun\t do no more than exemplify a long-standing principle of our public law: where\t
+there is more than one reasonable view\t of an issue which a decision-maker must consider – what he\t
+should treat as relevant, or what he should enquire into – the court should not interfere with the view
+of it which the decision-maker takes. To the extent that the law requires more intensive forms of
+judicial review, this principle is progressively disapplied. Our law of human rights gives the clearest
+instance of this (though here too, a strong public interest context may firmly indicate more
+
+conventional review). But in the present case there is nothing to disapply this principle. On the
+contrary; as I shall show, its application – especially the \tKhatun \tdimension – is of the first importance. \t
+36.
+CREEDNZ \tand \tKhatun \tcall to mind two aspects of public decision-making which, though by no means\t
+mutually exclusive, possess important differences. The first arises where the primary decision-maker
+has to ascertain facts. Here the reviewing court’s task is relatively constant: its focus will be upon the
+question whether the decision is rationally supported by evidence. The second – the \tKhatun \tdimension\t
+– arises where the decision-maker has to decide what to do: what discretionary judgment to make.
+Here the reviewing court’s task is much less constant, requiring a more or less intrusive approach
+according to the subject-matter. The distinction is of course not clear-cut. A discretionary judgment
+may involve fact-finding, as to the present or future. And the intensity of review in a fact-finding may
+vary: where the finding of facts may touch a question of life and limb, the court may be required to
+bring an “anxious scrutiny” to bear: see \tEx p. Bugdaycay \t[1986] 1 WLR 155). \t
+37.
+It is predominantly in the area of discretionary judgment that issues of the intensity of judicial review
+arise for the court’s consideration. That is, emphatically, this present case’s territory; and it is the
+context in which the Lord Chancellor’s \tTameside \tduty – to “ask himself the right question and take\t
+reasonable steps to acquaint himself with the relevant information to enable him to answer it
+correctly” – has to be considered. For reasons I shall elaborate (see paragraph 46 below) the
+claimants’ submissions invite the court to measure its reviewing function too closely by what is
+appropriate for the fact-finding case.
+ARGUMENT\t \t
+The Principal Issue – Investment Finance\t \t
+38.
+I will first address Miss Rose’s principal argument, which I have already summarised. Her core
+proposition may be simply stated: in light of the KPMG Report, the Lord Chancellor was bound (1) to
+direct his mind to the transitional costs that would inevitably be incurred by bidding firms – that is,
+the costs involved in raising the investment finance required for improved efficiency and
+consolidation; and (2) to take reasonable steps, informed by appropriate enquiries, to quantify these
+transitional costs. In fact the Lord Chancellor did neither.
+39.
+This central argument has been helpfully crystallised in a written reply submitted by Miss Rose and
+her juniors after the hearing. The bite of the point is that because KPMG’s model assumed that a firm
+which broke even would be viable, and KPMG concluded that in a significant number of areas
+efficiency improvements greater than the assumed 20% would be required, “the calculation of the
+percentage of the improvement to staff efficiency which is required before firms break even and are
+viable has been consistently understated in the model” (reply note paragraph 10); or “[p]utting it
+another way, firms with the revenues and costs that have been identified by KPMG will not break
+even, but will make a loss” (paragraph 11). “There is thus a risk, the severity of which is unknown and
+has not been assessed, that the projected number of contracts in some areas may not in fact be
+viable” (paragraph 14).
+General Observations on the Principal Issue
+
+40.
+It is, I think, important to have in mind that there has been an awareness in the MoJ from an early
+stage that there are inherent risks in the development and execution of the new regime of dual
+contracts. In a submission to the Lord Chancellor by Dr Elizabeth Gibby, Deputy Director for Legal Aid
+and Legal Services Policy, of 14 February 2014 (thus shortly before the 27 February 2014 decision to
+the effect that there would be 525 DPW contracts) a number of risks were set out, not least under the
+heading “Insufficient number of bidders for [DPW] contracts”. At paragraph 64 this is stated:\t
+“On the assumption the tendering exercise proceeds without legal challenge or industrial
+action…, there is a very real and significant risk that current providers will not be in a
+position to scale up to the level required and either decide not to bid or bid but fail to
+meet the criteria…”\t
+This is the very concern identified by Miss Rose. At paragraph 67:\t
+“In the event we do not have sufficient bidders in a number of areas, we will ensure
+effective representation remains available for those who require it by exploring a number
+of options (not all mutually exclusive) including, offering more work to successful
+bidders, retender on same basis with interim cover, temporarily offering the work to
+existing providers pending a full retender and revised process or mobilisation of the
+Public Defender Service in the affected areas) see Contingency Plan at Annex E).” \t
+Then at paragraph 115:\t
+“As discussed above, there are a number of procurement areas that present a higher
+level of challenge on either the consolidation required or in terms of the financial
+viability of the contract sizes, although as noted the nature of the data used may mean
+this challenge is over-stated. Provided firms are prepared to make the necessary changes
+in their structure; join with others; take the difficult decisions to reduce salaries; or even
+make some employees redundant, even the smallest value contracts would be financially
+viable. However, in the event that providers behave in such a way that suggests likely
+market collapse, then we would ensure that effective representation would remain
+available by putting in place the contingency measures described above and at Annex E.”\t
+41.
+Annex E is before us. These statements are preceded by what seems to me to be an important
+observation, at paragraph 63 of the submission of 14 February 2014:\t
+“Some of the risks and challenges set out below exist simply because we are trying to
+intervene in an unpredictable and an unsophisticated market when it comes to
+commercial behaviour…”\t
+This observation may be compared with this passage from p. 3 of KPMG’s further document of 13
+November 2014, to which I have already referred:\t
+“It is recognised that market participants may have found themselves commenting upon
+market changes which they would not wish to be imposed, while also planning
+contingent strategies to pursue should the changes be implemented. It is important to
+
+distinguish between the current preferences of firms, pre-change, and the potential
+future strategies they may adopt, post-change.” \t
+42.
+This evidence recognises an important truth, namely that the very imposition of radical change
+(especially, perhaps, radical change which is much objected to) may evoke unexpected and
+unpredictable responses from those most closely affected. Professionals whose world has changed
+may look the new world in the eye and find the means to live in it. This truth underscores the obvious
+fact that the premises upon which the number of DPW contracts to be let is chosen – not least the
+assumptions (so far as they are deployed as predictive tools) in the KPMG Report – are by no means a
+matter of precise forecast but of judgment: and uncertain judgment at that. It also lends emphasis to
+the no less obvious fact that a reasonable decision-maker will have contingency measures in mind and
+will monitor the situation as it develops.
+43.
+These facts, and the truth that underscores them, are important for a proper understanding of this
+court’s task, and in particular the application of the \tCREEDNZ\t/Khatun \tprinciple. And they are further\t
+reflected in the evidence before us.
+44.
+By way of example, it is plain that the risks inherent in the proposed changes were kept under review.
+A further submission was made to the Lord Chancellor on 21 November 2014, just before the decision
+of 27 November now sought to be challenged. There are cross-references to Dr Gibby’s earlier
+warnings of risk: see paragraphs 106 – 111 of the 21 November submission. I will just cite paragraphs
+106 and 110:\t
+“106. Throughout the policy development phase of this Programme we have considered
+the key risks associated with the planned duty tender and the sustainability both for
+providers in terms of their financial position and for clients in terms of access to justice.
+None of the reforms set out in this advice alter the rights or level of access for a client to
+criminal legal aid.
+110. The LAA has considered a range of scenarios that could develop during the course
+of the tender process, such as insufficient number of bids in particular areas, and the
+potential for challenges concerning decisions made in individual procurement areas or
+concerning individual bidders… Whilst the LAA has considered the range of options open
+to it in any such scenario, the response in each case will need consideration on its own
+merits and recommendations will be escalated appropriately in each instance.”\t
+45.
+Recognition of the need to monitor developing responses to the proposals, and emerging risk factors,
+is spoken to in the evidence put in on the Lord Chancellor’s behalf. So is the fact that his precise
+policy choice is grounded in assumptions which are matters of uncertain judgment. Hilda Massey and
+Caroline Crowther job-share in a senior position in the MoJ. Ms Massey’s witness statement has this:\t
+“176… [T]he Lord Chancellor recognises that as the assumptions are predictions as to
+the future behaviour of the market under changed circumstances, and so inherently
+uncertain, it is incumbent on him to keep the market under review – to determine how in
+
+fact it is reacting to the change in circumstances – and have robust contingency plans in
+place to deal with any unexpected difficulties. Under the current arrangements the
+LAA… regularly monitors providers and meets with them and their representative bodies
+to identify early where action needs to be taken to mitigate a possible issue with
+supply…” \t
+46.
+The fact that the KPMG assumptions are themselves the product of uncertain judgment is well
+illustrated by the evidence concerning the capacity assumption that the candidate firm or partnership
+would give up 50% of its OCW capacity. As I have indicated, KPMG and/or the MoJ split the difference
+between rival contentions of 100% and 0%. This looks almost cavalier; but Dr Gibby observes (witness
+statement paragraph 168):\t
+“The 50% assumption is intended to indicate that when push comes to shove and their
+capacity is constrained, contrary to what they may want to do, for the long term
+sustainability of their business some firms will have to choose to either give up at least
+some of their OCW, find ways to make efficiency improvements within their current staff
+complement or recruit additional staff.”\t
+I think this exemplifies the truth I have sought to emphasise: professionals whose world has changed
+may look the new world in the eye and find the means to live in it.
+47.
+For the purpose of these proceedings, the overall importance of what may be called the uncertainty
+factor in the elaboration of the Lord Chancellor’s policy is that many of the submissions advanced by
+Miss Rose and Mr Coppel are, so to speak, in the wrong gear. They suggest that the court should
+prescribe what information the Lord Chancellor should obtain and treat as pivotal to his decision. But
+because the variables in the decision-making process are inherently so uncertain, their assessment is
+especially a matter for the Lord Chancellor’s judgment. For the court to tighten its grip on the process
+to the extent urged by the claimants would itself be to take a policy view: not as to the outcome,
+certainly, but as to the procedures by which the outcome should be approached. And it would be, as I
+suggested at paragraph 37, to measure our supervisory function too closely by reference to what may
+be appropriate for review of a purely fact-finding exercise. Given the nature of the case, that would
+not be legitimate; it would offend the \tCREEDNZ/Khatun \tprinciple. \t
+48.
+I will give two concrete instances of the claimants’ wrong gear. The first is the point to which I have
+already referred in passing at paragraph 31. It may be explained as follows. No challenge relating to
+fee reduction is before us. (A challenge to the first cut was advanced before Burnett J, but rejected by
+him: paragraph 55 of the judgment.) And it is accepted on all hands that the enhanced efficiency
+needed to make the fee cuts sustainable requires that there be a degree of market consolidation. That
+might be achieved simply by making the cuts: in that case some firms would go out of business, thus
+producing \tde facto \tconsolidation. The Lord Chancellor’s policy, by contrast, is a means of managing\t
+consolidation by reducing the number of DPW contracts. That being so, Mr Chamberlain submitted
+that further investigations of the kind sought by the claimants, for example by making enquiries of
+financial institutions, would most likely lengthen the time-gap between fee reduction and the start of
+the new regime – and in that period there would be a risk of uncontrolled consolidation: firms going
+out of business. So if the court required such investigations, that would itself influence the market;
+and to that extent be an arbiter of policy.
+
+49.
+This is not merely an \tex post facto \tconstruction by Mr Chamberlain. In the submission to the Lord\t
+Chancellor of 21 November 2014 this appears at paragraph 2, under the heading “Timing”:\t
+“Urgent. You are aware with the inter-linkages between the tender launch and the fee
+reduction. If you decide that the fee reduction should take effect on 1 July…, the merits
+of there being no more than 3 months between fee reduction and service commencement
+(discussed below), the merits of allowing providers more than 3 months mobilisation
+(discussed in previous advice) and the merits of allowing providers adequate time to
+bid… means that we need to launch the tender as soon as possible. The proposed launch
+date of 27 November will allow us to achieve the 1 October service commencement
+date…” \t
+At paragraphs 102 – 103 it is stated that a 3 month gap between fee reduction and service
+commencement would not “pose a significant threat to the viability of providers”.
+50.
+My second example of the fact, as I see it, that many of the claimants’ submissions are in the wrong
+gear is much narrower. It arises out of the response to a submission of Mr Chamberlain (at paragraph
+8 of a note he provided on “investment costs, interim payments and the capacity challenge”) that
+“[t]here was no reliable way of modelling or estimating the value of the investment costs that firms
+would face in advance of a decision about contract numbers”. Mr Chamberlain supported this
+submission by a series of bullet points. This evoked, after the hearing, a witness statement from Mr
+Otterburn of Otterburn Legal Consulting LLP. Mr Otterburn gives (paragraph 5 ff) detailed reasons for
+his opinion that Mr Chamberlain’s submission is incorrect. In return this prompted a further note
+from Mr Chamberlain stating, amongst many other things, that “it does not address the principal
+uncertainties to which Ms Massey and Ms Crowther had adverted; and appears to make a number of
+incorrect assumptions [which are then set out in detail]” (paragraph 6).
+51.
+The extent to which the assessment or evaluation of investment costs raised difficulties was surely a
+matter of judgment. And if the court were to accept the claimants’ implicit invitation to judge the
+rights and wrongs of estimating the price of investment costs, that would be a naked assumption of a
+duty to decide the procedures by which the outcome of the decision-making process should be
+approached. In my judgment it would be contrary to principle.
+Principal Issue - Merits
+52.
+Nothing I have said is intended to suggest that the Lord Chancellor might simply ignore the
+qualifications in the KPMG report. But it was up to him to decide what he should make of them. In
+that light I turn to the merits of the main argument – an avoidable failure to consider the implications
+of transitional costs so that the out-turn decision, 527 DPW contracts, is unreliable to the point of
+being unlawful – in light of the approach to this court’s duty which I have outlined.
+53.
+Miss Rose’s argument has condescended to much detail; Mr Coppel’s submissions even more so.
+However given the correct approach in law, in my judgment the core of the case can be addressed by
+asking and answering three questions. (1) Did the Lord Chancellor squarely understand that the
+
+break-even assumption made no allowance for investment costs? If he did not (as the claimants assert
+he did not), he would have misapprehended a significant dimension of the KPMG material. (2) Should
+the Lord Chancellor have taken steps to investigate the likely impact of investment costs on firms
+which might bid for DPW contracts? More accurately: was it perverse not to do so? (3) In the
+circumstances, are the Lord Chancellor’s proposed measures of support (notably interim payments)
+legally sufficient (in \tWednesbury \tterms)?\t
+Question 1: Did the Lord Chancellor squarely understand that the break-even assumption made no
+allowance for investment costs?\t \t
+54.
+The claimants understandably point to paragraph 2.55 of the November decision, which I have set
+out, and in particular the first sentence: “[a] 0.1% profit assumption assumes that all staff including
+equity partners will be properly paid and all existing costs met”. But this does not indicate that
+scaling-up costs, attributable to a successful bid, are assumed in the viability break-even assumption.
+In any event it is plain on the evidence that the Lord Chancellor was personally very familiar with the
+KPMG Report. More concretely, after seeing the submission of 21 November 2014 the Lord
+Chancellor asked for specific advice on transition costs and was provided with a note which referred
+to provision for interim fees, which would “substantially help to soften the impact of the fee cuts, and
+will help providers to manage any cash flow challenges posed by the transition”. I will have more to
+say about interim fees in relation to Question 3. Further, the terms of paragraph 138 of Ms Massey’s
+witness statement deserve notice:\t
+“The Claimants complain that the Department failed to take account of all potential costs
+in their assessment of viability. One of these is the associated cost of transition of
+winning a contract and having to grow to service the larger volumes of duty work.
+Transition costs are something the Department did in fact consider and discussed with
+the Law Society before the February Response was finalised and published and those
+discussions continued shortly thereafter. The model does not include an estimate of the
+financial viability assessment of the market in each procurement area. The likely
+investment costs for organisations looking to bid for a DPW contract were not assessed
+but KPMG make this clear on page 57 of their report. The report and the views
+expressed by respondents regarding the likely investment needs of firms were
+considered by the Lord Chancellor before arriving at his decision in February 2014 and
+in the [November] Decision…” \t
+55.
+In my judgment it is inescapable that the Lord Chancellor was aware of, and gave consideration to,
+the fact that the break-even assumption took no account of investment costs.
+Question 2: Was it perverse of the Lord Chancellor not to take steps to investigate the likely impact of
+investment costs on firms which might bid for DPW contracts?\t \t
+56.
+Mr Chamberlain points to the fact that KPMG did not recommend that the Lord Chancellor should
+investigate the impact of investment costs, but rather (KPMG Report p.12) that he should “… consider
+the implications of other factors”, which included investment costs. Miss Rose in her written reply
+(paragraph 17) submits that this misses the point: had the Lord Chancellor considered the
+
+implications as KPMG advised, “the only rational conclusion [he] could have reached would have been
+that at least some attempt, however imprecise, should be made to estimate the costs”.
+57.
+I do not agree with Miss Rose. On the evidence, the Lord Chancellor did consider the implications of
+investment costs. His adumbration of various means by which financial support might be offered to
+bidding firms (see for example paragraphs 2.19 – 2.21 of the November decision) exemplifies this. It is
+in particular demonstrated by the proposal put forward by the Lord Chancellor at a meeting with the
+Law Society, which he attended in person, on 26 March 2014. A note of the meeting referred to a
+“proposal on further transitional support for litigators”, that is, support to enable transition to the
+new contracts. It was intended to enable firms to cope with the prospective fee reductions, and also
+the market restructuring which it was seen would be required. The proposal involved two options.
+One was to provide grants to successful bidders. The other was to bring forward by twelve months
+part of an interim payments scheme in criminal proceedings which had already been announced. Both
+had \tpros\t and \tcons\t. The President and Chief Executive of the Law Society, after consultation, favoured\t
+the second option. I will have more to say about interim payments in addressing Question 3.
+58.
+There are further points to be borne in mind, going to the practicality of any investigation by the Lord
+Chancellor. Thus the investment costs likely to be incurred are liable to vary considerably according to
+the choices providers may make, and the time when the costs are incurred (Ms Massey paragraph
+159). Firms might consolidate in different ways (growth, merger, delivery partnerships). There were
+real imponderables about the need for and extent of third party lending; and as regards any enquiry
+that might be made of financial institutions, banks and others would no doubt respond (so Mr
+Chamberlain submitted) that their position would depend on a whole range of factors which would
+depend on the circumstances of the proposed borrower. Any attempt by the Lord Chancellor to model
+or quantify transition costs would presumably have to rely on data from the firms themselves.
+However as Mr Chamberlain pointed out in his note on investment costs, there is evidence of
+considerable reluctance by at least some in the profession to disclose financial information to the legal
+aid authorities: the small number of firms who replied to Otterburn (the response rate to the
+Otterburn survey was 10%) did so only on condition that their data would not be shared with the Lord
+Chancellor.
+59.
+All these points go to the feasibility of investigation by the Lord Chancellor, and that is the issue which
+as I have shown prompted Mr Otterburn’s witness statement after the hearing and Mr Chamberlain’s
+response. I have already made clear my view that the extent of the difficulties involved in the
+assessment or evaluation of transition costs was a matter of judgment for the Lord Chancellor. No
+doubt there may be differing, perhaps contradictory, opinions on all of the points to which I have
+referred. But it is to my mind entirely plain that a reasonable Lord Chancellor might in the
+circumstances decline, as the Lord Chancellor did, to take steps to investigate.
+60.
+I note these further considerations. Mr Chamberlain submits that there was some leeway, or give, in
+KPMG’s analysis, because it provided a range (or ranges) of potentially viable DPW contract numbers:
+see in particular pp. 8 – 9 of the Report. Thus a lower number than 527, should that be the outcome,
+would not be outside the range. In that connection Mr Chamberlain draws attention to the fact that
+KPMG factored in the 17.5% fee reduction; the break-even assumption was directed at the smallest
+bidding firms (he corrected this after intervention by the claimants: it was directed at bidding firms,
+
+rather than incumbents, in some classes of case); and the model assumes twice as many bidders as
+contracts (KPMG p. 32).
+61.
+Then there is the delay factor. I have already cited paragraph 2 of the submission to the Lord
+Chancellor of 21 November 2014, under the heading “Timing”. Inquiry and investigation, asking
+financial institutions what they might be prepared to do in hypothetical situations, attempts to
+quantify the scale of transition costs, would take time; and as matters stood in November 2014, there
+was a premium on the passage of time.
+62.
+Lastly, our response to Question 2 must I think be coloured by what we make of Question 3 – the legal
+sufficiency of the Lord Chancellor’s proposed measures of support (notably interim payments) – to
+which I will now turn.
+Question 3:\t Are the Lord Chancellor’s proposed measures of support (notably interim payments)\t
+legally sufficient (in Wednesbury terms)?\t \t
+63.
+I will deal with interim payments after considering the other measures.
+64.
+The support proposals are summarised at paragraphs 2.19 – 2.21 of the November decision under the
+heading “Finances”. I have set out the passage above at paragraph 18. The claimants submit that the
+business partnering support network referred to at paragraph 2.19 is effectively non-existent; the
+guidance on obtaining finance from the Legal Aid Agency is so basic as to be patronising; the British
+Business Bank, which facilitates agreements between borrowers and private sector enterprises, only
+underwrites the loans of other institutions and seems unaware of any agreements involving a legal aid
+firm; and its enterprise finance guarantee is unsuitable for law firms, since it covers only 75% of a
+loan made by a commercial lender, on their standard lending criteria, at a 2% fee.
+65.
+I accept that some of the written financial advice provided to law firms is puerile and insulting. It is a
+matter of surprise that it has gone out under the Lord Chancellor’s name. I will not lengthen this
+judgment by setting out the passages, as to which the parties will be under no mistake. However, a
+reasonable decision-maker might properly take the view that recourses such as the enterprise finance
+guarantee are viable and productive. Moreover it appears from Ms Massey’s evidence that the Law
+Society had not engaged with the British Business Bank to explore funding opportunities which might
+be accessed by its members, and the bank has expressed surprise that the Law Society endorses only
+one non-bank finance provider, Syscap Finance Solutions. The force of this is, I accept, qualified by
+the evidence of Mr Miller, head of legal aid policy at the Law Society: he explains that a former
+colleague had had discussions with the bank, that the bank only underwrites the loans of others, and
+that the Law Society’s endorsement of one particular finance company does not prevent its members
+accessing others. But the essence of this part of the case is that there are potential sources of
+financial assistance to be tapped if the profession were to take appropriate initiatives: at the least,
+that is a reasonable view in public law terms.
+66.
+Now I will turn to the issue of interim payments. The Lord Chancellor’s reliance on their utility for
+DPW bidders was emphatically assaulted by Miss Rose.
+
+67.
+I should first summarise the history of interim payments. The proposal first came to light in the
+consultation document “Transforming Legal Aid: Next Steps” published on 5 September 2013,
+referred to by Burnett J (see Annex A). The scheme was announced in the decision of 27 February
+2014. At that stage the proposal was for interim fees to be paid to litigators and advocates in long
+trials of 10 days or more, and to litigators after an effective Plea and Case Management Hearing
+(PCMH) ahead of a trial of any length. The February document described the purpose of the scheme
+as being to cushion the impact of fee reductions (paragraph 89). Interim payments at the start of long
+trials were to be implemented in 2014, and PCMH payments in the summer of 2015.
+68.
+There followed the meeting at the Law Society on 26 March 2014, attended personally by the Lord
+Chancellor, to which I have already referred. It was on this occasion that the Lord Chancellor offered
+alternative means of transitional support: either to provide a £9m grant for successful DPW bidders,
+or to bring forward the introduction of interim fees at the PCMH stage by twelve months. As I have
+said, the Law Society chose the latter: the first option offered grants only to successful bidders,
+whereas the second applied to all providers and would provide cash flow both before they bid and
+later.
+69.
+I may go forward to the decision of 27 November 2014, now under challenge. I have already set out
+paragraph 3.1, giving the “indicative timetable” for the launch of the tender for 527 DPW contracts,
+and paragraph 3.9, dealing with the effect of the March 2014 decision (following the Law Society’s
+choice) to advance the introduction of interim fees at the PCMH stage. It will be recalled that the last
+sentence states:\t
+“This will have a substantial positive effect on provider revenues in the period from July
+to October 2015.” \t
+70.
+Ms Massey’s witness statement and the pleaded Detailed Grounds of Defence of 7 January 2015
+misstate the value of the March decision for DPW providers. Miss Rose, very understandably, made
+much of the fact. At paragraph 54 Ms Massey asserts:\t
+“The effect of the policy is to pull forward an additional £28m of funding at a time when
+providers needed it most, improving cash flow for organisations.”\t
+But although the matter was misstated in these proceedings, and that was careless, there was no
+mistake in what was put to the Lord Chancellor. It was made clear to him that the figure of £28m in
+fact represented the total for interim payments for litigators, both the interim fees for the PCMH
+stage accelerated by the March 2014 decision, and the interim payments for long trials; not just the
+former.
+71.
+Miss Rose however submits (Law Society’s Note on Interim Payments, paragraph 20) that “[t]he true
+value to DPW providers of the interim payments scheme as a whole (\ta fortiori \tthe value of the March\t
+2014 decision to bring forward the PCMH part of the scheme) is in fact unknown to the Lord
+Chancellor”. In fact tables given in a MoJ submission of September 2014, updated in a letter from the
+Treasury Solicitor of 11 January 2015, indicate that the March 2014 decision entails the injection of
+
+some £15.5m into the market over three accounting years, £15m of it over the first two, 2014/15 and
+2015/16. This will, however, enure for the benefit of all providers, including those made to litigators
+who do not win DPW contracts.
+72.
+Miss Rose’s substantive point is that it was unreasonable for the Lord Chancellor to rely on the
+interim payments scheme to fund firms’ transitional costs of restructuring. No attempt had been made
+to assess whether the interim payments scheme is sufficient to cover matters such as the likely
+upfront transition costs of restructuring or consolidation, or what those costs were likely to be. The
+evidence of Mr Waddington of the Criminal Law Solicitors Association is that only a small proportion
+of interim payments for long trials are likely to be payable to solicitors obtaining work through the
+duty provider scheme. Further, the effect of the interim payments scheme is to pull forward payments
+to which providers are entitled in any event: they would not be receiving any extra money, but simply
+being paid more promptly for work they have already undertaken. Miss Rose also submitted that even
+if the Lord Chancellor’s evidence in relation to interim payments is accepted, the benefits will not in
+reality be available to offset transition costs since the intention was always that they would mitigate
+the effects of implementing the second fee reduction.
+73.
+In my judgment it is not demonstrated to the \tWednesbury \tstandard that a reasonable decision-maker\t
+could not have concluded, as the Lord Chancellor did, that “[the interim payment provisions] will have
+a substantial positive effect on provider revenues in the period from July to October 2015” (paragraph
+3.9). As I have indicated, the Lord Chancellor knew of the difficulties firms faced in obtaining finance
+for restructuring. He intended that interim payments would assist with this. So much has been clear
+from February 2014 onwards. The measures regarding interim fees were treated by both the MoJ and
+the Law Society as being of substantial benefit to firms, notwithstanding that they were accelerated
+payments of what the firms would eventually be paid in any event. It was reasonable to take the view
+that the provision of interim fees would be a real advantage to bidders from July 2015 (when the
+second fee reduction will take effect) and October 2015 (when the DPW contracts will come into
+force) – an advantage not limited to softening the blow of the fee cut: as Mr Chamberlain submitted,
+the lower rates will only apply to cases in which legal aid is granted after 1 July 2015, and even in
+those cases the normal delay before the case is billed and paid means that revenue is not affected
+until some time after the reduction applies.
+74.
+For all these reasons the three questions which encapsulate the core of Miss Rose’s case, and Mr
+Coppel’s overlapping submissions, are in my judgment to be answered in favour of the Lord
+Chancellor. I turn next to a series of arguments principally advanced by Mr Coppel. With respect I will
+address them quite shortly; it will be seen that what I have said about the standard of review informs
+the judgment to be made upon most of them.
+Other Points\t \t
+An “executable” version of the model?\t \t
+75.
+Mr Coppel submitted that his clients (or the Law Society) should have been given access to an
+executable version of the KPMG model so that the impact of the different assumptions, and thus the
+model’s reliability, could be thoroughly tested. He referred to \tR (Eisai Ltd) v National Institute for
+
+Clinical Excellence & others\t [2008] EWCA Civ 438\t, at paragraph 66 and \tR (British Dental Association)\t
+v General Dental Council\t [2014] EWHC 4311 (Admin)\t. With respect I will not cite the text. \t
+76.
+This point should have been taken much sooner if it was to be taken at all. Seen as a distinct head of
+judicial review, it is significantly out of time. The KPMG report, including the details of the modelling,
+had been released on 27 February 2014. The first two claimants before Burnett J could and should
+have raised this challenge before him; not least since their case was that they should have had
+disclosure of the KPMG Report so that they might respond to what was proposed. In fact the
+argument was not advanced until after Burnett J’s judgment, during the further consultation period in
+late September 2014. Likewise the Law Society (whether or not they asked for the model in late 2013)
+failed to take the point when the KPMG report was published in February 2014.
+77.
+I would therefore decline to entertain this argument. In any event I consider the methodology,
+showing how KPMG’s analysis was undertaken, was clear on the face of the Report. The claimants did
+not need an “executable” version in order to offer critical comment.
+78.
+It is convenient under this head to note that Mr Coppel advanced a number of criticisms of the
+assumptions themselves. Thus he submitted that no evidence has ever been provided for the
+assumption that firms could take on 20% more staff through organic growth. But the Lord Chancellor
+was entitled to look ahead to how firms would behave under the new arrangements; and to conclude
+that firms would be able to recruit the small numbers of additional lawyers necessary (given that the
+market is currently so fragmented) to deliver on the contracts, as well as generate economies of scale
+without necessarily having to reduce fee earner salaries.
+The Lord Chancellor’s treatment of the responses to the consultation exercise\t \t
+79.
+There were 3942 responses to the consultation which followed Burnett J’s decision. The MoJ engaged
+KPMG to review the key responses and summaries of others, and KPMG produced its further
+document of 13 November 2014. The submission to the Lord Chancellor of 21 November 2014
+contained passages on the points made. Annex A to the submission was a six page summary of the
+responses arranged under various headings. The submission recommended that the total number of
+duty provider contracts be varied to 527. \tSection 2\t of the 27 November 2014 decision, which\t
+contained 96 paragraphs (I have only cited eight of them), was as I have said headed “Analysis of
+consultation responses/Government position”.
+80.
+It is entirely clear that the Lord Chancellor well understood the views expressed by respondents on a
+whole range of matters arising out of his proposals seen in the light of the Otterburn and KPMG
+reports. But Mr Coppel submitted that the Lord Chancellor did not “grapple” with them; that he
+ignored the views of experienced practitioners; that he did not engage with crucial, specific, practical
+problems arising out of the KPMG approach.
+81.
+The Lord Chancellor was of course obliged to give proper consideration to the points made in the
+consultation exercise following Burnett J’s judgment. Fairness to the respondents and his \tTameside \t
+duty both so required. But as Mr Chamberlain submitted, he was entitled to conclude that
+
+respondents were inclined to think in terms of the current market and how it operated; and in
+contrast to proceed on the perception, as I have put it, that professionals whose world has changed
+may look the new world in the eye and find the means to live in it. And the conclusion of the
+November decision that the responses offered no new evidence meant no more than that the
+responses had not revealed any further matters of which the MoJ had previously been unaware and
+not considered.
+82.
+In my judgment there is no force in this part of the case. It is not shown that the responses were not
+properly considered.
+Two-month tender deadline\t \t
+83.
+There was as I have said a two-month deadline for the submission of tenders for DPW contracts.
+Paragraph 3.1 of the November 2014 decision stipulates 29 January 2015 as the closing date for DPW
+tenders. Mr Coppel submitted that this timescale was “wildly unrealistic” for firms needing access to
+additional capacity in order to bid: it was disproportionate and discriminated in favour of the few
+largest firms who already have sufficient capacity. The tender process remains suspended until after
+judgment in the proceedings, following Jay J’s order of 23 January 2014; but I should deal with Mr
+Coppel’s argument in principle.
+84.
+It is common ground that the \tPublic Contracts Regulations 2006\t, giving effect to measures of EU law,\t
+apply to the tender process. Regulation 4(3) requires that economic operators be treated “equally and
+in a non-discriminatory way”. Mr Coppel submits that the process is a lengthy and time-consuming
+exercise for small firms, and presents particular challenges for new entrants. He seeks to emphasise
+(principal skeleton paragraph 91 and his oral argument) the following facts as highlighting the
+discrimination against small firms which, he says, is inherent in the timescale. (1) Only 4% of the
+criminal legal aid market is made up of firms with 15 or more duty solicitors. (2) The final number of
+DPW contracts available to tender for in each area, their values, and the requirements and criteria of
+the tender, only became available on 27 November 2014. (3) A DPW contract bidder must be the
+“same entity” as one which already holds an OCW contract but the OCW contract tender process
+closed on 23 May 2014. (4) The Law Society’s estimate is that the process leading to agreement for a
+delivery partnership will take 5-6 months. (And there is evidence that all forms of consolidation take
+time: 6 months or more for mergers.) (5) Although an agent (which must also hold an OCW contract)
+may be used for up to 25% of the contract work, no consideration is given in the award of marks for
+capability provided through an agent. (6) A full staffing plan is in effect required by the close of the
+tender. In all the circumstances Mr Coppel submits (skeleton paragraph 93) that “giving firms an
+arbitrary two months in which to make the required consolidation arrangements deprives them of a
+fair opportunity to adapt and grow, as the Lord Chancellor wishes them to do, and undermines the
+very rationale for [his decision] by precluding firms from consolidating”.
+85.
+In my judgment Mr Coppel’s argument does less than justice to the true factual picture. Firms had
+five months – from the outcome of the own client tender process to the date of the November decision
+– to pursue scaling up or delivery partnerships. In fact they have had, or will have had, longer: the
+need for legal aid firms to consolidate has been looming since well before November 2014, and firms
+have until October 2015 for the final stages of restructuring, the recruitment of staff, the making of IT
+
+arrangements and the securing of office premises. Although the precise number or value of duty
+provider contracts will not have been known, it must have been open to firms to make progress in
+discussions with other firms. It is to be noted that the conditions for own client contracts stated that
+firms could contract as the organisation they were, as well as the organisation they intended to
+become, for the purposes of a duty provider bid. And there is scope for organisational change during
+the life of a duty provider contract through the medium of the contract’s novation clause or clauses.
+86.
+It is also Mr Coppel’s case that given the DPW contracts will not be awarded until June 2015 and work
+under them will not begin until October 2015, there is in reality ample time for a longer tender period.
+But this ignores the unchallenged evidence from the MoJ that the assessment of completed tenders
+will be complex and time-consuming, and once the outcome of the tender process is known there will
+be a need for some months to elapse so that the successful bidders can make the necessary
+arrangements.
+87.
+The disciplines of EU law apply to the case; however even in such a context “the more complex and
+the more judgment-based the decision, the greater the margin of discretion to be afforded to the
+decision-maker”: \tR (Rotherham MBC) v Secretary of State for Business, Innovation and Skills\t [2014] 3\t
+CMLR 51 \tper\t Lord Dyson MR at paragraph 70. Mr Coppel acknowledges that an evaluation criterion\t
+which can only be satisfied by a small number of tenderers, or which some tenderers find it easier to
+satisfy than others, is not \tipso facto\t discriminatory. In my judgment, on a proper appreciation of the\t
+whole context of the DPW tender process, there is no want of proportionality or unlawful
+discrimination or unequal treatment.
+Delivery Partnerships\t \t
+88.
+The February 2014 decision recorded that the MoJ had “reached a shared view with the Law Society”
+that a delivery partnership model for duty provider contracts would be achievable, sitting between
+very loose consortia arrangements and a strict merger/joint venture approach. Delivery partnerships
+are referred to also in the November decision under challenge. Mr Coppel contends that there are
+problems associated with delivery partnerships. The KPMG report did not take them into account.
+Thereafter, Mr Coppel submitted, the Lord Chancellor failed to investigate them. He has not sought to
+establish the costs associated with them, though they will or may involve greater overheads than
+single firms; nor whether there are significant insurance or regulatory hurdles to forming them.
+89.
+In my judgment this argument, like so much else in the case, fails in the face of what I have said about
+the intensity of review. The Lord Chancellor arrived at a conclusion, based on assumptions which he
+was entitled to make, that if firms did not wish or were unable to grow organically or to merge,
+delivery partnerships were a means by which they might undertake duty provider work. He was
+entitled to conclude that there would be efficiencies and that overheads would not remain static.
+ECHR Article 1 Protocol 1\t \t
+90.
+Mr Coppel submits that the November decision violates A1P1 because it interferes with the goodwill
+of the practices of criminal legal aid firms. Their goodwill is in their own client work. It is said that the
+decision to limit the number of DPW contracts to 527 threatens to destroy the goodwill of many firms.
+
+The firms which do not obtain such contracts will fall into financial difficulty because they will be
+deprived of the opportunity to act as duty solicitor and many will close.\t Even firms which do obtain\t
+DPW contracts will be expected, on the Lord Chancellor’s modelling, to give up (on average) 50% of
+their own client work, and that is a further interference with their possessions.
+91.
+I consider that this argument is misconceived. Legal aid contracts are time-limited. The current
+contracts, which began in 2010, were of three years duration but have been extended until June 2015.
+There is no right to be awarded a legal aid contract in any fresh round. Though it is clear that in
+principle business goodwill may constitute a possession for the purpose of A1P1, the interest of a
+business in future trade cannot be dressed up as goodwill if it is in substance an interest in future
+income: \tMalik v United Kingdom\t (Application No.23780/08). \t
+92.
+The distinction between goodwill and future income was discussed by Lord Bingham in \tR (on the\t
+application of Countryside Alliance and others) v Her Majesty’s Attorney General \t[2007] UKHL 52,\t
+[2008] 1 AC 719 at paragraph 21:\t
+“Strasbourg jurisprudence has drawn a distinction between goodwill which may be a
+possession for purposes of article 1 of the First Protocol and future income, not yet
+earned and to which no enforceable claim exists, which may not: see, for instance, \tIan\t
+Edgar (Liverpool) Ltd v United Kingdom\t Reports of Judgments and Decisions 2000-I, p\t
+465; \tWendenburg v Germany\t (2003) 36 EHRR CD 154, 169…”\t
+Lady Hale said this in the same case at paragraph 128:\t
+“There is no Convention right to continue to enjoy a particular level of trade. There is no
+Convention right to retain one’s job beyond the ‘right to a job’ which is recognised by
+domestic law … All sorts of laws may reduce demand for particular services and thus
+affect the profits of the self-employed or the job security of employed people. They do not
+in my view usually have to be justified under [A1P1], although that should not be
+difficult.”\t
+See also \tBreyer Group plc v Department of Energy and Climate Change \t[2014] EWHC 2257 (QB)\t, per\t
+Coulson J at paragraphs 63-75.
+93.
+Moreover as matters presently stand it cannot be said which firms will be successful in bidding for a
+duty provider contract, and which, if any, will go out of business if unsuccessful. Thus on the
+claimants’ own argument it is not shown that any particular firm has a case to make under A1P1. But
+as I have said, the argument is in my judgment misconceived.
+94.
+I should add that if there were any question of justification, I should conclude without hesitation that
+the scheme is proportionate. It is accepted on all hands that consolidation in the legal aid market is
+needed, if legal aid is to be provided at reduced fees. It may reasonably be concluded that this is a
+proper way to achieve it.
+CONCLUSION
+
+95.
+The issue concerning the applicable standard of review is important, and has merited a full debate
+between the parties. For that reason I would grant permission to seek judicial review in both sets of
+proceedings. But for all the reasons I have given, I would dismiss the substantive application.
+MR JUSTICE CRANSTON:
+96.
+I agree.

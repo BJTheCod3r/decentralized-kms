@@ -168,7 +168,7 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-        Cubettech\Lacassa\CassandraServiceProvider::class
+        \DanielHe4rt\Scylloquent\ScylloquentServiceProvider::class
     ])->toArray(),
 
     /*

@@ -7,10 +7,17 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+use Laravel\Scout\Searchable;
 
 class User extends Authenticatable
 {
-    use HasApiTokens, HasFactory, Notifiable;
+    use HasApiTokens, HasFactory, Notifiable, Searchable;
+
+    const SIGNIN_SUCCESSFUL = 'Signed in successfully!';
+
+    const USER_NOT_FOUND = 'The user was not found!';
+
+    const INCORRECT_PASSWORD = 'The password is incorrect!';
 
     /**
      * The attributes that are mass assignable.
@@ -18,8 +25,10 @@ class User extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable = [
+        'id',
         'name',
         'email',
+        'email_verified_at',
         'password',
     ];
 
@@ -40,6 +49,6 @@ class User extends Authenticatable
      */
     protected $casts = [
         'email_verified_at' => 'datetime',
-        'password' => 'hashed',
+        'password' => 'hashed'
     ];
 }

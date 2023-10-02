@@ -93,6 +93,18 @@ return [
             // 'trust_server_certificate' => env('DB_TRUST_SERVER_CERTIFICATE', 'false'),
         ],
 
+        'scylla' => [
+            'driver' => 'cassandra',
+            'host' => ['cassandra', 'cassandra2', 'cassandra3'],
+            //'host' => env('CASSANDRA_DB_HOST', '127.0.0.1'),
+            'port' => env('CASSANDRA_DB_PORT', '9042'),
+            'keyspace' => env('CASSANDRA_DB_DATABASE'),
+            'username' => env('CASSANDRA_DB_USERNAME', ''),
+            'password' => env('CASSANDRA_DB_PASSWORD', ''),
+            'consistency' => 10,
+            'scheme' => 'tcp'
+        ],
+
     ],
 
     /*

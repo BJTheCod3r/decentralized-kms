@@ -6,11 +6,15 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "cubettech/lacassa": "^1.1",
+        "danielhe4rt/scylloquent": "dev-main",
         "guzzlehttp/guzzle": "^7.2",
+        "http-interop/http-factory-guzzle": "^1.2",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
+        "laravel/scout": "^10.4",
         "laravel/tinker": "^2.8",
+        "meilisearch/meilisearch-php": "^1.4",
+        "smalot/pdfparser": "^2.7",
         "yooper/php-text-analysis": "^1.9"
     },
     "require-dev": {
@@ -63,6 +67,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }

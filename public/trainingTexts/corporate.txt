@@ -1,0 +1,612 @@
+Neutral Citation Number:\t [2017] EWHC 3636 (Ch)\t \t
+Case No.: CR-2017-009433\t \t
+IN THE HIGH COURT OF JUSTICE\t \t
+BUSINESS AND PROPERTY COURTS\t \t
+OF ENGLAND AND WALES\t \t
+COMPANIES COURT (ChD)\t \t
+Rolls Building\t \t
+Fetter Lane\t \t
+EC4A 1NL\t \t
+Date: \tTuesday, 19th December 2017\t \t
+Before:\t
+THE HONOURABLE MR JUSTICE MARCUS SMITH\t \t
+Between:\t
+- - - - - - - - - - - - - - - -\t
+THE SECRETARY OF STATE FOR BUSINESS, ENERGY AND\t
+INDUSTRIAL STRATEGY\t \t
+Applicant\t \t
+-and-\t
+IN THE MATTER OF:\t \t
+(1) RIGIL KENT ACQUISITIONS LIMITED \t
+(2) RIGIL KENT CORPORATE ACQUISITIONS & TURNAROUND\t
+LIMITED\t \t
+(3) RIGIL CORPORATE RESCUE LIMITED \t
+4) RIGIL KENT GROUP LIMITED\t \t
+(5) RK ACQUISITIONS LIMITED\t \t
+(6) RK CORPORATE RESCUE LIMITED\t \t
+(7) RK CLIENT ACCOUNT LIMITED\t \t
+(8) FRENCH FOX LIMITED\t \t
+(9) DUMP YOUR BUST BUSINESS DOT COM LIMITED\t \t
+Respondents\t \t
+–and-\t
+IN THE MATTER OF THE INSOLVENCY ACT 1986\t \t
+- - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - -\t
+MS LUCY WILSON BARNES\t (instructed by \tShepherd & Wedderburn\t) appeared on behalf of the\t
+Applicant\t
+MR LAWRENCE POWER\t (instructed by \tKeystone Law\t) appeared on behalf of the Represented\t
+Respondents
+
+- - - - - - - - - - - - - - - -\t
+J U D G M E N T\t \t
+MR JUSTICE MARCUS SMITH\t:\t
+1.
+I have before me various applications for the appointment of a provisional liquidator pending the
+hearing of various petitions for the winding up of a group of companies, whom I shall refer to general
+as the “Respondents”, on the public interest ground under \ts.135 of the Insolvency Act 1986\t.\t
+2.
+Appearing for the Secretary of State is Ms Lucy Wilson Barnes and appearing for some, but not all, of
+the Respondents is Mr Lawrence Power. I should be clear about the parties for whom Mr Power acts.
+On the commencement of this hearing, Mr Power was instructed only by Rigil Kent Group Limited.
+During the course of the hearing, he has been instructed by various other related companies. I shall
+return to the question of the relationship between the companies in due course. For now, I simply list
+the additional parties for whom Mr Power now acts:
+(1)\t RK Acquisitions Limited;\t
+(2)\t RK Corporate Rescue Limited;\t
+(3)\t RK Client Account Limited;\t
+(4)\t French Fox Limited.\t
+These companies are all, I am told, dormant companies.
+3.
+As I have said, I shall refer to the Respondents generally as the “Respondents”. Where I need to
+differentiate between the Respondents generally, and those Respondents who have instructed Mr
+Power, I shall refer to them as the “Represented Respondents”, represented, as they are, by Mr Power.
+4.
+The circumstances in which a winding up petition may be granted in the public interest are relatively
+wide. The court must be satisfied that it is just and equitable to wind up a company in the public
+interest. That jurisdiction is to be exercised with a view to protecting the public and, in doing so, the
+court needs to balance all of the relevant interests, each against the other, in order to ascertain a just
+and equitable result. The approach of any balancing exercise must take into account the totality of the
+material before the court. Taking into account all that material, the court then must reach a view as to
+whether a compulsory winding up is expedient in the public interest.
+5.
+It is fair to say that what is expedient in the public interest bears a wide meaning. In \tRe Senator\t
+Hanseatische\t [1997] 1 WLR 515 at 526 it was stated:\t
+“The expression “expedient in the public interest” is of the widest import. It means what it says. The
+Secretary of State has a right, and some would say a duty, to apply to the court to protect members of
+the public who deal with the company from suffering inevitable loss, whether this derives from illegal
+activity or not.”
+6.
+
+I have taken care to describe the jurisdiction to wind up in the public interest because that is a factor
+that I must bear in mind on this application for the appointment of a provisional liquidator. Essentially,
+to summarise the test in \tHMRC v. Rochdale Drinks Distributor\ts [2013] BCC, 419 at [76] – [77], the\t
+court must take a two-stage process when seeking to consider whether a provisional liquidator should
+be appointed under s.135.
+7.
+First, the court must be satisfied that, on the hearing of the winding up petition, an order for winding
+up is likely to be made. Then, secondly, assuming the first stage is satisfied, the court must be
+satisfied that it is right, in all the circumstances, that a provisional liquidator is appointed.
+8.
+Those principles are expanded upon in a decision of Norris J in \tHMRC v. Winnington Networks Ltd\t \t
+[2014] EWHC 1259 (Ch)\t. That case stands as authority for the following propositions, namely that in\t
+deciding whether to appoint a provisional liquidator, a court must have regard to a number of
+principles:
+(1)
+The appointment of a provisional liquidator is a most serious step and should be the subject of anxious
+consideration.
+(2)
+An application without notice needs to be justified by exceptional circumstances.
+(3)
+The application is not a trial of the petition itself and proceeds on a provisional and interim basis.
+(4)
+It is for the petitioner to show that he is likely to obtain a winding up order on the hearing of the
+petition by demonstrating that he is entitled to present the petition and the material part of the
+petition debt was not capable of serious dispute.
+(5)
+The assessment referred to at (4), when made on a without notice application for a provisional
+liquidator, obviously falls to be made without the company having had the chance to demonstrate that
+it has a good arguable case in support of a dispute as to the debt, and so the court must be assured it
+has a fair picture of the circumstances and that the petitioner has given full and frank disclosure.
+(6)
+The court must be satisfied that the appointment of a provisional liquidator is the right course to take
+in all of the circumstances.
+(7)
+Material to a consideration of those circumstances is the need to protect assets, which should be
+given a fairly broad interpretation in cases where there is a real question as to the integrity of the
+company management and the quality of the accounting and record-keeping functions.
+(8)
+The relief being sought by a public body discharging the public function for the public good is such
+that a cross-undertaking in damages is not generally to be required.
+
+Norris J was, of course, framing these principles by reference to the facts of the case before him. The
+facts of this case – as we shall see – are quite unusual, and some of the principles framed by Norris J
+(notably (4), with its reference to a “debt”; and (5), which is consequential upon (4)) are less pertinent
+here.
+9.
+Subject to the qualification that this is a case for winding up sought on a public interest ground \tnot\t
+related to the indebtedness, or arguable indebtedness, of the Respondents, I naturally accept those
+statements as statements that should guide me in this case.
+10.
+This is not a case where an \tex parte\t application is being made. However, it is a case where these\t
+applications have been made on short-notice to the Respondents and where the Secretary of State has
+applied to abridge time. I have granted the application to abridge time, but I have done so on the
+basis that I treat this application, for the purposes of the obligation on counsel for the Secretary of
+State to make full and frank disclosure, as if it were an \tex parte\t application. \t
+11.
+I appreciate that the Represented Respondents have had the able assistance of Mr Power. But Mr
+Power has only been able to read, in addition to the various petitions, the two statements in support of
+the Secretary of State’s applications (the statements of Mr Hill and Mr George).
+12.
+Mr Power has not seen the fifteen lever-arch files of exhibits which were before me on today’s
+applications. Even if he had received them shortly before this hearing, I have little doubt that, with all
+due credit to his fast reading abilities, he would have been able to assimilate that volume of material.
+Accordingly, I have proceeded – and I am very grateful to Ms Wilson Barnes for doing so – on the basis
+that this is, for the purpose of Ms Wilson Barnes’ submissions only, an \tex parte\t application.\t
+13.
+As I noted a moment ago, the evidence in support of this application for the appointment of a
+provisional liquidator is supported by two statements, first, the statement of Mr David Hill, dated 11
+December 2017. This is a relatively short and high-level statement explaining why it is necessary for a
+provisional liquidator to be appointed. The second statement, that of Mr Mark George, is an
+altogether more substantial document. It runs to 94 pages and 624 paragraphs and sets out in
+massive detail the investigation that has been conducted on behalf of the Secretary of State.
+14.
+The investigations of the Secretary of State have been ordered under \ts.447 of the Companies Act\t
+1985\t. The authority was given on 3 April 2017 in respect of three of the Respondents, and on 26 April\t
+2017 in respect of a fourth. Naturally, during the course of the investigations, information regarding
+the other companies that are Respondents has been obtained, but it is important to note that the
+authorities relate only to four such companies.
+15.
+The evidence of Mr Hill and Mr George makes clear that the Respondents are, to a greater or lesser
+extent, related in the nature of the services that they offer. That relationship is, to the extent it is
+understood by the Secretary of State, fully set out in the evidence that I have read.
+16.
+
+The existence of this relationship was not a point that was seriously contested by Mr Power in his
+submissions. Indeed, the fact that Mr Power now finds himself instructed by five of the Respondents
+rather underlines the existence of the relationship. I accept, based upon the evidence that I have seen,
+that there is a substantial relationship not merely between the Represented Respondents, but the
+Respondents generally.
+17.
+What is more important and more significant is the nature of the nature of the service that is offered
+by the Respondents. It is to that which I now turn.
+18.
+I have been shown various email communications between one or other of the Respondents and either
+clients or proposed clients of the Respondents. I begin with an “Acquisition Proposal”, as it is headed,
+set out in an email dated 18 November 2016, timed at 9.06 in the morning. This comes from a
+mailbox, acquisitions@rigilkent.co.uk, and it sets out a proposal for the acquisition of the company,
+which is referred to as “Oldco”. The terms of the acquisition – which I describe further below – are
+outlined below in a draft service agreement set out in the email. The email refers to various benefits
+provided by the Respondents (to whom I shall refer generally).
+19.
+The email says:
+“You have no more legal or financial responsibility for the debts of Oldco. You can walk away and
+carry on with the rest of your life. We take full legal and financial responsibility for the debts of Oldco
+from the point of purchase. You avoid having to go through court and formal insolvency proceedings,
+with all the dangers and pitfalls that exist. As our client, we only have legal responsibility to protect
+you and ensure you receive a clean exit, unlike insolvency practitioners who have a legal
+responsibility to creditors and to report or prosecute alleged misconduct, despite the fact that you pay
+them. You avoid having a bust business to your name and a black mark. You can tell the world you sold
+the business, which of course you have. And, finally, this process allows you to have a clean, fresh
+start, if that’s what you want, and sleep peacefully at night, knowing you have dealt with everything.”
+20.
+These points are all made under the heading “Benefits to You”. Next, under the heading “Strategy
+Detail”, the following is said:
+“In essence, as we discussed, we offer a realistic alternative to formal insolvency proceedings. We will
+acquire Oldco for a nominal consideration, normally £1. On acquisition, we will change the registered
+office, the existing directors will resign, appropriately dated, we will acquire the shares and you will
+hand all company records to us, for which we provide a receipt, of course. In most cases we change
+company name on acquisition if thought necessary by you as our client. We will then conduct a full
+review of these records in order to establish the financial position. We will speak to creditors and
+inform them that we have purchased the business and that we are conducting a full financial review
+and will revert to them at its conclusion, normally within three to six months of acquisition. In the
+meantime, we will pacify all interested parties and explain to them the situation, which, surprisingly,
+calms then down for the most part.
+At the conclusion of a financial review, we will re-contact stakeholders and inform them of the
+position, that there is little or no prospect of them receiving any distribution. In most cases, that ends
+the matter and we are able to proceed to having the company dissolved or struck off the register. In
+
+the unlikely event we have to take the company through formal insolvency proceedings, we will
+complete all necessary filings and statements and attend all meetings as owners and directors.
+For this service, we charge a fee of £5,000 plus VAT or 10 per cent of the liabilities remaining in Oldco
+on acquisition, whichever is the greater. These fees are normally payable as to 50 per cent on
+instruction and 50 per cent on signing the purchase and sale agreement. In your case, we assume that
+the total company debt would not exceed £45,000 and that there will be no realisable assets. We
+would therefore expect to receive a fee of £5,000 plus VAT as our acquisition handling fee.
+We will require a personal warranty and indemnity from you, or a former director of the company, that
+the information provided represents a true and fair view of the company’s affairs at the date of
+acquisition and that to the best of their/your knowledge and belief there’s been no misfeasance,
+breach of fiduciary duty or other conduct in the affairs of the company during their stewardship.”
+21.
+I was referred to two other emails which are in similar form. I do not need to refer to these second
+and third email communications. They are, in all material respects, the same as the first, from which I
+have extensively quoted.
+22.
+A number of points are made about this proposal by the Secretary of State. The first is that the
+suggestion that is made in the email that a director can, simply by selling his insolvent or near
+insolvent company to an acquirer, constitutes a clean break for that director is wrong. To say that you
+can walk away and carry on with the rest of your life, as the email does say, and to refer to a “clean,
+fresh start”, as the email also says, does not state with complete accuracy the true position. True it is
+that a director may resign his position and a shareholder may sell his or her interest in a company, but
+that does not absolve a former director of liability in respect of, for example, transactions at an
+undervalue or preferences; neither does it prevent that former director being asked questions by the
+Official Receiver. So, the suggestion of a clean break is one that is not entirely correct and one that
+might very well lead to a purchaser of this service being misled as to exactly what he or she was
+obtaining by way of service from the Respondents.
+23.
+However, the objective of the service being sold by the Respondents is pretty clear. What it seeks to
+do is to insert a firebreak between the old director, selling the company, and the Respondents, one of
+whom is buying it. In effect, there is a clean skin interposed so that, if and when insolvency
+proceedings occur, the first in the line of fire will be the new directors rather than the old. What is
+more, it is quite clear from the strategy proposed in these emails that the aim is to avoid a formal
+insolvency process. There are, it seems to me, three paragraphs in the email that I have quoted which
+are really quite important:
+(1)
+I refer to the paragraph referencing a full review of the company records in order to establish the
+financial position. That paragraph then goes on to say:
+“We will speak to creditors and inform them that we have purchased the business and that we are
+conducting a full financial review and will revert to them at its conclusion, normally within three to six
+months of acquisition.”
+
+Pausing there, this is clearly intended to give the sense that the “Oldco’s” financial affairs are being
+looked at by a responsible entity in a responsible way.
+(2)
+The intention, quoting from the last sentence in this paragraph, appears to be simply to put off
+interested parties:
+“In the meantime, we will pacify all interested parties and explain to them the situation, which,
+surprisingly, calms them down for the most part.”
+(3)
+The next paragraph describes what happens after the review:
+“At the conclusion of the financial review, we re-contact stakeholders and inform them of the position,
+that there’s little or no prospect of them receiving any distribution. In most cases, that ends the
+matter and we are able to proceed to having the company dissolved or struck off the register.”
+24.
+So, the “firewall”, as I have referred to it, actually involves giving stakeholders (specifically, creditors)
+comfort, and then, after a period of investigation, letting them down gently so that the company can
+be wound up or dissolved or struck off without a formal insolvency investigation. It is only in the
+unlikely event that that takes place, that the Respondents will complete all necessary filings and
+statements and attend all meetings as owners and directors of the company.
+25.
+Now, it is clear, and it was certainly accepted by Ms Wilson Barnes, that there is nothing illegal in any
+of this. I accept that and proceed on that basis. Nevertheless, it must be accepted and understood that
+there is, through the interposition of a firewall or a cut-out, a risk to the integrity of the insolvency
+process. The point about an insolvency process is that it enables the relevant officers, namely the
+Official Receiver, to look into the affairs of a company. That implies access to the company’s papers
+and access to the directors who were involved in that company during its trading period, rather than
+during the period immediately prior to any insolvency.
+26.
+The point of the service offered by the Respondents is that it undermines the insolvency process by
+putting in place clean skins, who have actually nothing to do with the company and no particular
+interest in doing anything other than putting off the investigation of the company’s insolvency, if that
+investigation takes place at all.
+27.
+It seems to me that the prejudice caused by this service offered by the Respondents can be tested by
+looking at what occurred in individual cases which are set out in the evidence relied upon by the
+Secretary of State. A number of points are relied upon by the Secretary of State to indicate that the
+service offered by the Respondents is an undesirable one.
+28.
+First, reference was made to the backdating of documents. It was suggested that the delay in the
+filing of directors’ appointments was indicative of backdating, but there are other instances of
+backdating or irregularity in the evidence of the Secretary of State. Dates, it was suggested,
+sometimes did not add up and statements were made by a party purporting to be a director of an
+Oldco after that director had resigned.
+
+29.
+I place no weight on these backdating points. It seems to me that backdating or giving a statement in
+the wrong capacity might very easily be innocently explained. It is also the case that I am very
+conscious that the Respondents have been unable to file any evidence in response to the Secretary of
+State’s applications and it seems to me that if there is the possibility of an innocent explanation then I
+ought to factor that in. In this instance, the best way to be fair to the Respondents is simply to
+discount this evidence. It seems to me that this is a point of secondary importance to the Secretary of
+State’s contentions, but one where evidence in response from the Respondents might very well make
+a material difference to my views.
+30.
+The second point made by the Secretary of State related to certain instances when enquiries were
+made of directors of Oldco. I was referred, in particular, to enquiries that were made of a director or
+former director of Tiptoes Day Nursery Limited. What occurred in that case was that a request for
+information was made of a former director, i.e. someone who had sold an Oldco to the Respondents.
+The response that was received was as follows:
+“Dear Sirs,
+I am in receipt of your letter of the 12\tth\t instant. I write to advise that, some months ago, the business\t
+was sold, but not formally completed due to licensing requirements, to Rigil Kent Acquisitions Limited
+(“RK”) and I resigned as a director. The books and records were handed to RK and are no longer in my
+possession. Whilst I am aware of my statutory duty to cooperate with your investigations, I am not
+able to provide any records or answer any detailed questions. In order to meet my statutory
+obligations, I am willing to answer any questions put to me in writing. For more detailed information,
+please communicate with RK. In these circumstances, I will not be attending the meeting I have been
+requested to attend.”
+31.
+I do not criticise the desire of a director or former director to seek to answer questions in writing.
+What, however, I do consider this email demonstrates is how investigations into an insolvent company
+can be stymied by the fact that it becomes very difficult to trace where the books and records have
+gone. Moreover, the director or former director of Oldco is given an excuse to pass the buck to one or
+more of the Respondents from whom Oldco has been, or in this case, may have been acquired.
+32.
+Related to this moving target as to whom to approach when seeking information about the affairs of
+Oldco, the chain of communications regarding the attempt to locate the records of the Tiptoes Day
+Nursery are instructive. Following on from the letter I have set out at paragraph 30 above, the
+insolvency examiner at the Insolvency Service communicated with \tacquisitions@rigilkent.co.uk\t:\t
+“I have been informed you are holding the records of the company. In the circumstances, I would be
+grateful if you could arrange for the records to be delivered to the address below.”
+33.
+A response was received stating:
+“The records are currently in transit to our archive and retrieval centre in Thailand, where they will
+be processed and scanned and returned within eight weeks. We will deliver the records upon their
+return.”
+
+34.
+Now, pausing there, I am entirely happy to proceed on the basis that the Respondents do in fact have
+an archive and retrieval centre in Thailand. What this shows, however, is that there is – on the face of
+it – significant delay, eight weeks in this case, before the material can be provided to the Insolvency
+Service. As it happens, no such material was ever provided in this case.
+35.
+Just to conclude this particular story, the Insolvency Service proceeded by thanking the communicator
+for this information, stating that they looked forward to receiving the documentation and then stating:
+“In the interim, I would be grateful to receive a copy of the receipt issued when the records were
+obtained by you, and also a schedule from the documentation sent to Thailand.”
+36.
+On the same day, there was a response from the Respondents, with a laconic “Enclosed”. What was
+enclosed was a document which lists, in very generic detail, a series of documents apparently held on
+behalf of Tiptoes Day Nursery. It is, however, to be inferred from the evidence of Mr George (see his
+statement at paragraph 254) that this was a generic, rather than a individual list. Mr George says this
+because, under the heading “Accounting Records”, it lists VAT returns, and Tiptoes Day Nursery was
+in fact VAT exempt. Certainly, it does not seem that the schedule of documents provided by the
+Respondents was very helpful – or, for that matter, very accurate – at all.
+37.
+I cite this incident in some detail simply because it demonstrates the sort of difficulties that arise
+because of the service being offered by the Respondents. And, of course, it needs to be borne in mind
+that this service was being offered on a large scale.
+38.
+One sees a further instance of the difficulties caused by the Respondents’ service when the affairs of
+an Oldco do come to court. I was referred to another example, arising out of an attendance note of
+proceedings in the District Court in respect of the winding up of a company whose directors or former
+directors had signed up to the service offered by the Respondents. Shall simply refer to the company
+involved as “Oldco”, although that was not its name. I was shown an attendance note of Mr Simon
+Newman of counsel, dated 3 July 2017. This attendance note describes is the exchanges that took
+place before a hearing before the District Judge and then the hearing by the District Judge himself.
+39.
+Paragraph 3 of the attendance note describes what Mr Newman was told by someone (I shall refer to
+that person as X) who attended on behalf of OldCo, and who claimed to be a solicitor’s clerk for
+French Fox Law, which was either one of the Respondents or else related to the Respondents:
+“I was informed [Oldco] had been purchased by another company and a thirty-day adjournment was
+sought by the company to assess the financial position and make payment in full. I made further
+enquiries of [the sol, but he made clear that he did not know anything beyond that he has told me.”
+40.
+Pausing there, this notion of assessing the company’s (Oldco’s) financial position and offering to make
+payment in full is entirely inconsistent with the nature of the service being offered in the emails that I
+described earlier on in the judgment.
+41.
+
+In paragraph 4 of the attendance note, Mr Newman records the suspicion that he had that Oldco was
+stalling. In paragraph 5 of the attendance note, Mr Newman records what X told the District Judge:
+“…that he was instructed to seek a thirty-day adjournment. The District Judge enquired about the
+capacity in which he acted, and he stated he appears as agent for his firm and was instructed this
+morning to attend court. He stated that French Fox Law were solicitors instructed by Rigil Kent
+Limited, a corporate acquisition and turnaround firm who had acquired [Oldco]. He stated that if a
+thirty-day adjournment was granted, this would be used to review the financial situation and pay
+creditors.”
+42.
+So, once again, one has a clear indication that, if time is granted, Oldco will have at least an
+opportunity of paying its creditors. This is, of course, entirely at variance with the nature of the
+companies the Respondents’ clients were seeking to sell to the Respondents.
+43.
+Looking at paragraph 7 of the attendance note, X is recorded as confirming that Oldco had been
+aware of its debts, including that of supporting creditor, and the company’s position was that if an
+adjournment was granted, the company would pay the creditors in full. So we see an even firmer
+assertion of future payment being made.
+44.
+I put it no higher than this, but I do not consider it needs to be put any higher than this: there is
+clearly material from which an inference can be drawn that the District Judge was not being told the
+complete truth about the circumstances of the company that X was representing.
+45.
+Equally seriously, X represented himself as being a solicitor’s clerk for French Fox Law, and he was
+asked specifically by the District Judge to produce the SRA number of the firm he was purporting to
+act for. He produced an SRA number, which is stated at paragraph 11 of the attendance note as
+“297633”. That number has been checked under the law firm search provided by the SRA, and that
+number does not reference French Fox Law. Instead, an altogether different firm is identified by the
+SRA number provided by X
+46.
+This material underlines, to my mind, one of the mischiefs of the service being sold by the
+Respondents, namely that there is a clear incentive to misstate or mislead the court as to the true
+position of the insolvent Oldco.
+47.
+In my judgment, the service sold by the Respondents undermines the insolvency process in at least
+two respects.
+48.
+First, it does not clearly state, and certainly does not completely accurately state, the implications of
+the service being offered to clients, as I say, the directors of Oldco, who purchase that service. A clean
+break is promised, where no clean break can be achieved.
+49.
+Secondly, the establishment of the firewall that I have described results in prejudice to the insolvency
+process in these respects:
+
+(1)
+First, it hampers the investigation of the Official Receiver and the Insolvency Service in establishing
+the true facts relating to the background of an insolvent company.
+(2)
+Secondly, when matters do come to court, there is at least the potential for the court to be misled as
+to the affairs of the Oldco. The example I have given is a particularly serious one, which I do not
+assume to be typical. But I consider that there is a clear risk of the court being misled in less serious,
+but nonetheless material, ways.
+50.
+The next point that is made on behalf of the Secretary of State regarding the importance of both these
+applications and the petitions is that the investigation of the Respondents pursuant to the
+investigation process under s.427 has been fraught and difficult. This is described in considerable
+detail in the statement of Mr George, and I will not, given the length and detail of that statement, seek
+to quote or even to summarise the detail that it contains. Suffice it to say that it is plain from the
+evidence of Mr George that those Respondents under investigation, and I stress that it was only four
+of the Respondents in respect of whom an authority was given, gave the investigators the run-around.
+It has not been possible to establish with any great success exactly who controls or operates the
+Respondents, how they operate, or all the parties involved.
+51.
+The lack of transparency that has been demonstrated simply bears out the risks of prejudice to the
+insolvency process that I have already described. It is, in reality, an extrapolation of those difficulties.
+52.
+I turn to the various points that were made in response to these applications by Mr Power. Before I do
+so, I should say that the question of abandonment, which is really a matter to be argued in relation to
+the petitions to wind up, when they are moved, was not addressed by Ms Wilson Barnes today, and I
+say nothing about that now.
+53.
+Various points were taken by Mr Power on behalf of the Represented Respondents.
+54.
+First, he suggested that there was no risk of dissipation of assets. To a very large extent, that point
+was accepted on the facts by the Secretary of State. The reason it was accepted was because the risk
+of dissipation of assets was not the point of the petition and not the point of these applications. The
+fact is, a petition seeking the winding up of a company in the public interest can, as I have indicated,
+be very widely based. Dissipation is not the only ground for winding up. I have described the prejudice
+that I have found to the insolvency process and it is that prejudice that drives forward these
+applications. So, I find the point made by Mr Power well-grounds on the facts, but irrelevant.
+55.
+Secondly, and, in a sense, related to this question of dissipation, it is said that there is no sufficient
+statement of the assets under risk. Now, granted, such a statement is required by the Insolvency
+Rules and Mr Power accepted that such a statement had been made in paragraph 29 of Mr Hill’s
+statement. What Mr Power suggested was that the statement made by Mr Hill, which was to the effect
+that he did not know what assets were under risk, was insufficient. I do not accept that submission. It
+seems to me that the evidence of Mr Hill was entirely appropriate given the lack of cooperation from
+
+the Respondents that is described in the evidence of Mr George. It seems to me that if one does not
+have the material to describe the assets under risk, then all that one can say is “I don’t know”. That,
+as it seems to me, is what Mr Hill says in his statement.
+56.
+Mr Power’s third point was that no cross-undertaking was offered by the Secretary of State. I should
+be quite clear that Ms Wilson Barnes, both in her written and in her oral submissions, made clear that
+no such cross-undertaking was being offered. The reason no cross-undertaking was being offered was
+because the Secretary of State was, according to Ms Wilson Barnes’ submission, acting in the public
+interest in making these applications and, next year, in bringing the petitions. She referred me to the
+decision of Etherton J, as he then was, in the matter of \tCity Vintners Limited\t, which is a decision\t
+dated 10 December 2001. I will not quote extensively from the judgment of Etherton J. I will simply
+state that the judgment considers in some detail the law regarding cross-undertakings from the
+Crown, or the Secretary of State in this case. The decision makes clear that, where the Crown is
+acting to enforce some proprietary right, in other words, where the Crown is, in effect, acting in a
+private capacity, the ordinary rule applies so that no interlocutory injunction will be given, unless, as
+the price for the injunction, an undertaking in damages is given. Where, however, the Crown is taking
+proceedings in order to enforce the law, no such undertaking should be required, unless the person
+against whom the injunction was sought shows special circumstances justifying the requirement.
+57.
+Mr Power sought to persuade me that \tCity Vintners\t Limited\t was not a correct statement of the law,\t
+and I was referred to the decision, much more recent, in \tAbbey Forwarding Limited (in Liquidation) v\t
+Revenue and Customs Commissioners\t [2015] EWHC 225 (Ch)\t, a decision of David Richards J, as he\t
+then was. This, however, was not a case where the public interest was engaged. Instead, the Revenue
+had in fact given a cross-undertaking in damages and was seeking to persuade the court that the
+cross-undertaking which had been given should not be enforced in full. The court (at [147]) indicated
+that whilst it had not been the practice to require HMRC to provide an undertaking in damages where
+a provisional liquidator was sought in support of a winding up petition, once an undertaking had been
+given, it should be enforced, and that, to my mind, is all that the decision says. To my mind, it says
+nothing about the need or desirability of cross-undertakings in a case such as this.
+58.
+I accept the general rule as set out by Etherton J, that where the Secretary of State is seeking to
+enforce a public interest, it would have a deterrent or cooling effect were there to be, as the
+automatic price of an interim remedy, the imposition or requirement of an undertaking in damages. I
+take into account in my decision that no cross-undertaking is offered, and I should say now that if, in
+the facts of this case, I thought that such an undertaking was appropriate, then I would require one
+from the Secretary of State before making any order in this matter. But I do not consider, in this case,
+that it is appropriate to require a cross-undertaking as the price of the relief sought by the Secretary
+of State.
+59.
+I turn then to the question of urgency (or lack of it), which was Mr Power’s fourth point. Mr Power
+suggested that there was no urgency in this case, and he made his point in two ways. First, he
+suggested that there had been an unreasonable delay between the commencement of the
+authorisation of the investigations and the making of these applications. Now, as I have said, the
+statements on which the Secretary of State relies are dated 11 December 2017, and here we are, only
+a few days later, on 19 December 2017, hearing applications based upon those statements. I do not
+
+consider that there can be any criticism of the time between the conclusion of the statements on
+which the Secretary of State relies and the making of these applications.
+60.
+Mr Power, however, was seeking to make a more subtle point. What he suggested was that there was
+no discovery by the Secretary of State sufficient to trigger the making of an urgent applications.
+There was, in short, no factual discovery, made shortly before these applications were made, to justify
+them.
+61.
+So far as it goes, that is factually right. But it seems to me that the point is a rather poor one that
+overlooks the reality of the Secretary of State’s position. The fact is that the Secretary of State cannot,
+in all propriety, proceed with applications such as these without having the evidential basis upon
+which to do so. That evidence cannot be presented as half-baked; it has to be properly presented,
+particularly when, as here, I am proceeding on the basis that this is as if an \tex parte\t application.\t
+Unless it could be shown that, in some way, the Secretary of State had delayed unreasonably in
+producing the evidence on which the applications are founded, there is nothing in the point.
+62.
+I can see no basis for suggesting that the Secretary of State has delayed in the production of the
+evidence relied upon. I find that the Secretary of State has proceeded with these applications as
+quickly as the Secretary of State could, given the time gap between 11 December 2017 and 19
+December 2017. So, I reject this argument. I find that there has been no delay, and certainly no undue
+delay, in the making of this application.
+63.
+There is, however, the question of whether these applications for the appointment of a provisional
+liquidator are sufficiently urgent in all the circumstances. These applications do need to be justified in
+terms of explaining why it is that they are being made in anticipation of and in support of the petitions
+to wind up the Respondents that are due to be heard next year, in February 2018.
+64.
+The urgency arises out of the fact that the Secretary of State does not want the practices that I have
+described to continue any longer. I do not need to repeat what I have said about the desirability of
+these practices. I consider that the Secretary of State is entirely right to want to have, for the rest of
+this year and for the early part of next year, the assurance that the practices that I have described will
+not take place any longer. I will return, in a few moments, to the question of the whether the
+undertakings that are now being offered by the Representative Respondents affects the extent to
+which urgency can be said to justify these applications. Apart from that point, I am satisfied that there
+is sufficient urgency to justify these applications.
+65.
+As a collateral benefit of the appointment of a provisional liquidator pending a petition, it is also the
+fact that the affairs of the Respondents can be investigated by the Official Receiver, through the
+provisional liquidator. I place relatively little weight on this simply because it is not a point that is
+made with any great force in the evidence relied upon by the Secretary of State. But I do observe that
+the evidence relied upon by the Secretary of State sets out in some terms and some clarity the lack of
+cooperation and response from the Respondents the subject of the investigations. There is,
+consequently, a lack of clarity in the Secretary of State’s understanding of the affairs of the
+Respondents, so I attach some, but not undue, weight to this fact.
+
+66.
+I turn then to the application of the test that I began this ruling in describing. I must ask myself, first,
+whether it is likely that the court, on a hearing of the winding up petitions, will make an order
+winding up the Respondents. I consider that it is likely that such a winding up order will be made and
+that the petitions, when they are heard, will be successful. I base that, essentially, on the analysis that
+I have made of the service provided by the Respondents. That service is, as it seems to me, not in the
+public interest and one that, in the specific circumstances of this case, ought to be stopped.
+67.
+The question then is whether, being satisfied that a winding up order is likely to be made, I am
+satisfied, in all the circumstances, that a provisional liquidator should be appointed. In considering
+this factor, I of course accept that the appointment of a provisional liquidator is an exceptional
+remedy. Indeed, it is an extreme remedy and it is one that should only be imposed in a clear case. To
+my mind, there is real benefit in ensuring that these practices, which I consider to be pernicious, are
+stopped.
+68.
+Of course, I have well in mind the undertakings that are offered by the Represented Respondents.
+Ordinarily, an undertaking in the terms of an order sought will be accepted by the court in lieu of
+making the order. In this case, however, the undertakings have been made or given extremely late. I
+make no criticism of that, but it is a fact. What is more, they emanate from four entities that are
+dormant, and one entity that is active. So, to the extent that the undertakings are of any value, it
+seems to me that it is only the undertaking from the active entity that has real value. So far as the
+dormant companies are concerned, the undertaking has little value, but, equally, the imposition of a
+provisional liquidator has minimal prejudice to the dormant companies. As it seems to me, there is
+some advantage, that is to say the advantage of being able to investigate the affairs of the
+Respondents by appointing a provisional liquidator, and that, and that, at the end of the day, is one
+matter that suggests to me that the applications today should be granted.
+69.
+The other much more potent factor is simply this. Given the complexity of the interrelationship
+between the various Respondents and their lack of transparency, it is appropriate that a blanket
+provisional liquidator regime be put in place in respect of all the Respondents so that the business
+that appears to have been operated interchangeably through the various Respondents can properly be
+brought to a close.
+70.
+In those circumstances and given that I have found no indication and no evidence of delay on the part
+of the Secretary of State, and I consider that these matters and practices should be prevented for the
+future, until the petitions can be heard, I grant the applications that are made today.
+71.
+I should say, however, that, whilst I grant the applications, I am conscious that I have seen and
+received no evidence from the Respondents, and it is appropriate to treat this application as an
+interim application. If the Respondents, or the Represented Respondents, wish to move the court in
+advance of the hearing of the petitions next February, then I give them liberty to do so. Obviously, that
+must be done on the basis of evidence, to which the Secretary of State will wish to reply. I say nothing
+about whether it is desirable or not to have such an application heard before the hearing of the
+petitions or at the same time as the petitions, but it seems to me that it is a consequence of the fact
+
+that, whilst I am satisfied, on the evidence, that the orders sought are appropriate, equally, I should
+give the opportunity to the Respondents, if they wish it, to move the court on a future date to have
+these orders set aside, and I will want that incorporated in any order that I am invited to make.
+__________\t
+Transcribed by \tOpus 2 International Ltd.\t \t
+(Incorporating Beverley F. Nunnery & Co.)\t \t
+Official Court Reporters and Audio Transcribers\t \t
+5 New Street Square, London EC4A 3BF\t \t
+Tel: 020 7831 5627 Fax: 020 7831 7737\t \t
+civil@opus2.digital\t \t
+This transcript has been approved by the Judge

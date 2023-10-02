@@ -1,0 +1,981 @@
+Neutral Citation Number: \t[2018] EWHC 1588 (Admin)\t \t
+Case No: \tCO/5321/2017\t \t
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+ADMINISTRATIVE COURT \t
+Royal Courts of Justice\t \t
+Strand, London, WC2A 2LL\t \t
+Date: \t22/06/2018\t \t
+Before \t: \t
+THE HONOURABLE MRS JUSTICE ANDREWS DBE\t \t
+- - - - - - - - - - - - - - - - - - - - -\t
+Between :\t \t
+THE QUEEN (on the application of LAW CENTRES FEDERATION\t
+LIMITED t/a LAW CENTRES NETWORK)\t \tClaimant\t \t
+- and -\t \t
+THE LORD CHANCELLOR\t \tDefendant\t \t
+- - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - -\t
+Jason Coppel QC and Edward Capewell \t(instructed by \tPublic Law Project\t ) for the C \tlaimant\t \t
+Fiona Scolding QC and Amelia Walker \t(instructed by \tGovernment Legal Department\t ) for the \t
+Defendant\t \t
+Hearing dates: 21 and 22 May 2018\t
+- - - - - - - - - - - - - - - - - - - -\t
+Approved Judgment\t \t
+Mrs Justice Andrews:
+INTRODUCTION\t \t
+1.
+This is a claim for judicial review of two decisions made by the Defendant in connection with the
+provision of legal services under those Housing Possession Court Duty (“HPCD”) schemes which are
+funded by Legal Aid. The first decision was made on 16 August 2017, when (following a consultation
+exercise initiated in January 2017) the Defendant decided to reduce the number of scheme areas from
+over 100 to 47, and to introduce price-competitive tendering for the HPCD scheme contracts. The
+second decision was made on 12 October 2017, when the Defendant decided to initiate the
+procurement process by publishing the relevant tender documents.
+2.
+
+The decisions under challenge were not driven by cost-saving considerations. Indeed, there was
+internal recognition within the Legal Aid Agency (“LAA”) that any savings brought about by the
+changes would be “negligible”. They have not resulted in a reduction in the amount of Legal Aid that
+is made available to deliver HPCD schemes in England and Wales, which remains in the order of £3.6
+million per annum, only 0.2% of the Legal Aid budget. Instead, they have altered the way in which
+that £3.6 million is divided up between providers of the services, by making the geographic areas for
+which HPCD scheme contracts are awarded much larger than before – for example, one area covers
+three whole counties (Berkshire, Bedfordshire and Oxfordshire), another, the whole of Wales.
+3.
+This has meant that in many cases, the successful bidders have had no choice but to deliver the
+services through agents, although, in common with the principal providers, each agent must hold a
+mainstream Legal Aid contract for Housing and Debt advice. This requirement ensures that all
+providers have the necessary expertise. It is also a term of the new contracts that the majority of acts
+of assistance in any given year must be delivered by the contractor itself.
+4.
+The Claimant contends that the decisions are unlawful because the Defendant failed to properly
+acquaint himself with the legally necessary information on which they should have been based, and
+instead proceeded on the basis of an assumption, for which there was no evidence, that the
+introduction of larger contracts would improve “sustainability”. The Claimant’s case in a nutshell is
+that the Defendant failed to make sufficient enquiries, leading in each case to a decision that was both
+illogical and irrational. Further or alternatively, it is contended that the Defendant failed to comply
+with the public sector equality duty (“PSED”) in \tsection 149\t of the Equality Act 2010.\t
+The Parties\t \t
+5.
+The Claimant is the national membership and co-ordinating body for a national network of 45 Law
+Centres, each of which is a not-for-profit (NfP) legal practice and an independent registered charity.
+Law Centres provide free legal advice and assistance in a variety of civil law matters to financially and
+socially disadvantaged individuals and communities, according to local needs.
+6.
+The Legal Aid Sentencing and Punishment of Offenders Act 2013 (“\tLASPO\t”) drastically reduced the\t
+areas of law and the types of work for which civil Legal Aid was previously available. Many firms of
+solicitors have ceased to do civil Legal Aid work because it no longer provides sufficient income for
+them. There are areas, such as Cornwall, that are aptly described as “Legal Aid deserts”. Even in the
+rare instances in which it is still available, Legal Aid is unlikely to be sufficient to meet all the needs of
+the client.
+7.
+Against that background, Law Centres provide an invaluable community resource. They enable some
+of the most vulnerable members of society to obtain, free of charge, basic legal advice in those areas
+of law, such as housing, social welfare, and employment, which have the most fundamental impact on
+their daily lives and wellbeing. The work they do goes beyond addressing the immediate crisis faced
+by a client and seeks to find a means of addressing the underlying factors which led to that crisis.
+Thus, for example, the client may receive advice as to how to claim benefits to which they are entitled,
+which would pay their rent arrears, and help in filling in the necessary forms, which are often bulky
+
+and complex. Alternatively, the Law Centre staff may be able to negotiate staged payments of existing
+debts and provide or arrange for debt counselling to help the client to manage their finances.
+8.
+Each Law Centre generates its own funding, which comes from a mixture of sources; chiefly, Legal Aid
+contracts, Local Authority contracts, and grants from charitable trusts and foundations. Legal Aid
+contracts enable Law Centres to represent their clients in courts and tribunals, and thus provide the
+clients with a means of access to justice that they would otherwise be unable to afford.
+9.
+Prior to the introduction of \tLASPO\t, typically Legal Aid contracts would account for around 40% of a\t
+Law Centre’s income, with 40% coming from Local Authorities and the remaining 20% from charitable
+trusts and foundations. Since \tLASPO\t, the overall income of Law Centres has halved. 11 Law Centres\t
+were forced to close as a direct result of the reductions in civil Legal Aid work. Those which survived
+have stabilised, although all have fewer staff and reduced funding. Thus any decision which would
+reduce or end the income that a Law Centre presently receives from Legal Aid contracts will self-
+evidently have a negative impact on its viability.
+10.
+The Defendant has a duty pursuant to \tsection 1 of LASPO\t to secure that Legal Aid is made available in\t
+accordance with part 1 of that Act. Under \tsection 2 of LASPO\t, the Defendant may make such\t
+arrangements as he considers appropriate in order to discharge his functions under part 1.
+11.
+In practice, Legal Aid is delivered through the LAA (formerly the Legal Services Commission), which
+is an executive agency of the Ministry of Justice (“MoJ”), under the Director of Legal Aid Casework,
+who is appointed by the Defendant pursuant to \tsection 4 of LASPO\t. The LAA acts on behalf of the\t
+Defendant in commissioning and administering Legal Aid services across England and Wales. All
+Legal Aid contracts are issued by the LAA.
+Housing Possession Court Duty Schemes\t \t
+12.
+Although many aspects of housing law were taken out of the scope of civil Legal Aid, it still covers the
+services provided under a HPCD scheme, which enables individuals who are defending proceedings
+for possession to obtain emergency, on the day face- to-face legal advice, assistance, and advocacy
+services at court. The hearings in a possession list tend to be very short (on average, 5-10 minutes). In
+some court centres 40-50 cases may be listed in a day. The court will either make an order against the
+tenant, or give directions for trial, or adjourn the matter for further investigations. The usual aim of
+the legal representative will be to obtain an adjournment for a short time - typically 14 days - to
+enable steps to be taken to resolve the matter in a way that prevents the client from losing their
+home. Such schemes therefore provide a vital service for vulnerable individuals who face immediate
+homelessness.
+13.
+A HPCD scheme may be operated at or across one or more courts in a particular location. There are a
+handful of courts around the country, including Guildford, in which similar schemes are funded
+independently; this case is not concerned with them.
+14.
+
+As is generally the case with Legal Aid clients, many of the clients who use the HPCD schemes have
+protected characteristics under the \tEquality Act 2010\t. In one area, for example, where around 85% of\t
+the clients were in receipt of low income, such that they would qualify for Legal Aid, 31% were
+classified as disabled. Many users of the service have mental health difficulties. A high proportion are
+single females with dependent children. The LAA’s own statistics indicate that around 62% of those
+who use the HPCD schemes are female.
+15.
+If a Law Centre has a contract to deliver a HPCD scheme, the scheme will often provide the first point
+of contact between the client and those at the Law Centre who are able to provide them with the
+necessary advice and assistance to enable the myriad issues which have led to the possession
+proceedings – such as welfare benefit issues, loss of a job, or family breakdown - to be addressed.
+Although some clients encountered on the HPCD scheme will be taken on by the Law Centre for
+follow-up Legal Aid housing advice, this is typically a small percentage: most of the follow-up work
+carried out by Law Centres is either outside the scope of Legal Aid altogether, or Legal Aid advice
+would only be available to the client via a remote telephone service. That is far from ideal if the client
+has a limited understanding of English, or is illiterate, or is someone who has turned up at the Law
+Centre with a carrier bag full of papers that need to be physically sorted into order and relevance. The
+Law Centre will be able to provide the client with readily accessible, direct, face-to-face assistance.
+The continuity of dealing with the same person or people has obvious advantages for the client, not
+least that it helps to foster and maintain trust.
+16.
+The fact that a Law Centre has a HPCD scheme contract enables it to represent the client’s interests
+from a position of strength, or as one of the Claimant’s witnesses put it, “gives it teeth” – opponents
+will be aware that the client will have representation from someone experienced in that area of the
+law, and act accordingly. Such representation furthers the interests of justice by saving court time and
+resources that would otherwise be needed to ensure the fair treatment of litigants in person (and their
+dependents) facing the imminent loss of their home. Law Centre staff build up a good working
+relationship with the local court staff and members of the judiciary, often over many years, and the
+work that they do is much appreciated by those working within the courts and tribunals in which they
+appear.
+17.
+The existence of a HPCD scheme contract also lends considerable weight to a Law Centre’s
+application for finance from other sources, which funds the work done by its volunteers outside the
+scope of Legal Aid (referred to in this case as “wrap around” work). Without such contracts, Law
+Centres would have more difficulty in securing some of these other funds, which would have a
+detrimental impact on the scope of services they are able to provide and on the outcomes for the
+people who seek their help. From a wider social perspective, creating constraints on the services that
+Law Centres can provide is likely to cause greater strain on the limited resources of Local Authorities,
+who would have to pick up the longer-term legal and financial burden if the client became homeless
+and destitute in circumstances in which that outcome could have been avoided (at a fraction of the
+cost to the taxpayer).
+BACKGROUND TO THE DECISIONS\t \t
+18.
+
+Since 2010 the LAA has run a competitive procurement process and awarded separate contracts for
+each area in which a publicly funded HPCD scheme is operative (though some of the smaller schemes
+operating in courts within the same locality might be grouped together within one contract area). The
+last comprehensive civil tendering exercise the LAA undertook for HPCD services was in 2010. Since
+then, there have been a number of targeted civil tendering exercises to deal with specific issues.
+19.
+Historically, the Department for Communities and Local Government (DCLG) had been responsible for
+the funding (by means of grants) of around 68 HPCD schemes in courts which were not funded by
+Legal Aid. These schemes were typically smaller than the schemes already being funded through
+Legal Aid. The LAA classified a scheme as “small” if there were fewer than 270 acts of assistance per
+year. Obviously, the lower the volumes of work, the less the providers would be paid under the
+contract. In 2012, by agreement with the MoJ, the responsibility for funding the DCLG schemes was
+transferred to the LAA.
+20.
+From April 2013, when \tLASPO\t came into effect, the LAA had to tender for contracts in those\t
+categories of law which had significantly changed in terms of scope as a result of \tLASPO\t. This meant\t
+that all Housing and Debt contracts were re-tendered in 2013. HPCD schemes now fell within the
+Housing (Mainstream) contract specification. Some HPCD schemes were also tendered in April 2013,
+including all the schemes inherited from the DCLG, as well as those which had previously been funded
+by aspects of Legal Aid which had ceased to be funded under \tLASPO\t.\t
+21.
+In around 2014, discussions started between the MoJ and the LAA about re-tendering the contracts
+for all HPCD schemes in 2015, including those which had been re- tendered in 2013. This was a
+sensible idea, as it would bring the start and end dates of all HPCD scheme contracts into line. It was
+at that time that the LAA first aired a proposal to consolidate the number of schemes and introduce
+price-competitive tendering. In the event, for various reasons, the majority of the HPCD scheme
+contracts were not re-tendered until the 2018 tender, unless an existing provider withdrew and the
+LAA had to put in place interim arrangements. The 2010 contracts were run on a series of extensions
+following the expiry of their initial five-year term.
+22.
+In June 2015, the relevant Minister agreed to a proposal to align all Civil Legal Aid contracts, to bring
+everything under a single contract. However, that plan was put on hold, as was the possibility of a
+policy consultation on proposed changes to the HPCD scheme contracts, whilst in July 2015 HMCTS
+launched its own consultation into a further proposed programme of significant court closures.
+23.
+In 2015 there were 117 HPCD schemes covering 167 courts, including those inherited from the DCLG,
+but the rolling programme of court closures and amalgamations inevitably reduced the numbers.
+Since then, 33 courts which previously operated a HPCD scheme have closed, and the schemes
+operating at a further 11 courts have been relocated to different courts within the same town or city
+which are now hearing the possession lists. The contracts for the HPCD schemes were amended as
+necessary to reflect these changes. If, as sometimes occurred, the possession list was transferred to a
+court in a different scheme area in which the HPCD services were already being delivered by another
+provider, the LAA worked with the two providers to reach a mutually acceptable solution on how the
+
+work would be divided between them in future. If they could not reach agreement, the LAA
+terminated the contract of the provider where the court(s) had closed.
+24.
+By November 2017, there were 64 providers (including 12 Law Centres) delivering 107 HPCD
+schemes. Since then, a further 9 HPCD schemes ceased to exist when the courts at which they
+operated closed. Prior to the decisions under challenge, 64% of HPCD scheme contracts were
+operated by NfP organisations (a fact which is not mentioned in any of the Ministerial submissions).
+Of these, the 12 Law Centres held approximately 16% of the HPCD scheme contracts and represented
+20% of the provider base.
+25.
+The information from HMCTS as to their plans for court closures was factored into considerations of
+how the HPCD schemes would be delivered under the 2018 Contract. The LAA took planned court
+closures into account when devising the new scheme areas, but despite this, it was impossible to be
+certain about which courts were covered in those areas, as the programme of court closures could
+still change. The LAA were conscious that if HMCTS changed its plans, the new contracts needed to
+be sufficiently flexible to meet the altered situation on the ground.
+26.
+In April 2016, following the receipt of notice of withdrawal from three HPCD scheme providers, the
+LAA prepared an internal paper which was used to inform the policy, though it was not shown to
+Ministers. The document examined the wider issues of HPCD scheme withdrawals, including the
+reasons given for such withdrawals, and outlined “\tfuture plans to increase sustainability of these\t
+contracts\t.” A table annexed to the paper at Annex A gave details of the providers who had withdrawn\t
+from 17 schemes since April 2013 (a 10% withdrawal rate in 3 years). The paper noted that of these,
+only two also withdrew from their Housing and Debt contracts. At that stage, no attempt was made to
+compute how much money the providers who withdrew had received from the scheme in the financial
+year in which they withdrew.
+27.
+The paper stated that there was no evidence to suggest that providers were withdrawing as a direct
+result of the HPCD scheme fees, which were in place well before 2013/2014 when the LAA started to
+see providers pull out of the work. The fees had not been cited by providers as a reason. Under the
+heading “reasons for withdrawal” the document stated that “ \tanecdotal evidence from providers on\t
+the reasons for withdrawal are generally that the contracts are not financially viable, due mainly to
+the low volume of work in conjunction in some instances with the amount of travel required to cover
+Schemes.\t ” (I should explain that travel costs are not reimbursed by the LAA under the contract). \t
+28.
+When HPCD scheme contracts are entered into, a nominal figure is set for the expected number of
+cases per year. As the paper mentioned, the data showed that in nearly all the schemes where
+providers withdrew, the “run rate” (i.e. number of acts of assistance) was below the expected range of
+85%-110% of that target figure. Coupled with this, whilst the scope of HPCD schemes did not change
+as a result of \tLASPO\t, changes \twere \tintroduced to follow-up work, which may have resulted in the\t
+amount of work experienced not matching provider expectations. (That is a reference to the fact that
+much of the follow-up work now fell outside the scope of Legal Aid). Linked to the general reduction
+in civil work across the board, many organisations had undergone personnel changes and/or
+
+restructuring, and where this resulted in losing key personnel delivering housing possession work,
+this had led the provider to decide to withdraw from the scheme.
+29.
+It was therefore proposed to procure larger contracts for HPCD schemes “\tin order to make the\t
+contracts more attractive and sustainable\t”. There was recognition that this might result in an \tincrease\t
+in travel, but the LAA believed the effects of this would be mitigated by the greater volume of work
+created by larger procurement areas and by the ability to continue to use agents to deliver the work.
+30.
+Confusingly, the word “sustainable” appears to have been used in two different senses. In most of the
+relevant documents it was plainly being used in the sense of being financially viable, but the civil
+servants within the LAA who provided witness statements in this case suggest that what they actually
+meant by “sustainable” was maintaining the service to clients. Whilst there is potentially a link
+between financial viability for service providers and the ability to maintain the service, the
+Defendant’s case is weaker if the latter meaning of “sustainable” is adopted, since the Claimant’s
+uncontradicted evidence establishes that there were never any practical problems in maintaining the
+service to clients under the existing HPCD schemes, even when providers pulled out of the contracts.
+31.
+Logically, the theory that a greater volume of work, leading to increased income, would provide an
+incentive to providers to remain within the system, only holds good if the provider is likely to make
+enough money from the larger contract to make it attractive. He would only do so if it generates
+sufficient profit after he has covered any additional costs (including travel costs) and expenses
+(including administrative expenses) generated by increasing the size of the contract area. However,
+once he starts sharing the additional fee income with someone else, the chances of his making enough
+money will self-evidently decrease.
+32.
+There is no explanation given in this, or any other document in which the thinking behind the policy is
+articulated, of why the LAA thought that larger scheme areas would be regarded as more attractive by
+providers, if those providers would not be receiving all the income generated from the postulated
+additional volume of work. Getting local agents to deliver the schemes would potentially mitigate the
+costs of long-distance travel, but then the \tagents \twould receive the fees for the services they were\t
+delivering. At most, the principals would be getting some payments from the agents of a percentage of
+the fees to defray their additional administrative costs.
+33.
+That gives rise to the scenario that the same providers would be supplying the HPCD scheme services
+within the larger contract areas, but none would be significantly better off, because the principal
+provider would end up with around the same or only marginally more net income once his increased
+overheads were met, and the agents would receive less net income for doing the same work. There is
+no evidence that anyone in the LAA ever thought about, let alone addressed, that scenario.
+The Decision-Making process\t \t
+34.
+The central justification given to Ministers for the proposed changes namely, that small schemes were
+already \tproving to be unsustainable and that providers were pulling out because they were not\t
+earning enough money from the HPCD work, was not evidence-based. It was based on assumption or
+
+conjecture or, at most, “anecdotal” evidence from a handful of un-named providers, and which was not
+reflected in the 2016 table recording the reasons for provider withdrawals.
+35.
+On 3 November 2016, a submission was made by the LAA to the Minister of State (then Sir Oliver
+Heald QC MP) seeking clearance to carry out a consultation on the proposal to consolidate the
+number of HPCD schemes and introduce price as a criterion in the competitive tendering process. The
+Ministerial submission included this passage under the heading “Background”:
+“ You asked the LAA to obtain initial views from the profession on the proposals on HPCDS. The LAA
+met with the Law Society and the Legal Aid Practitioners Group on 2 November to discuss the HPCDS
+proposals on a confidential basis. \tThey accepted\t the case for more sustainable schemes, and agreed\t
+with the outline principle of fewer, larger schemes” \t. [Emphasis added]. \t
+36.
+Regrettably, that final sentence was both inaccurate and misleading. The true position was that the 2
+November meeting was a private briefing about the LAA’s intentions, rather than a meeting to canvass
+views about the merits of the proposition that larger schemes would be more financially viable.
+Whatever the Minister might have wished, the views of the two named professional bodies (and those
+of their constituents) on “\tthe case for more sustainable schemes\t” were not sought, let alone obtained,\t
+and there most certainly was no agreement, in principle or otherwise, with the “outline principle”.
+Indeed, because the meeting was confidential, the representatives of the Law Society and Legal Aid
+Practitioners’ Group (“LAPG”) who attended it were unable to discuss what had been said with their
+members, and therefore they were in no position to express a view about the proposals.
+37.
+The most that could be truthfully said about the outcome of the meeting was that the representatives
+of the Law Society and LAPG voiced no objections to the LAA’s proposals, apart from suggesting that
+their constituents were unlikely to accept the idea of price-competitive tendering. However, since
+their role was just to take note of the information that they were being given, that is hardly surprising.
+Far from endorsing what the LAA was proposing, as the Minister was led to believe, both professional
+groups were strongly opposed to it, as the responses to the consultation ultimately demonstrated.
+38.
+Unfortunately, this is not the only misleading passage in the first Ministerial Submission:
+Paragraph 10 stated that “ \tthere is a measure of agreement that moving delivery of HPCDS services\t
+through fewer larger contracts \tis needed \tto ensure sustainability\t ” [emphasis added]. This suggested\t
+there was a problem with sustainability and that the proposed change was a necessary response to it.
+However, there was no such agreement, there was no known problem in respect of sustainability (on
+the LAA’s own case fewer than 10% of the providers had “anecdotally” withdrawn from a scheme for
+lack of financial viability, and all had been replaced), and the “need” to move to fewer larger contracts
+to ensure future sustainability had not been demonstrated by evidence.
+Paragraph 13 stated that “ \tavailable data indicates many of the schemes have only small volumes of\t
+work and these are unlikely to be commercially viable for providers. \tThis is leading to a lack of\t
+sustainability of these services \twhich has been evident in the ongoing incidence of providers pulling\t
+out of contracts\t ”. [emphasis added] Other than the fact that many of the schemes had small volumes\t
+of work, there was no, or no proper, evidential foundation for those statements.
+
+Paragraph 14 expressly acknowledged that continuity of service had been maintained to date, but “
+the LAA are of the view (and professional groups provisionally agree) that the better course is to take
+the opportunity to consolidate provision into fewer, larger, contracts serving a wider geographic area.
+Moving to larger contracts we hope will provide for greater sustainability, increased efficiencies in the
+delivery of services, greater economies of scale and better value for the tax payer”\t . No explanation\t
+was given for why it was felt that larger contracts would provide for greater sustainability. The
+statement that professional groups provisionally agreed was untrue. The person who drafted it had
+translated the absence of articulated opposition into positive support.
+39.
+The Defendant relied on evidence from, among other civil servants, Mr Thomas Bainbridge, the Head
+of Civil Legal Aid Policy within the MoJ, who was responsible for drafting the consultation document.
+Mr Bainbridge began the drafting process in September 2016. He says that for this purpose he was
+provided with documents setting out the policy discussions in 2015 around the proposed approach for
+tendering HPCDS contracts, and details of the proposed scheme areas. He states that he was “\taware\t
+of the rationale for larger areas and the data which indicated that many of the schemes have only
+small volumes of work and these are unlikely to be economically viable for providers\t”. The data\t
+certainly indicated that many schemes had small volumes of work, but it said nothing at all about
+whether and if so how this impacted on the ability of the service provider to maintain the service to
+the clients at court. The lack of economic viability was an assumption.
+40.
+Mr Bainbridge said in his witness statement that a key rationale for tendering larger schemes was
+better to mitigate against the impact on individual HPCD scheme contracts of future court closures.
+As he put it, “ \tmoving to a procurement area approach, whereby all courts within a specific\t
+geographical boundary must be covered by a single contractual provider, means that should work
+move from one court to another, the impact on the contract may not be as great and that more stable
+service provision would be maintained providing a better service to [HPCD scheme] clients.\t ” \t
+41.
+I find that reasoning difficult to follow, given the way in which the providers and the LAA dealt with
+the impact of such changes under the existing contracts, as described in paragraph 23 above. Mr
+Bainbridge does not explain how in practical terms it was thought that more stable service provision
+would be maintained in such circumstances by having one provider covering a much larger area, with
+the assistance of local agents where necessary. Problems would only arise under the existing system if
+the court to which the work was transferred was not already covered by a HPCD scheme contract,
+and only then if the provider (or agent) who had provided the services at the court which was closed
+was unwilling or unable to provide the services at the new one. There was no evidence that this had
+ever happened.
+42.
+Having a single named provider for a contract covering the wider geographical area might possibly
+reduce or even eliminate amendments to the HPCD scheme contract if one or more courts within that
+area ceased to hear possession lists, but it would be unlikely to make a difference to the provision of
+the services in question. Under the existing schemes there should have been sufficient forewarning to
+make any necessary contractual and practical amendments before the changes were implemented. If,
+under the new scheme, two agents, or the provider and one agent, were already providing the
+services at the two courts concerned, there would still be a need for resolution of whether and how
+the work would be divided up between them when one court ceased hearing possession lists. On the
+
+other hand, if no-one was prepared to cover the court now hearing the possession lists, the problem
+would be exactly the same as it would be if that situation arose under the existing scheme, save that
+in the first instance, at least, it would be for the provider rather than the LAA to try and find a
+solution. Any costs savings to the LAA from the changes were acknowledged internally to be
+“negligible”.
+43.
+The policy consultation was published on 20 January 2017 and closed on 16 March 2017. A deliberate
+decision was taken not to carry out an Equality Impact Assessment (“EIA”) prior to the consultation.
+Mr Bainbridge said that the LAA did not believe that there was an impact on those who access the
+HPCD schemes insofar as the \tlocation \tof the service was concerned because that was determined by\t
+HMCTS, and the client would have to travel to the same court irrespective of whether scheme areas
+were consolidated or tendered for separately. That is a fair point, but the potentially adverse impact
+on clients with protected characteristics of making scheme areas much larger was not confined to
+their having to travel longer distances for the initial court hearing. Mr Bainbridge is silent on the
+question whether any other potentially adverse impacts on people with protected characteristics were
+even considered before the consultation; one purpose of an EIA is to find out if they exist.
+44.
+Confusingly, the consultation document erroneously referred to an “Impact Assessment” as having
+been carried out. Mr Bainbridge helpfully explained that this is a reference to a different type of
+document from an EIA, which is used for different governmental purposes. An Impact Assessment is
+used to assess the impact of non- legislative policy changes in accordance with a methodology set out
+by HM Treasury. In broad terms it sets out the rationale for Government intervention, the policy
+objectives and intended effects, and the relevant costs, benefits and risks. It is not compulsory to
+publish an Impact Assessment for policy changes such as this one, though it was originally intended to
+do so.
+45.
+Mr Bainbridge explained how the error in the consultation document came about. The document was
+drafted using the MoJ’s consultation template, and at the time of drafting, he was expecting that they
+would also draft an Impact Assessment to publish alongside the consultation. However, the Impact
+Assessment had to be put on hold because the tender model had not been developed and without it,
+such an assessment could not be made. By an oversight, the reference to the Impact Assessment (and
+what it was anticipated it would say) remained in the consultation document.
+46.
+The consultation document stated that the Impact Assessment “ \tindicates that those seeking advice\t
+and assistance for a Housing Possession Court Duty matter are not likely to be particularly affected.
+The proposals are unlikely to lead to significant additional costs or savings for businesses, charities or
+the voluntary sector\t ”. The first statement is only true if consideration of the effect of the proposals on\t
+users of the schemes is confined to the continued availability of emergency legal advice and
+representation at court. Users will continue to be provided with those services – but they were not
+lacking in such provision under the existing scheme contracts. As to the magnitude of the additional
+costs to the NfP sector, including the cost impact of providers who were previously contracting
+directly with the LAA becoming agents, no study had been carried out to assess it. Therefore, the LAA
+was in no position to express an informed view as to its significance or lack of significance.
+47.
+
+Paragraph 15 of the consultation document said that “ \tit would appear that the volume of work within\t
+some schemes is not commercially viable\t ”, and that since 2013 it had been necessary for “ \t13\t
+schemes to be retendered in some way\t ” which, according to paragraph 16, had “ \tresulted in an\t
+administrative burden for both providers and the LAA”\t . The implication was that the administrative\t
+burden would be improved by making the size of contract areas larger, whereas in fact the LAA
+proposed to get over the problem of provider withdrawals by including a provision expressly
+prohibiting providers from withdrawing from the contract.
+48.
+In paragraph 22 it was stated that around half the current schemes had “ \tvery low volumes of work,\t
+presenting low economic viability and attractiveness for providers\t ”. Thus, the assumption that small\t
+schemes were economically unsustainable was again presented as an established fact. It was
+suggested that the proposal to decrease the number of contracts would “ \tprovide for increased\t
+efficiencies in the delivery of services, greater economies of scale and better value for the tax payer”\t . \t
+49.
+Even though the erroneous reference to the non-existent Impact Assessment suggested that users of
+the HPCD schemes were “\tnot likely to be particularly affected\t”, the consultation document sought the\t
+views of consultees on what impacts the proposals might have on individuals with protected
+characteristics under the Equality Act. Whilst there is nothing wrong in principle with making such
+inquiries of consultees, they are not to be treated as a substitute for the decision-maker’s own
+investigations and considerations of such likely impacts.
+50.
+The MoJ received 63 responses to the consultation which were collated, discussed and analysed. As
+recognized in the published Consultation Response, entitled “Housing Possession Court Duty Scheme,
+Commissioning Sustainable Services” the overwhelming majority of respondents (i.e. the people
+actually delivering the services), 48 out of the 63, were fundamentally opposed to the proposals. Only
+7 positive responses were received (the remaining 4 consultees expressed no view).
+51.
+Evidence was provided expressly refuting the suggestion that small contracts were not sustainable (in
+either sense in which that term was used by the LAA). Serious concerns were expressed about the
+impact on clients. For example, the LAPG pointed out in its response that there was no necessary link
+between size/volume of cases and sustainability. It stated that a low volume scheme \twould \tbe\t
+sustainable for a provider located close to the court centre with low overheads and good links to other
+local organisations, and that larger schemes were liable to create higher administrative burdens and
+associated costs arising out of more complex rotas, the need to employ more fee-earners, greater
+travel times and the need to arrange for agents to undertake work that the successful bidder could
+not deliver itself. None of these points was expressly addressed in the Consultation Response.
+52.
+Mr Bainbridge drew out what he described as the key themes of the responses in relation to the
+specific questions asked in the consultation paper and summarised them within the first chapter of the
+Consultation Response. That document stated that (notwithstanding the responses) the Defendant
+“remained convinced that moving to larger service delivery areas was the appropriate course of
+action.\t” No further evidence or data was relied on in support of the repeated suggestion that current\t
+HPCD scheme contracts were not commercially viable and that larger contracts were more
+commercially attractive. It was suggested that allowing agency arrangements would overcome many
+
+of the concerns raised by consultees about extensive provider travel and continued access to local
+ongoing advice. No suggestion was made as to how to address those concerns that could not be met
+by using agents.
+53.
+The draft Consultation Response was put before Ministers under cover of a second Ministerial
+Submission dated 29 March 2017. The Minister was told in that document that the timing was
+“urgent” as this would enable the LAA to launch the contract consultation and begin market
+engagement. It was suggested to him that it would be very helpful for the MoJ to write for the
+necessary clearance on 30 March, \ti.e. the following day\t. The draft response was an annexure to the\t
+Ministerial Submission, but the Minister was not given very long to study it and agree the policy.
+54.
+Paragraph 7 of this Ministerial Submission stated that around half the current schemes had very low
+volumes of work “ \tpresenting low economic viability and attractiveness for the contract holders”. \tIn\t
+paragraph 11 of the Ministerial Submission, the Minister was told, truthfully, that the consultation
+paper drew criticism for a lack of explanation as to why larger areas would be more sustainable.
+However, that explanation was not volunteered. Instead, it was proposed that further data on the
+volume of HPCD scheme cases per court would be provided as part of the tender process (i.e. \tafter \t
+the decision to go ahead with the proposals had already been made). The Consultation Response
+stated that “ \tavailable data, which will be shared with those wishing to bid as part of the tender\t
+process, indicates many of the schemes have only small volumes \tand are not commercially viable for\t
+providers\t ” (emphasis added). It stated that “ \tlarger contracts will be more commercially attractive,\t
+[and] will better accommodate further changes to the courts estate whilst making sure that universal
+coverage for those needing advice is maintained.”\t \t
+55.
+So far as the impact on follow-up work was concerned, the Minister was told in Paragraph 17 that:
+“a number of respondents were concerned about “follow-on” business, where a client initially engaged
+through a HPCD scheme contract becomes a client of the firm for a wider range of issues (usually
+legally aided). It was argued that it is an important feature of the client experience and of market
+sustainability and that there was a risk that the larger areas envisioned could limit the potential for
+that important source of continuity (for the client) and income (for the provider, or their agent).\t ” \t
+Whilst the focus of the way in which this point was summarised to the Minister was on the \tcommercial\t
+provider, at least the point was raised – but there was no attempt to provide an answer to it. The
+response in paragraph 25 which points to the ability of clients requiring “ongoing housing advice” to
+choose their provider does not answer the objection. The specific position of the NfP sector and non-
+legally aided follow up services is not considered, and the Minister was not told that NfP
+organisations formed the majority of providers under the existing arrangements.
+56.
+The second Ministerial Submission summarises the response to the LAA’s request for evidence of
+equalities impacts. It correctly states that the majority of respondents were of the view that the
+proposals would disproportionately affect both Legal Aid providers and applicants with protected
+characteristics. There is no attempt to engage in substance with the articulated concerns, or to
+explain how, if at all, they could be overcome, other than the bland assertion that for those who
+qualify for Legal Aid, advice and assistance is available over the phone through the national telephone
+line and that it is possible to transfer a Legally Aided matter to a more local Legal Aid practitioner.
+
+That does not address, for example, the problem of lack of continuity of advice/representation
+identified by the Claimant.
+57.
+Following publication of the Consultation Response the Defendant held a number of “market
+engagement events” to discuss the proposals further before finalising them. Following these events,
+Hammersmith & Fulham Law Centre and Edwards Duthie Solicitors wrote a joint letter to the LAA
+noting that no explanation had been given as to why contracts in London needed to be consolidated in
+the way proposed, when there was no problem with the sustainability of current HPCDS contracts in
+London. They received no satisfactory explanation.
+58.
+The final relevant Ministerial Submission was made on 7 July 2017, to seek the agreement of
+Ministers to the proposed tender approach. Again, it referred to “ \tconcerns about the ongoing\t
+stability of these services\t ”, and whilst acknowledging that continuity of service had been maintained\t
+to date, stated that “ \tthe LAA are of the view that this tender offers the opportunity to improve the\t
+approach.\t ” \t
+59.
+There is no complaint about the nature of the consultation itself, only about the decision to go ahead
+with the proposals and start the tender process without making further enquiries in the light of the
+consultation responses.
+60.
+An EIA was only carried out in October 2017 after the consultation had taken place, and then only in
+consequence of changes to the HPCD scheme wording. The Defendant does not rely on this EIA as
+evidencing the discharge of his duty as it applied to the policy decision to tender fewer, larger
+contracts for the delivery of HPCD services.
+61.
+Although the EIA acknowledged the serious concerns raised by consultees about the impact on, inter
+alia, the elderly, the disabled, those with mental health difficulties, single parents and black and
+minority ethnic service users, it simply repeated what was said in the Consultation Response about
+how sub-contract or agency arrangements would overcome many of those concerns (in fact, sub-
+contracting is not allowed). That does not take into account the fact that agency arrangements are not
+compulsory, and so if the service provider decides not to use an agent, the impact on service users
+cannot be ameliorated in that way. It concluded with the bold statement that “\twe do not anticipate any\t
+risk in relation to unlawful discrimination\t”.\t
+THE IMPACT OF THE DECISIONS\t \t
+62.
+Not all Law Centres who held HPCD scheme contracts felt able to bid for the new contracts. Seven
+Law Centres bid for eight tender areas; in some cases, two Law Centres had no choice but to compete
+against each other for a contract which now covered a much larger geographical area in which they
+had both previously successfully operated a HPCD scheme.
+63.
+The tender process was conducted with remarkable efficiency and was completed before this case
+could be heard. In many areas there was only one bidder who met the tender criteria. A small number
+
+of scheme areas had to be reconfigured and tendered separately in the light of further changes to the
+court closure programme that were announced by HMCTS.
+64.
+In early May 2018, the LAA announced the outcome in respect of 40 of the 47 tender areas. The
+number of providers of services will be broadly similar to the numbers of providers under the pre-
+existing contracts, but only if the agents are counted as providers. There is only one successful bidder
+who has not previously delivered services under a HPCD scheme. Only three Law Centres were
+successful in the tender process, although seven others have been named as agents for other
+successful bidders. Overall, Law Centres will be delivering only 10% of HPCD schemes and the overall
+percentage of such schemes delivered by NfP providers has reduced to 46%.
+65.
+Law Centres who have become agents have no security of tenure. There is evidence that at least some
+of them have been required by their principals to pay them a fee to cover the latter’s administrative
+costs: this may be up to 10% of the Legal Aid fees they receive in respect of the clients to whom they
+give assistance under the HPCD scheme or schemes within the contract area for which they are
+responsible. Irrespective of any such fees, the evidence establishes that in consequence of the
+changes, their income from the HPCD scheme contracts will be severely reduced. For example, in one
+area in the North of England, a Law Centre which is now delivering the same services as agent is
+expecting to receive approximately one third of the annual amount it previously received from the
+HPCD scheme when it was running that scheme as a direct contractor.
+66.
+Although bidders were entitled to reflect any increased cost of delivering the service over a much
+larger area in the prices they bid at in the tender (subject to a so-called “soft” price cap) in practice,
+as Ms Scolding QC very fairly acknowledged in the course of argument, even if the price accepted by
+the LAA was higher than the price that it was previously paying, the net increase in fees for an agent
+was marginal – as she put it, roughly the equivalent of the price of a well-known confectionary bar for
+each act of assistance. I am satisfied that this would not suffice to cover the likely \tactual \tincrease in\t
+cost to the Law Centre of providing the services in a case where it has become an agent – such as all
+the extra costs it has been forced to incur in changing its internal systems for reporting and in
+training staff, and the time spent in reporting to and meeting with its new principals.
+67.
+Another Law Centre which lost out to a commercial provider in the bidding, despite having run the
+HPCD scheme successfully for over 17 years at a major court centre in the Midlands, has estimated
+that it will incur a direct loss of approximately £70,000 in direct annual income and stands to lose at
+least another £10,000 in grants.
+68.
+A further consequential effect of schemes that were previously run by NfP organisations being taken
+over by firms of solicitors, is that the latter will not necessarily be willing or able to provide the “wrap-
+around” follow-up services that the Law Centres have traditionally provided, for which the firm would
+not be paid. Even if they can provide some follow-up, for example in the form of Legal Aid housing
+advice, the firm’s office may well be located many miles away from the client’s home, and the cost of
+travelling there, as opposed to dropping in to the local Law Centre, may be prohibitively expensive.
+69.
+
+Of course, the firm may refer the client to a Law Centre or other NfP organisation for the provision of
+such wrap-around services. The person providing the on-the-day service at court will not necessarily
+contact that organisation on the client’s behalf (though some of them may). The client may well be
+given a list of telephone numbers to ring and left to his or her own devices. Law Centre staff will not
+only know who to contact but will make the call themselves. In many instances there is a real danger
+that the client will not obtain the holistic service previously available, or will be put off by the lack of
+continuity of dealing with the same people. Moreover, the Law Centre may not be able to offer the
+same range of services falling outside the scope of Legal Aid to a client referred to it by a firm of
+solicitors providing the HPCD scheme service, because the severe reduction in its Legal Aid income
+will have a detrimental effect on its ability to raise funds from other sources.
+70.
+Whilst paying lip-service to the valuable work done by Law Centres, the Defendant’s position is that,
+as the tendering process was not about the provision of such wrap- around services, the detrimental
+impact that the decisions and their consequences may have on them cannot be a relevant legal
+consideration. The duty under \tLASPO\t is concerned purely with the provision of Legal Aid. The client\t
+who had access to services under the HPCD scheme under the previous contracts will still have access
+to \tthose \tservices under the new scheme, and that is all that matters.\t
+71.
+Ms Scolding submitted that one difficulty with taking wrap-around services into consideration is that
+commercial providers might then have cause for legitimate complaint that the process would be
+unfairly weighted in favour of the NfP sector (although, ironically, the draft Impact Assessment in this
+case revealed that the LAA was aware that it could be said that the tender process was inherently
+skewed in favour of commercial providers). As for the Law Centres who lost out in the bidding, Ms
+Scolding pointed out that it is in the nature of a competitive tendering process that there will be some
+winners and some losers, and that most of the new contracts were awarded to incumbent providers.
+In answer to this, Mr Coppel QC observed that the LAA’s attitude demonstrates an awareness of the
+cost of everything and the value of nothing.
+72.
+It is important, in a case such as this, to bear in mind the limitations of the Court’s jurisdiction, which
+is one of review. Matters of policy are not for the Court, and whatever one might think of the merits of
+the decisions under challenge or of their consequences, it is no part of the Court’s function to express
+a view about them. I have read a lot of evidence in this case about the practical impact of the
+decisions on individual Law Centres and their clients, and it paints a very dispiriting picture: but very
+little of it is relevant to the issues that I must decide. The Court is only justified in granting relief if it
+is demonstrated, on the balance of probabilities, that there has been one or more material public law
+error. If the decision was one that the Defendant was entitled to reach on the evidence before it, there
+is no basis on which the Court can or should interfere.
+THE LAW\t \t
+73.
+There was no dispute between the parties as to the applicable legal principles, which are well known.
+The duty of a decision maker to take reasonable steps to acquaint itself with relevant material is
+derived from the decision of the House of Lords in \tSecretary of State for Education and Science v.\t
+Tameside Metropolitan Borough Council \t[1977] AC 1014. It is often referred to as the \tTameside \tduty. \t
+74.
+
+Where, as here, a decision maker has a wide discretion conferred by statute, it is for the decision
+maker to decide (a) what factors are relevant or irrelevant, (b) what weight is to be put on them, and
+(c) the manner and intensity of inquiry to be undertaken into any relevant factor accepted or
+demonstrated as such, subject only to \tWednesbury \treview: see \tR(Khatun) v. Newham LBC \t[2005] QB\t
+37\t at [35]. As Laws LJ observed in that case:\t
+“ The court should not intervene merely because it considers that further inquiries would have been
+sensible or desirable. It should intervene only if no reasonable … authority could have been satisfied
+on the basis of the inquiries made.\t ” \t
+75.
+The only area of legal controversy related to the extent of the \tTameside \tduty of inquiry in a case such\t
+as this. Mr Coppel relied on \tR (Refugee Action) v Secretary of State for the Home Department \t[2014]\t
+EWHC 1033 (Admin)\t as authority for the proposition that the extent of the inquiry required by a\t
+decision-maker depends upon the context of the decision, and may be an onerous duty where the
+consequences of the decision are significant. He submitted that here, the court is concerned with
+policy decisions about the provision of state-funded legal advice to some of the most vulnerable people
+in society, and that in that context the duty of inquiry was an onerous one and that the court should be
+astute to ensure that it has been properly discharged.
+76.
+Ms Scolding submitted that the \tRefugee Action \tcase was very different in nature and that this was not\t
+a case about cuts to service provision; therefore, in the absence of clear and cogent evidence of
+irrationality, the court should not interfere. In my judgment, it is unnecessary to resolve this point,
+because even on Ms Scolding’s approach a Defendant cannot satisfy its \tTameside \tduty by making no\t
+relevant inquiries at all, or by confining its inquiries to reliance on “anecdotal evidence” from, at
+most, a handful of former service providers.
+77.
+Ms Scolding also sought to rely upon observations of Sales LJ in \tBirmingham City Council v Wilson \t
+[2016] EWCA Civ 1137\t at [37], that: \t
+“ where the existence or non-existence of a fact is left to the judgment and discretion of a public body
+and that fact involves a broad spectrum ranging from the obvious to the debatable to the just
+conceivable, it is the duty of the court to leave the decision of that fact to the public body to which
+Parliament has entrusted the decision-making power save in a case where it is obvious that the public
+body, consciously or unconsciously are acting perversely”\t . \t
+78.
+It is important not to take those observations out of context; they were addressing the very different
+situation in which a statute provides for certain facts to be established as part of the decision-making
+process. The case concerned the duty of a local authority under \ts.184 of the Housing Act 1996\t which,\t
+in line with its public law \tTameside \tduty, was to take reasonable steps to inform itself of matters\t
+relevant to the assessment of a homeless single mother’s housing application, and to do so in a
+manner that was compatible with the PSED. The mother had sought administrative review of a
+decision to offer her and her children accommodation in a high rise flat. The review officer held that
+the accommodation was suitable. The suitability of the accommodation was the central question of
+fact which the local authority was required by the statute to assess and determine.
+79.
+
+The issue in the case was whether the review officer had failed to make further inquiry in relation to
+evidence that was said to raise a “real possibility” that one of the respondent’s children was disabled,
+which would have been a factor bearing on the issue of suitability. The Court of Appeal asked whether
+the review officer had subjectively considered whether the evidence raised such a “real possibility”,
+and if so, whether he had reached a \tWednesbury \tirrational decision that it did not.\t
+80.
+This case is not dealing with an analogous situation. \tLASPO\t does not require the Defendant to make a\t
+specific fact-finding about the sustainability or viability (in any sense) of HPCD schemes. This is a case
+about the straightforward application of \tTameside \tprinciples. The question here is whether, having\t
+rationally chosen viability/sustainability as a relevant factor, the Defendant had obtained sufficient
+information on that topic to enable him to make a lawful decision that there was a problem and that it
+was necessary (or desirable) to move to bigger scheme areas to overcome it, and whether he had gone
+about his inquiries in a manner that was compatible with the PSED.
+THE CLAIMANT’S CASE
+G ROUND ONE\t : BREACH OF \tT AMESIDE DUTY\t / IRRATIONALITY\t \t
+81.
+The first ground of challenge turned on the narrow question whether the Defendant had any, or any
+sufficient evidence, without making further enquiry, to justify the key premises on which the policy
+was founded, namely, that small schemes were not economically viable or sustainable, and that
+moving to larger scheme contracts (that could be divided between multiple providers) would improve
+their sustainability.
+82.
+Mr Coppel relied on the observations of Sedley LJ in \tR v Parliamentary Commissioner for\t
+Administration ex parte Balchin (No 1) \t[1998] 1 PLR 1 at 13E-F that: \t
+“what the not very apposite term “irrationality” generally means in this branch of the law is a decision
+which does not add up – in which, in other words, there is an error of reasoning which robs the
+decision of logic”.\t \t
+He submitted that the decisions to fix something that was not obviously broken in the first place, were
+based on a flawed and/or un-evidenced justification which “did not add up”. It was assumed by the
+Defendant that because schemes were small, they were not viable, and that was an illogical
+assumption made without any, or any sufficient, supporting evidence.
+83.
+I asked Ms Scolding where the evidence was to justify the finding that small schemes were not
+economically viable (and that it was necessary to replace them with larger schemes). She was unable
+to show me any direct evidence to that effect. However, she submitted that such an inference could be
+legitimately drawn from the data relating to those providers who had withdrawn from the scheme,
+summarised in a table exhibited to the evidence of Ms Beedell, a Senior Commissioning Manager
+within the LAA. Of course, that data only related to a minority of service providers: 90% of the scheme
+contracts, irrespective of size, were operating without any apparent difficulties.
+84.
+Ms Beedell gave evidence about all the pre-existing HPCD scheme contracts where there were
+changes of provider between 2011 and 2017. This demonstrated that in all cases where there was a
+
+withdrawal by a provider in between tenders, the LAA used measures such as “expressions of
+interest” or interim tenders to find alternative providers or awarded the contract to a previously
+unsuccessful bidder who was ranked next in the tender process. Therefore, there was no problem in
+providing continuity of service to clients during that period.
+85.
+As to economic or financial sustainability, although there were 30 changes in that period, five areas
+featured twice, and so only 25 contract areas were affected. In Guildford, the provider withdrew
+because they found out about the independently funded scheme that was operating there. 8 changes
+were brought about because the incumbent provider failed to re-tender or was unsuccessful on re-
+tender in 2013. 6 other withdrawals were brought about by office closures or want of staff. In 3
+further areas the provider decided to withdraw from \tall \tLegal Aid work, not just from HCPD schemes.\t
+Whilst that could give rise to a legitimate inference that the provider was not making enough money
+from Legal Aid, one can draw no logical inference about the role that the HPCD scheme contract
+played in their decision to withdraw, let alone assume that re-arranging scheme areas to allow for a
+greater amount of HPCD work would be a sufficient incentive to make such a provider change its
+mind about resuming Legal Aid work generally.
+86.
+In the remaining areas, no reason at all was recorded for the provider’s withdrawal, so the suggestion
+that they dropped out because the HPCD contract was insufficiently lucrative to make it worth their
+while is pure speculation – and, as will be seen, is demonstrably wrong in some cases. The “anecdotal
+evidence” referred to in the body of the April 2016 paper, is not referred to in any of the statistical
+tables.
+87.
+The LAA carried out no calculations of the financial value of the HPCD scheme contracts to the
+providers until after the hearing of the claim for judicial review, when I was belatedly provided with a
+witness statement from Ms Gemma Jordan, a commissioning manager within the LAA, supplying
+figures for the value of the schemes in Ms Beedell’s table in the year of withdrawal and (where
+applicable) the previous year. Ms Jordan’s evidence showed that in some cases the scheme value in
+the financial year before the provider withdrew was more than in the year in which the provider
+withdrew, whereas in other cases, such as Aylesbury/High Wycombe, and Cambridge, the value to the
+provider had significantly \tincreased \tin the year of withdrawal. There is no obvious pattern. If that\t
+exercise had been carried out before the policy was formulated, it might have given some pause for
+thought about whether it was right to leap to the conclusion that those providers who gave no reason
+for withdrawal did so for financial reasons.
+88.
+Indeed, one of the areas in which no reason for withdrawal is recorded in the table, Lambeth, was a
+large scheme which according to Ms Jordan’s evidence generated almost £80,000 worth of income in
+the year of withdrawal. Another area, Telford in Shropshire, features twice in the table. There were no
+successful bids in the April 2013 tender. In that year, the contract provided income of only £13,136
+but the provider did not withdraw; the contract was one of those re-tendered following \tLASPO\t. In the\t
+subsequent year, when the incumbent provider \tdid \twithdraw, the contract yielded income of £54,351.\t
+The table records that the contract was then awarded to an interested provider in a non-neighbouring
+area. In another area where the reason for withdrawal is not recorded, Maidstone and Medway, the
+scheme area appears to have been a new one (re-drawn in 2013) as there is no income recorded for
+the year prior to withdrawal. The income in the year of withdrawal was £33,141.
+
+89.
+In one of the smallest of the schemes, Cambridge, where there were only 73 acts of assistance in the
+previous year and 163 in the year of withdrawal, the reason given for provider withdrawal was loss of
+the relevant staff member due to organisational re- structuring. Yet two other providers expressed an
+interest in taking over the contract, and the contract was awarded to one of them. Indeed, in all the
+areas where the annual income from HPCD schemes was small – less than £10,000 in some cases –
+including those in which providers withdrew for no recorded reason, the LAA was able to find an
+alternative provider. What the LAA did not have, as Mr Coppel put it, was a cohort of people saying:
+“HPCD schemes are too small, if only they were bigger.”
+90.
+There is no evidence that the LAA ever considered what percentage of the income from Legal Aid
+work given to the provider who withdrew, the HPCD scheme income represented. Ms Scolding
+submitted that it is reasonable to infer that where the income from the scheme was less than £10,000
+it was unlikely to be sustainable given the overheads incurred in running an office and paying staff,
+but the legitimacy of that inference depends on numerous factors, including other income being
+generated by the provider, none of which was investigated. As Mr Coppel pointed out, nobody would
+open an office just to carry out HPCD schemes. Ms Scolding also submitted that the fact that
+providers were giving up fairly quickly was an indication that schemes were insufficiently lucrative –
+but there is no evidence from any of the civil servants involved that they drew that inference from the
+timing of withdrawals.
+91.
+Whilst the conclusions that small schemes were not financially viable and larger schemes were likely
+to be more economically viable for providers are ones that \tmight \tbe reached by a rational decision-\t
+maker, following a proper evidence-based inquiry, they are not so obvious that they can be assumed to
+be right without making any investigation of the financial impact of the proposed changes, which is
+what the Defendant did. As the Claimant (and other consultees) pointed out, larger schemes are likely
+to cost more to staff and administer; and if agents were used as a means of mitigating the cost to a
+provider of long-distance travel which would not be reimbursed, the additional fee income for the
+provider from the larger volume of work, which was supposed to defray the additional costs or make
+the contracts more attractive, will not be received by him. Indeed, as I have already explained, the
+introduction or retention of agents undermines the rationale for the change, as they deprive the new
+provider of most of the extra fee income which is the supposed incentive for taking on the larger
+contract.
+92.
+No attempt was made in this case to work out the actual figures, let alone to carry out any form of
+financial modelling before the decisions under challenge were taken. That did not need to be an
+expensive or sophisticated exercise involving outside consultants. Even the kind of exercise belatedly
+carried out by Ms Jordan might have been informative.
+93.
+I am therefore driven to the conclusion that this decision was one that no reasonable decision-maker
+could reach on the state of the evidence that the LAA had gathered and in the absence of further
+inquiry. On the basis of such evidence as it had gathered, the LAA had no justification for leaping to
+that conclusion. Once the results of the consultation were obtained, there was enough information to
+give the LAA pause for thought about its assumption that bigger is better; but it took the risk of
+proceeding with the recommendation to the Minister without addressing the points made about the
+
+absence of evidence that existing schemes were not financially viable or that increasing the size of the
+areas covered by HPCD scheme contracts would be an improvement. The only response that was
+suggested was that data would be provided to bidders when the policy decision had been made.
+Whilst data could be provided about the size of the pre-existing schemes, no data was available to
+connect small schemes with lack of viability.
+94.
+The Claimant therefore succeeds on this ground. The Defendant failed to discharge his \tTameside \tduty\t
+of inquiry and the decisions he reached in the absence of any evidence to support it were fatally
+flawed.
+G ROUND \t2 – \tBREACH OF THE \tP UBLIC \tS ECTOR \tE QUALITY \tD UTY\t \t
+95.
+The most pertinent provisions of \tSection 149 of the Equality Act 2010\t are as follows:\t
+(1)
+A public authority must, in the exercise of its functions, have due regard to the need to…\t \t
+(b) advance equality of opportunity between persons who share a relevant protected characteristic
+and persons who do not share it…\t \t
+(3) Having due regard to the need to advance equality of opportunity between persons who share a
+relevant protected characteristic and persons who do not share it involves having due regard, in
+particular, to the need to: -\t \t
+(a). remove or minimise \tdisadvantages suffered by persons who share a relevant protected\t
+characteristic that are connected to that characteristic;
+(b) take steps to meet the needs of persons who share a relevant protected characteristic that are
+different from the needs of persons who do not share it…”\t \t
+96.
+The relevant principles relating to the exercise of the PSED are adumbrated by McCombe LJ in
+Bracking v Secretary of State for Work and Pensions \t[2013] EWCA Civ 1345\t at [25]-[26] and were\t
+endorsed by Lord Neuberger in \tHotak v Southwark LBC \t[2016] UKSC 30\t [2016] AC 811\t at [73]. The\t
+duty is personal to the decision maker, who must consciously direct his or her mind to the obligations;
+the exercise is a matter of substance which must be undertaken with rigour, so that there is a proper
+and conscious focus on the statutory criteria and proper appreciation of the potential impact of the
+decision on equality objectives and the desirability of promoting them. Whilst there is no obligation to
+carry out an EIA, if such an assessment is not carried out it may be more difficult to demonstrate
+compliance with the duty. On the other hand, the mere fact that an EIA has been carried out will not
+necessarily suffice to demonstrate compliance.
+97.
+As to the proper approach to be taken by the court, a useful and elegant summary is to be found in the
+earlier judgment of Elias LJ in \tR(Hurley) v Secretary of State for Business Innovation and Skills \t[2012]\t
+EWHC 201 (Admin)\t at [78], a passage that was expressly approved in \tBracking\t . As he concluded: \t
+“ the concept of “due regard” requires the court to ensure that there has been a proper and
+conscientious focus on the statutory criteria… the decision maker must be clear precisely what the
+equality implications are when he puts them in the balance, and he must recognize the desirability of
+
+achieving them, but ultimately it is for him to decide what weight they should be given in the light of
+all relevant factors.\t ” \t
+98.
+Mr Coppel submitted that it was incumbent on the Defendant to give careful, rigorous and open-
+minded consideration to the particular situation of the NfP providers, such as Law Centres, that
+serviced the majority of the existing HPCD scheme contracts, and the likely impact upon their clients,
+many of whom have protected characteristics, when discharging the PSED. There was a real risk of
+negative equality impact from the proposals because of their damaging effects on NfP providers and
+their clients. Yet no-one undertook any inquiry into how NfP providers would be affected, and what
+this might mean in practical terms for their clients. Ministers were not even told that most HPCD
+service contracts were currently being provided by the NfP sector; without such information, they
+could not possibly apply their minds to proper consideration of how the decisions might impact on the
+services provided to clients with protected characteristics by such organisations.
+99.
+The way in which the LAA approached the discharge of the PSED flows from Mr Bainbridge’s facile
+assumption that if the users of the service were still going to be able to access legal advice and
+representation at court when the scheme areas were re- drawn, the PSED would not otherwise be
+engaged. Mr Coppel contended that that approach was too narrow. It is accepted by the Defendant
+that a significant number of those using the HPCD schemes have protected characteristics, though
+the inquiry that led to that concession was only carried out retrospectively. There is no evidence that
+it even occurred to the LAA prior to the consultation that if a Law Centre could not bid for a larger
+contract, or bid and failed, or could only act as an agent, the financial impact might be to force
+closure or, at the very least, further curtail the “wrap around” services which actually addressed the
+causes of the crisis leading to the possession application, would plainly have an adverse effect on its
+clients. When evidence of this impact was provided in the consultation responses it was not properly
+engaged with.
+100.
+Ms Scolding’s response that the number of clients with protected characteristics will be the same
+irrespective of whether the provider is a solicitors’ firm or a NfP organisation, with respect, misses
+the point even if it is correct (the Claimant takes issue with that analysis). It is beyond argument that
+users of the HPCD schemes disproportionately have protected characteristics; the impact of the
+decisions under challenge is that some of them will get a worse service overall because whilst they
+will get the same assistance as before at court, they will not have the same access to the follow-up
+“wraparound” services which local Law Centres were providing to them under the previous system.
+Whilst that problem might be tempered to some extent if the Law Centre is an agent for the new
+provider, it will not be if the Law Centre closes or lays off more staff because of the adverse impact on
+its income. There is no obligation on the provider to use an agent, and the NfP agent will not have the
+same income from the HPCD scheme as it did before.
+101.
+Whilst Ms Scolding could fairly point to the fact that the impact on “wrap around” services for
+vulnerable clients and the potential outcome that they might end up homeless when that could have
+been avoided, was not the \tmain \tpoint highlighted in the consultation response, and that the focus\t
+appeared to be on the cost and practicalities of travel, it does not follow that the Defendant or the civil
+servants advising him could ignore it with impunity. Many of the arguments on this topic raised by the
+consultees were mentioned, but not directly addressed.
+
+102.
+That does not mean that the decision maker could not reach a lawful decision that had such an
+adverse impact, or which took the risk of causing such an impact; but the PSED requires that he must
+take that decision in the knowledge of its potential effects on those with protected characteristics and
+after having given them due consideration. That did not happen in this case.
+103.
+The only evidence of any assessment of the equality impact of the decisions under challenge was the
+“equality statement” contained in the consultation response, and that did not consider these matters.
+Nor did it purport to address all the equality concerns raised by consultees. In the light of the scant
+information with which the relevant Ministers were provided, they cannot personally have had due
+regard to the relevant equality impact issues. The Ministerial Submission of 29 March 2017 contained
+less analysis and information than the “equality statement” in the draft consultation response, and the
+final Ministerial Submission of 7 July 2017 said nothing at all about the PSED.
+104.
+In my judgment if, as is the case, there is a real risk that in consequence of the restructuring of
+scheme areas, clients using the HPCD service will no longer have the same access to the “wrap
+around” services that are not covered by Legal Aid and which may make all the difference to whether
+they end up homeless and destitute, that is something that the Ministers should have been made
+aware of, and should have given due regard. I accept, of course, that the concept of “due regard” is
+not the same as a requirement to give PSED considerations any specific weight. Weight is a matter for
+the decision maker alone.
+105.
+However, in this case, I regret to say that the evidence falls a long way short of demonstrating that
+any Minister (in person) gave due regard to the equality impact of the proposed changes. This is
+because the information collated by the LAA and placed in summary form before the Minister failed to
+identify in sufficiently unambiguous terms all the adverse effects that the proposed changes could
+have on users of the service (whose constituents contain a disproportionate number of people with
+protected characteristics under the Act). It portrayed the potential for agency arrangements as the
+cure for all ills, which it patently is not, and it failed to spell out what could happen if an agent were
+not used, or what the position would be in respect of those matters it had identified for which the
+ability to use agency services would not provide an answer.
+106.
+Paragraphs 30-32 of the Ministerial Submission of 29 March 2017 are brief, and they are superficial.
+In my judgment they are woefully inadequate to bring home to the decision-maker all the information
+necessary to enable him to discharge the duty. The fact that the Minister was sent a copy of the draft
+Consultation Response as an attachment to that Submission does not make the Defendant’s position
+any stronger. I have already mentioned the fact that the Minister was asked to provide an answer
+within 24 hours, which would hardly have been sufficient time to carry out a proper consideration of
+PSED factors even if he had been fully and properly briefed, which he was not. Therefore, the second
+ground of challenge to the decision is also made out.
+WHAT RELIEF SHOULD BE GRANTED?\t \t
+107.
+Ms Scolding urged the Court, even if it came to the conclusion that the decisions were unlawful, not
+to quash them and remit them for reconsideration as a matter of discretion because of the
+
+administrative inconvenience and prejudice to third parties (including those who successfully
+tendered) that this could cause. She submitted that declaratory relief would suffice to mark the
+finding by the Court that the decisions were not lawfully taken. However, she felt unable to submit
+that even if the Defendant had gone about things in the right way, the same decisions would have
+been reached.
+108.
+I do understand the Defendant’s position, given that the tender process is now complete, and the new
+contracts have been awarded; but a wrong should not go without a remedy save in very exceptional
+circumstances, and this is not the type of case in which to deny the successful Claimant the normal
+order. If there had simply been an assumption made without evidence that small contracts were not
+financially viable, and the evidence in support of that assumption had emerged in the course of the
+proceedings, and there had been no breach of the PSED, then I might have been more sympathetic to
+Ms Scolding’s submission. As things stand, I cannot accede to it. The decisions must be quashed and
+the matter remitted to the Defendant for reconsideration.
